@@ -22,7 +22,7 @@ class FabSimulationTests(unittest.TestCase):
             PROJECT_ROOT / "data" / "simulation_parameters.csv"
         )
 
-        self.assertEqual(parameters.lots_per_shift, 6)
+        self.assertEqual(parameters.lots_per_shift, 20)
         self.assertEqual(parameters.duration_hours, 168)
         self.assertEqual(parameters.wafers_per_lot, 25)
         self.assertEqual(parameters.wait_for_full_batch_mins, 30)
