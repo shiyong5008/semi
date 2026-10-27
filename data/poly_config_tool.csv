@@ -1,0 +1,4 @@
+tool_id,tool_cat,vendor,chambers_per_tool,run_count_flag,pm_run_count,time_count_flag,pm_mins_count,pm_duration_mins
+STG907,virtual,virtual,999999,n,999999,n,999999,1
+VFP701,furnace,ASM,1,y,20,y,10080,480
+VFP702,furnace,ASM,1,y,20,y,10080,480

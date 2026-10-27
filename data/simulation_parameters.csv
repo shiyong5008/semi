@@ -1,0 +1,6 @@
+parameter,value
+lots_per_shift,20
+duration_hours,168
+wafers_per_lot,25
+op_908_wait_for_third_lot_mins,30
+random_seed,1

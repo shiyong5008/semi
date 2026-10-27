@@ -1,0 +1,4 @@
+tool_id,ops_id,batch_size_min,batch_size_max,proc_time_per_load_mins
+STG907,907,1,999999,1
+VFP701,908,37,75,360
+VFP702,908,37,75,360

@@ -1,0 +1,2912 @@
+time_minutes,entity_type,entity_id,event,operation_id,tool_id,lot_ids,status,details
+5.194,lot,Lot101,created,,,,active,25 wafers
+5.194,lot,Lot101,moved into operation,907,,,active,
+5.194,lot,Lot101,processing started,907,STG907,Lot101,active,
+5.194,tool,STG907,in process,907,STG907,Lot101,,1 lot
+6.194,lot,Lot101,processing completed,907,STG907,Lot101,active,
+6.194,tool,STG907,process completed,907,STG907,Lot101,,
+6.194,lot,Lot101,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6.194,lot,Lot101,moved into operation,908,,,active,
+72.88,lot,Lot102,created,,,,active,25 wafers
+72.88,lot,Lot102,moved into operation,907,,,active,
+72.88,lot,Lot102,processing started,907,STG907,Lot102,active,
+72.88,tool,STG907,in process,907,STG907,Lot102,,1 lot
+73.88,lot,Lot102,processing completed,907,STG907,Lot102,active,
+73.88,tool,STG907,process completed,907,STG907,Lot102,,
+73.88,lot,Lot102,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+73.88,lot,Lot102,moved into operation,908,,,active,
+103.88,tool,VFP701,batch dispatched,908,VFP701,Lot101;Lot102,,2 lots
+103.88,lot,Lot101,processing started,908,VFP701,Lot101;Lot102,active,
+103.88,lot,Lot102,processing started,908,VFP701,Lot101;Lot102,active,
+103.88,tool,VFP701,in process,908,VFP701,Lot101;Lot102,,
+124.827,lot,Lot103,created,,,,active,25 wafers
+124.827,lot,Lot103,moved into operation,907,,,active,
+124.827,lot,Lot103,processing started,907,STG907,Lot103,active,
+124.827,tool,STG907,in process,907,STG907,Lot103,,1 lot
+125.827,lot,Lot103,processing completed,907,STG907,Lot103,active,
+125.827,tool,STG907,process completed,907,STG907,Lot103,,
+125.827,lot,Lot103,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+125.827,lot,Lot103,moved into operation,908,,,active,
+135.428,lot,Lot104,created,,,,active,25 wafers
+135.428,lot,Lot104,moved into operation,907,,,active,
+135.428,lot,Lot104,processing started,907,STG907,Lot104,active,
+135.428,tool,STG907,in process,907,STG907,Lot104,,1 lot
+136.428,lot,Lot104,processing completed,907,STG907,Lot104,active,
+136.428,tool,STG907,process completed,907,STG907,Lot104,,
+136.428,lot,Lot104,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+136.428,lot,Lot104,moved into operation,908,,,active,
+160.054,lot,Lot105,created,,,,active,25 wafers
+160.054,lot,Lot105,moved into operation,907,,,active,
+160.054,lot,Lot105,processing started,907,STG907,Lot105,active,
+160.054,tool,STG907,in process,907,STG907,Lot105,,1 lot
+161.054,lot,Lot105,processing completed,907,STG907,Lot105,active,
+161.054,tool,STG907,process completed,907,STG907,Lot105,,
+161.054,lot,Lot105,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+161.054,lot,Lot105,moved into operation,908,,,active,
+161.054,tool,VFP702,batch dispatched,908,VFP702,Lot103;Lot104;Lot105,,3 lots
+161.054,lot,Lot103,processing started,908,VFP702,Lot103;Lot104;Lot105,active,
+161.054,lot,Lot104,processing started,908,VFP702,Lot103;Lot104;Lot105,active,
+161.054,lot,Lot105,processing started,908,VFP702,Lot103;Lot104;Lot105,active,
+161.054,tool,VFP702,in process,908,VFP702,Lot103;Lot104;Lot105,,
+181.543,lot,Lot106,created,,,,active,25 wafers
+181.543,lot,Lot106,moved into operation,907,,,active,
+181.543,lot,Lot106,processing started,907,STG907,Lot106,active,
+181.543,tool,STG907,in process,907,STG907,Lot106,,1 lot
+182.543,lot,Lot106,processing completed,907,STG907,Lot106,active,
+182.543,tool,STG907,process completed,907,STG907,Lot106,,
+182.543,lot,Lot106,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+182.543,lot,Lot106,moved into operation,908,,,active,
+219.5,lot,Lot107,created,,,,active,25 wafers
+219.5,lot,Lot107,moved into operation,907,,,active,
+219.5,lot,Lot107,processing started,907,STG907,Lot107,active,
+219.5,tool,STG907,in process,907,STG907,Lot107,,1 lot
+220.5,lot,Lot107,processing completed,907,STG907,Lot107,active,
+220.5,tool,STG907,process completed,907,STG907,Lot107,,
+220.5,lot,Lot107,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+220.5,lot,Lot107,moved into operation,908,,,active,
+250.5,tool,VFP701,batch dispatched,908,VFP701,Lot106;Lot107,,2 lots
+275.466,lot,Lot108,created,,,,active,25 wafers
+275.466,lot,Lot108,moved into operation,907,,,active,
+275.466,lot,Lot108,processing started,907,STG907,Lot108,active,
+275.466,tool,STG907,in process,907,STG907,Lot108,,1 lot
+276.466,lot,Lot108,processing completed,907,STG907,Lot108,active,
+276.466,tool,STG907,process completed,907,STG907,Lot108,,
+276.466,lot,Lot108,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+276.466,lot,Lot108,moved into operation,908,,,active,
+279.014,lot,Lot109,created,,,,active,25 wafers
+279.014,lot,Lot109,moved into operation,907,,,active,
+279.014,lot,Lot109,processing started,907,STG907,Lot109,active,
+279.014,tool,STG907,in process,907,STG907,Lot109,,1 lot
+280.014,lot,Lot109,processing completed,907,STG907,Lot109,active,
+280.014,tool,STG907,process completed,907,STG907,Lot109,,
+280.014,lot,Lot109,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+280.014,lot,Lot109,moved into operation,908,,,active,
+280.049,lot,Lot110,created,,,,active,25 wafers
+280.049,lot,Lot110,moved into operation,907,,,active,
+280.049,lot,Lot110,processing started,907,STG907,Lot110,active,
+280.049,tool,STG907,in process,907,STG907,Lot110,,1 lot
+281.049,lot,Lot110,processing completed,907,STG907,Lot110,active,
+281.049,tool,STG907,process completed,907,STG907,Lot110,,
+281.049,lot,Lot110,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+281.049,lot,Lot110,moved into operation,908,,,active,
+281.049,tool,VFP702,batch dispatched,908,VFP702,Lot108;Lot109;Lot110,,3 lots
+345.081,lot,Lot111,created,,,,active,25 wafers
+345.081,lot,Lot111,moved into operation,907,,,active,
+345.081,lot,Lot111,processing started,907,STG907,Lot111,active,
+345.081,tool,STG907,in process,907,STG907,Lot111,,1 lot
+346.081,lot,Lot111,processing completed,907,STG907,Lot111,active,
+346.081,tool,STG907,process completed,907,STG907,Lot111,,
+346.081,lot,Lot111,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+346.081,lot,Lot111,moved into operation,908,,,active,
+365.493,lot,Lot112,created,,,,active,25 wafers
+365.493,lot,Lot112,moved into operation,907,,,active,
+365.493,lot,Lot112,processing started,907,STG907,Lot112,active,
+365.493,tool,STG907,in process,907,STG907,Lot112,,1 lot
+366.493,lot,Lot112,processing completed,907,STG907,Lot112,active,
+366.493,tool,STG907,process completed,907,STG907,Lot112,,
+366.493,lot,Lot112,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+366.493,lot,Lot112,moved into operation,908,,,active,
+396.493,tool,VFP701,batch dispatched,908,VFP701,Lot111;Lot112,,2 lots
+417.213,lot,Lot113,created,,,,active,25 wafers
+417.213,lot,Lot113,moved into operation,907,,,active,
+417.213,lot,Lot113,processing started,907,STG907,Lot113,active,
+417.213,tool,STG907,in process,907,STG907,Lot113,,1 lot
+417.289,lot,Lot114,created,,,,active,25 wafers
+417.289,lot,Lot114,moved into operation,907,,,active,
+417.289,lot,Lot114,processing started,907,STG907,Lot114,active,
+417.289,tool,STG907,in process,907,STG907,Lot114,,1 lot
+418.213,lot,Lot113,processing completed,907,STG907,Lot113,active,
+418.213,tool,STG907,process completed,907,STG907,Lot113,,
+418.213,lot,Lot113,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+418.213,lot,Lot113,moved into operation,908,,,active,
+418.289,lot,Lot114,processing completed,907,STG907,Lot114,active,
+418.289,tool,STG907,process completed,907,STG907,Lot114,,
+418.289,lot,Lot114,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+418.289,lot,Lot114,moved into operation,908,,,active,
+438.51,lot,Lot115,created,,,,active,25 wafers
+438.51,lot,Lot115,moved into operation,907,,,active,
+438.51,lot,Lot115,processing started,907,STG907,Lot115,active,
+438.51,tool,STG907,in process,907,STG907,Lot115,,1 lot
+439.51,lot,Lot115,processing completed,907,STG907,Lot115,active,
+439.51,tool,STG907,process completed,907,STG907,Lot115,,
+439.51,lot,Lot115,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+439.51,lot,Lot115,moved into operation,908,,,active,
+439.51,tool,VFP702,batch dispatched,908,VFP702,Lot113;Lot114;Lot115,,3 lots
+463.88,lot,Lot101,processing completed,908,VFP701,Lot101;Lot102,active,
+463.88,lot,Lot101,moved out of operation,908,,,active,operation elapsed 457.7 min; limit 720 min
+463.88,lot,Lot102,processing completed,908,VFP701,Lot101;Lot102,active,
+463.88,lot,Lot102,moved out of operation,908,,,active,operation elapsed 390.0 min; limit 720 min
+463.88,tool,VFP701,process completed,908,VFP701,Lot101;Lot102,,
+463.88,lot,Lot106,processing started,908,VFP701,Lot106;Lot107,active,
+463.88,lot,Lot107,processing started,908,VFP701,Lot106;Lot107,active,
+463.88,tool,VFP701,in process,908,VFP701,Lot106;Lot107,,
+484.535,lot,Lot116,created,,,,active,25 wafers
+484.535,lot,Lot116,moved into operation,907,,,active,
+484.535,lot,Lot116,processing started,907,STG907,Lot116,active,
+484.535,tool,STG907,in process,907,STG907,Lot116,,1 lot
+485.535,lot,Lot116,processing completed,907,STG907,Lot116,active,
+485.535,tool,STG907,process completed,907,STG907,Lot116,,
+485.535,lot,Lot116,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+485.535,lot,Lot116,moved into operation,908,,,active,
+493.887,lot,Lot117,created,,,,active,25 wafers
+493.887,lot,Lot117,moved into operation,907,,,active,
+493.887,lot,Lot117,processing started,907,STG907,Lot117,active,
+493.887,tool,STG907,in process,907,STG907,Lot117,,1 lot
+494.887,lot,Lot117,processing completed,907,STG907,Lot117,active,
+494.887,tool,STG907,process completed,907,STG907,Lot117,,
+494.887,lot,Lot117,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+494.887,lot,Lot117,moved into operation,908,,,active,
+521.054,lot,Lot103,processing completed,908,VFP702,Lot103;Lot104;Lot105,active,
+521.054,lot,Lot103,moved out of operation,908,,,active,operation elapsed 395.2 min; limit 720 min
+521.054,lot,Lot104,processing completed,908,VFP702,Lot103;Lot104;Lot105,active,
+521.054,lot,Lot104,moved out of operation,908,,,active,operation elapsed 384.6 min; limit 720 min
+521.054,lot,Lot105,processing completed,908,VFP702,Lot103;Lot104;Lot105,active,
+521.054,lot,Lot105,moved out of operation,908,,,active,operation elapsed 360.0 min; limit 720 min
+521.054,tool,VFP702,process completed,908,VFP702,Lot103;Lot104;Lot105,,
+521.054,lot,Lot108,processing started,908,VFP702,Lot108;Lot109;Lot110,active,
+521.054,lot,Lot109,processing started,908,VFP702,Lot108;Lot109;Lot110,active,
+521.054,lot,Lot110,processing started,908,VFP702,Lot108;Lot109;Lot110,active,
+521.054,tool,VFP702,in process,908,VFP702,Lot108;Lot109;Lot110,,
+524.887,tool,VFP701,batch dispatched,908,VFP701,Lot116;Lot117,,2 lots
+598.48,lot,Lot118,created,,,,active,25 wafers
+598.48,lot,Lot118,moved into operation,907,,,active,
+598.48,lot,Lot118,processing started,907,STG907,Lot118,active,
+598.48,tool,STG907,in process,907,STG907,Lot118,,1 lot
+599.48,lot,Lot118,processing completed,907,STG907,Lot118,active,
+599.48,tool,STG907,process completed,907,STG907,Lot118,,
+599.48,lot,Lot118,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+599.48,lot,Lot118,moved into operation,908,,,active,
+681.89,lot,Lot119,created,,,,active,25 wafers
+681.89,lot,Lot119,moved into operation,907,,,active,
+681.89,lot,Lot119,processing started,907,STG907,Lot119,active,
+681.89,tool,STG907,in process,907,STG907,Lot119,,1 lot
+682.89,lot,Lot119,processing completed,907,STG907,Lot119,active,
+682.89,tool,STG907,process completed,907,STG907,Lot119,,
+682.89,lot,Lot119,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+682.89,lot,Lot119,moved into operation,908,,,active,
+683.009,lot,Lot120,created,,,,active,25 wafers
+683.009,lot,Lot120,moved into operation,907,,,active,
+683.009,lot,Lot120,processing started,907,STG907,Lot120,active,
+683.009,tool,STG907,in process,907,STG907,Lot120,,1 lot
+683.937,lot,Lot121,created,,,,active,25 wafers
+683.937,lot,Lot121,moved into operation,907,,,active,
+683.937,lot,Lot121,processing started,907,STG907,Lot121,active,
+683.937,tool,STG907,in process,907,STG907,Lot121,,1 lot
+684.009,lot,Lot120,processing completed,907,STG907,Lot120,active,
+684.009,tool,STG907,process completed,907,STG907,Lot120,,
+684.009,lot,Lot120,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+684.009,lot,Lot120,moved into operation,908,,,active,
+684.009,tool,VFP702,batch dispatched,908,VFP702,Lot118;Lot119;Lot120,,3 lots
+684.937,lot,Lot121,processing completed,907,STG907,Lot121,active,
+684.937,tool,STG907,process completed,907,STG907,Lot121,,
+684.937,lot,Lot121,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+684.937,lot,Lot121,moved into operation,908,,,active,
+712.002,lot,Lot122,created,,,,active,25 wafers
+712.002,lot,Lot122,moved into operation,907,,,active,
+712.002,lot,Lot122,processing started,907,STG907,Lot122,active,
+712.002,tool,STG907,in process,907,STG907,Lot122,,1 lot
+713.002,lot,Lot122,processing completed,907,STG907,Lot122,active,
+713.002,tool,STG907,process completed,907,STG907,Lot122,,
+713.002,lot,Lot122,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+713.002,lot,Lot122,moved into operation,908,,,active,
+743.002,tool,VFP701,batch dispatched,908,VFP701,Lot121;Lot122,,2 lots
+812.778,lot,Lot123,created,,,,active,25 wafers
+812.778,lot,Lot123,moved into operation,907,,,active,
+812.778,lot,Lot123,processing started,907,STG907,Lot123,active,
+812.778,tool,STG907,in process,907,STG907,Lot123,,1 lot
+813.778,lot,Lot123,processing completed,907,STG907,Lot123,active,
+813.778,tool,STG907,process completed,907,STG907,Lot123,,
+813.778,lot,Lot123,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+813.778,lot,Lot123,moved into operation,908,,,active,
+823.88,lot,Lot106,processing completed,908,VFP701,Lot106;Lot107,active,
+823.88,lot,Lot106,moved out of operation,908,,,active,operation elapsed 641.3 min; limit 720 min
+823.88,lot,Lot107,processing completed,908,VFP701,Lot106;Lot107,active,
+823.88,lot,Lot107,moved out of operation,908,,,active,operation elapsed 603.4 min; limit 720 min
+823.88,tool,VFP701,process completed,908,VFP701,Lot106;Lot107,,
+823.88,lot,Lot111,processing started,908,VFP701,Lot111;Lot112,active,
+823.88,lot,Lot112,processing started,908,VFP701,Lot111;Lot112,active,
+823.88,tool,VFP701,in process,908,VFP701,Lot111;Lot112,,
+830.057,lot,Lot124,created,,,,active,25 wafers
+830.057,lot,Lot124,moved into operation,907,,,active,
+830.057,lot,Lot124,processing started,907,STG907,Lot124,active,
+830.057,tool,STG907,in process,907,STG907,Lot124,,1 lot
+831.057,lot,Lot124,processing completed,907,STG907,Lot124,active,
+831.057,tool,STG907,process completed,907,STG907,Lot124,,
+831.057,lot,Lot124,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+831.057,lot,Lot124,moved into operation,908,,,active,
+838.845,lot,Lot125,created,,,,active,25 wafers
+838.845,lot,Lot125,moved into operation,907,,,active,
+838.845,lot,Lot125,processing started,907,STG907,Lot125,active,
+838.845,tool,STG907,in process,907,STG907,Lot125,,1 lot
+839.845,lot,Lot125,processing completed,907,STG907,Lot125,active,
+839.845,tool,STG907,process completed,907,STG907,Lot125,,
+839.845,lot,Lot125,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+839.845,lot,Lot125,moved into operation,908,,,active,
+839.845,tool,VFP702,batch dispatched,908,VFP702,Lot123;Lot124;Lot125,,3 lots
+858.587,lot,Lot126,created,,,,active,25 wafers
+858.587,lot,Lot126,moved into operation,907,,,active,
+858.587,lot,Lot126,processing started,907,STG907,Lot126,active,
+858.587,tool,STG907,in process,907,STG907,Lot126,,1 lot
+859.587,lot,Lot126,processing completed,907,STG907,Lot126,active,
+859.587,tool,STG907,process completed,907,STG907,Lot126,,
+859.587,lot,Lot126,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+859.587,lot,Lot126,moved into operation,908,,,active,
+859.648,lot,Lot127,created,,,,active,25 wafers
+859.648,lot,Lot127,moved into operation,907,,,active,
+859.648,lot,Lot127,processing started,907,STG907,Lot127,active,
+859.648,tool,STG907,in process,907,STG907,Lot127,,1 lot
+860.648,lot,Lot127,processing completed,907,STG907,Lot127,active,
+860.648,tool,STG907,process completed,907,STG907,Lot127,,
+860.648,lot,Lot127,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+860.648,lot,Lot127,moved into operation,908,,,active,
+868.671,lot,Lot128,created,,,,active,25 wafers
+868.671,lot,Lot128,moved into operation,907,,,active,
+868.671,lot,Lot128,processing started,907,STG907,Lot128,active,
+868.671,tool,STG907,in process,907,STG907,Lot128,,1 lot
+869.671,lot,Lot128,processing completed,907,STG907,Lot128,active,
+869.671,tool,STG907,process completed,907,STG907,Lot128,,
+869.671,lot,Lot128,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+869.671,lot,Lot128,moved into operation,908,,,active,
+869.671,tool,VFP701,batch dispatched,908,VFP701,Lot126;Lot127;Lot128,,3 lots
+881.054,lot,Lot108,processing completed,908,VFP702,Lot108;Lot109;Lot110,active,
+881.054,lot,Lot108,moved out of operation,908,,,active,operation elapsed 604.6 min; limit 720 min
+881.054,lot,Lot109,processing completed,908,VFP702,Lot108;Lot109;Lot110,active,
+881.054,lot,Lot109,moved out of operation,908,,,active,operation elapsed 601.0 min; limit 720 min
+881.054,lot,Lot110,processing completed,908,VFP702,Lot108;Lot109;Lot110,active,
+881.054,lot,Lot110,moved out of operation,908,,,active,operation elapsed 600.0 min; limit 720 min
+881.054,tool,VFP702,process completed,908,VFP702,Lot108;Lot109;Lot110,,
+881.054,lot,Lot113,processing started,908,VFP702,Lot113;Lot114;Lot115,active,
+881.054,lot,Lot114,processing started,908,VFP702,Lot113;Lot114;Lot115,active,
+881.054,lot,Lot115,processing started,908,VFP702,Lot113;Lot114;Lot115,active,
+881.054,tool,VFP702,in process,908,VFP702,Lot113;Lot114;Lot115,,
+889.409,lot,Lot129,created,,,,active,25 wafers
+889.409,lot,Lot129,moved into operation,907,,,active,
+889.409,lot,Lot129,processing started,907,STG907,Lot129,active,
+889.409,tool,STG907,in process,907,STG907,Lot129,,1 lot
+890.409,lot,Lot129,processing completed,907,STG907,Lot129,active,
+890.409,tool,STG907,process completed,907,STG907,Lot129,,
+890.409,lot,Lot129,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+890.409,lot,Lot129,moved into operation,908,,,active,
+914.062,lot,Lot130,created,,,,active,25 wafers
+914.062,lot,Lot130,moved into operation,907,,,active,
+914.062,lot,Lot130,processing started,907,STG907,Lot130,active,
+914.062,tool,STG907,in process,907,STG907,Lot130,,1 lot
+915.062,lot,Lot130,processing completed,907,STG907,Lot130,active,
+915.062,tool,STG907,process completed,907,STG907,Lot130,,
+915.062,lot,Lot130,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+915.062,lot,Lot130,moved into operation,908,,,active,
+923.616,lot,Lot131,created,,,,active,25 wafers
+923.616,lot,Lot131,moved into operation,907,,,active,
+923.616,lot,Lot131,processing started,907,STG907,Lot131,active,
+923.616,tool,STG907,in process,907,STG907,Lot131,,1 lot
+924.616,lot,Lot131,processing completed,907,STG907,Lot131,active,
+924.616,tool,STG907,process completed,907,STG907,Lot131,,
+924.616,lot,Lot131,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+924.616,lot,Lot131,moved into operation,908,,,active,
+924.616,tool,VFP702,batch dispatched,908,VFP702,Lot129;Lot130;Lot131,,3 lots
+933.065,lot,Lot132,created,,,,active,25 wafers
+933.065,lot,Lot132,moved into operation,907,,,active,
+933.065,lot,Lot132,processing started,907,STG907,Lot132,active,
+933.065,tool,STG907,in process,907,STG907,Lot132,,1 lot
+934.065,lot,Lot132,processing completed,907,STG907,Lot132,active,
+934.065,tool,STG907,process completed,907,STG907,Lot132,,
+934.065,lot,Lot132,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+934.065,lot,Lot132,moved into operation,908,,,active,
+941.954,lot,Lot133,created,,,,active,25 wafers
+941.954,lot,Lot133,moved into operation,907,,,active,
+941.954,lot,Lot133,processing started,907,STG907,Lot133,active,
+941.954,tool,STG907,in process,907,STG907,Lot133,,1 lot
+942.954,lot,Lot133,processing completed,907,STG907,Lot133,active,
+942.954,tool,STG907,process completed,907,STG907,Lot133,,
+942.954,lot,Lot133,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+942.954,lot,Lot133,moved into operation,908,,,active,
+964.11,lot,Lot134,created,,,,active,25 wafers
+964.11,lot,Lot134,moved into operation,907,,,active,
+964.11,lot,Lot134,processing started,907,STG907,Lot134,active,
+964.11,tool,STG907,in process,907,STG907,Lot134,,1 lot
+965.11,lot,Lot134,processing completed,907,STG907,Lot134,active,
+965.11,tool,STG907,process completed,907,STG907,Lot134,,
+965.11,lot,Lot134,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+965.11,lot,Lot134,moved into operation,908,,,active,
+965.11,tool,VFP701,batch dispatched,908,VFP701,Lot132;Lot133;Lot134,,3 lots
+976.429,lot,Lot135,created,,,,active,25 wafers
+976.429,lot,Lot135,moved into operation,907,,,active,
+976.429,lot,Lot135,processing started,907,STG907,Lot135,active,
+976.429,tool,STG907,in process,907,STG907,Lot135,,1 lot
+977.211,lot,Lot136,created,,,,active,25 wafers
+977.211,lot,Lot136,moved into operation,907,,,active,
+977.211,lot,Lot136,processing started,907,STG907,Lot136,active,
+977.211,tool,STG907,in process,907,STG907,Lot136,,1 lot
+977.429,lot,Lot135,processing completed,907,STG907,Lot135,active,
+977.429,tool,STG907,process completed,907,STG907,Lot135,,
+977.429,lot,Lot135,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+977.429,lot,Lot135,moved into operation,908,,,active,
+978.211,lot,Lot136,processing completed,907,STG907,Lot136,active,
+978.211,tool,STG907,process completed,907,STG907,Lot136,,
+978.211,lot,Lot136,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+978.211,lot,Lot136,moved into operation,908,,,active,
+1008.211,tool,VFP702,batch dispatched,908,VFP702,Lot135;Lot136,,2 lots
+1042.643,lot,Lot137,created,,,,active,25 wafers
+1042.643,lot,Lot137,moved into operation,907,,,active,
+1042.643,lot,Lot137,processing started,907,STG907,Lot137,active,
+1042.643,tool,STG907,in process,907,STG907,Lot137,,1 lot
+1043.643,lot,Lot137,processing completed,907,STG907,Lot137,active,
+1043.643,tool,STG907,process completed,907,STG907,Lot137,,
+1043.643,lot,Lot137,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1043.643,lot,Lot137,moved into operation,908,,,active,
+1071.909,lot,Lot138,created,,,,active,25 wafers
+1071.909,lot,Lot138,moved into operation,907,,,active,
+1071.909,lot,Lot138,processing started,907,STG907,Lot138,active,
+1071.909,tool,STG907,in process,907,STG907,Lot138,,1 lot
+1072.909,lot,Lot138,processing completed,907,STG907,Lot138,active,
+1072.909,tool,STG907,process completed,907,STG907,Lot138,,
+1072.909,lot,Lot138,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1072.909,lot,Lot138,moved into operation,908,,,active,
+1102.909,tool,VFP701,batch dispatched,908,VFP701,Lot137;Lot138,,2 lots
+1108.919,lot,Lot139,created,,,,active,25 wafers
+1108.919,lot,Lot139,moved into operation,907,,,active,
+1108.919,lot,Lot139,processing started,907,STG907,Lot139,active,
+1108.919,tool,STG907,in process,907,STG907,Lot139,,1 lot
+1109.919,lot,Lot139,processing completed,907,STG907,Lot139,active,
+1109.919,tool,STG907,process completed,907,STG907,Lot139,,
+1109.919,lot,Lot139,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1109.919,lot,Lot139,moved into operation,908,,,active,
+1116.323,lot,Lot140,created,,,,active,25 wafers
+1116.323,lot,Lot140,moved into operation,907,,,active,
+1116.323,lot,Lot140,processing started,907,STG907,Lot140,active,
+1116.323,tool,STG907,in process,907,STG907,Lot140,,1 lot
+1117.323,lot,Lot140,processing completed,907,STG907,Lot140,active,
+1117.323,tool,STG907,process completed,907,STG907,Lot140,,
+1117.323,lot,Lot140,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1117.323,lot,Lot140,moved into operation,908,,,active,
+1147.323,tool,VFP702,batch dispatched,908,VFP702,Lot139;Lot140,,2 lots
+1183.88,lot,Lot111,processing completed,908,VFP701,Lot111;Lot112,active,
+1183.88,lot,Lot111,moved out of operation,908,,,hold,operation elapsed 837.8 min; limit 720 min
+1183.88,lot,Lot112,processing completed,908,VFP701,Lot111;Lot112,active,
+1183.88,lot,Lot112,moved out of operation,908,,,hold,operation elapsed 817.4 min; limit 720 min
+1183.88,tool,VFP701,process completed,908,VFP701,Lot111;Lot112,,
+1183.88,lot,Lot116,processing started,908,VFP701,Lot116;Lot117,active,
+1183.88,lot,Lot117,processing started,908,VFP701,Lot116;Lot117,active,
+1183.88,tool,VFP701,in process,908,VFP701,Lot116;Lot117,,
+1241.054,lot,Lot113,processing completed,908,VFP702,Lot113;Lot114;Lot115,active,
+1241.054,lot,Lot113,moved out of operation,908,,,hold,operation elapsed 822.8 min; limit 720 min
+1241.054,lot,Lot114,processing completed,908,VFP702,Lot113;Lot114;Lot115,active,
+1241.054,lot,Lot114,moved out of operation,908,,,hold,operation elapsed 822.8 min; limit 720 min
+1241.054,lot,Lot115,processing completed,908,VFP702,Lot113;Lot114;Lot115,active,
+1241.054,lot,Lot115,moved out of operation,908,,,hold,operation elapsed 801.5 min; limit 720 min
+1241.054,tool,VFP702,process completed,908,VFP702,Lot113;Lot114;Lot115,,
+1241.054,lot,Lot118,processing started,908,VFP702,Lot118;Lot119;Lot120,active,
+1241.054,lot,Lot119,processing started,908,VFP702,Lot118;Lot119;Lot120,active,
+1241.054,lot,Lot120,processing started,908,VFP702,Lot118;Lot119;Lot120,active,
+1241.054,tool,VFP702,in process,908,VFP702,Lot118;Lot119;Lot120,,
+1292.675,lot,Lot141,created,,,,active,25 wafers
+1292.675,lot,Lot141,moved into operation,907,,,active,
+1292.675,lot,Lot141,processing started,907,STG907,Lot141,active,
+1292.675,tool,STG907,in process,907,STG907,Lot141,,1 lot
+1293.675,lot,Lot141,processing completed,907,STG907,Lot141,active,
+1293.675,tool,STG907,process completed,907,STG907,Lot141,,
+1293.675,lot,Lot141,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1293.675,lot,Lot141,moved into operation,908,,,active,
+1363.441,lot,Lot142,created,,,,active,25 wafers
+1363.441,lot,Lot142,moved into operation,907,,,active,
+1363.441,lot,Lot142,processing started,907,STG907,Lot142,active,
+1363.441,tool,STG907,in process,907,STG907,Lot142,,1 lot
+1364.441,lot,Lot142,processing completed,907,STG907,Lot142,active,
+1364.441,tool,STG907,process completed,907,STG907,Lot142,,
+1364.441,lot,Lot142,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1364.441,lot,Lot142,moved into operation,908,,,active,
+1368.079,lot,Lot143,created,,,,active,25 wafers
+1368.079,lot,Lot143,moved into operation,907,,,active,
+1368.079,lot,Lot143,processing started,907,STG907,Lot143,active,
+1368.079,tool,STG907,in process,907,STG907,Lot143,,1 lot
+1369.079,lot,Lot143,processing completed,907,STG907,Lot143,active,
+1369.079,tool,STG907,process completed,907,STG907,Lot143,,
+1369.079,lot,Lot143,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1369.079,lot,Lot143,moved into operation,908,,,active,
+1369.079,tool,VFP701,batch dispatched,908,VFP701,Lot141;Lot142;Lot143,,3 lots
+1382.642,lot,Lot144,created,,,,active,25 wafers
+1382.642,lot,Lot144,moved into operation,907,,,active,
+1382.642,lot,Lot144,processing started,907,STG907,Lot144,active,
+1382.642,tool,STG907,in process,907,STG907,Lot144,,1 lot
+1383.642,lot,Lot144,processing completed,907,STG907,Lot144,active,
+1383.642,tool,STG907,process completed,907,STG907,Lot144,,
+1383.642,lot,Lot144,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1383.642,lot,Lot144,moved into operation,908,,,active,
+1428.66,lot,Lot145,created,,,,active,25 wafers
+1428.66,lot,Lot145,moved into operation,907,,,active,
+1428.66,lot,Lot145,processing started,907,STG907,Lot145,active,
+1428.66,tool,STG907,in process,907,STG907,Lot145,,1 lot
+1429.66,lot,Lot145,processing completed,907,STG907,Lot145,active,
+1429.66,tool,STG907,process completed,907,STG907,Lot145,,
+1429.66,lot,Lot145,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1429.66,lot,Lot145,moved into operation,908,,,active,
+1459.66,tool,VFP702,batch dispatched,908,VFP702,Lot144;Lot145,,2 lots
+1473.372,lot,Lot146,created,,,,active,25 wafers
+1473.372,lot,Lot146,moved into operation,907,,,active,
+1473.372,lot,Lot146,processing started,907,STG907,Lot146,active,
+1473.372,tool,STG907,in process,907,STG907,Lot146,,1 lot
+1474.372,lot,Lot146,processing completed,907,STG907,Lot146,active,
+1474.372,tool,STG907,process completed,907,STG907,Lot146,,
+1474.372,lot,Lot146,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1474.372,lot,Lot146,moved into operation,908,,,active,
+1543.88,lot,Lot116,processing completed,908,VFP701,Lot116;Lot117,active,
+1543.88,lot,Lot116,moved out of operation,908,,,hold,operation elapsed 1058.3 min; limit 720 min
+1543.88,lot,Lot117,processing completed,908,VFP701,Lot116;Lot117,active,
+1543.88,lot,Lot117,moved out of operation,908,,,hold,operation elapsed 1049.0 min; limit 720 min
+1543.88,tool,VFP701,process completed,908,VFP701,Lot116;Lot117,,
+1543.88,lot,Lot121,processing started,908,VFP701,Lot121;Lot122,active,
+1543.88,lot,Lot122,processing started,908,VFP701,Lot121;Lot122,active,
+1543.88,tool,VFP701,in process,908,VFP701,Lot121;Lot122,,
+1572.58,lot,Lot147,created,,,,active,25 wafers
+1572.58,lot,Lot147,moved into operation,907,,,active,
+1572.58,lot,Lot147,processing started,907,STG907,Lot147,active,
+1572.58,tool,STG907,in process,907,STG907,Lot147,,1 lot
+1573.58,lot,Lot147,processing completed,907,STG907,Lot147,active,
+1573.58,tool,STG907,process completed,907,STG907,Lot147,,
+1573.58,lot,Lot147,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1573.58,lot,Lot147,moved into operation,908,,,active,
+1592.321,lot,Lot148,created,,,,active,25 wafers
+1592.321,lot,Lot148,moved into operation,907,,,active,
+1592.321,lot,Lot148,processing started,907,STG907,Lot148,active,
+1592.321,tool,STG907,in process,907,STG907,Lot148,,1 lot
+1593.321,lot,Lot148,processing completed,907,STG907,Lot148,active,
+1593.321,tool,STG907,process completed,907,STG907,Lot148,,
+1593.321,lot,Lot148,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1593.321,lot,Lot148,moved into operation,908,,,active,
+1593.321,tool,VFP701,batch dispatched,908,VFP701,Lot146;Lot147;Lot148,,3 lots
+1601.054,lot,Lot118,processing completed,908,VFP702,Lot118;Lot119;Lot120,active,
+1601.054,lot,Lot118,moved out of operation,908,,,hold,operation elapsed 1001.6 min; limit 720 min
+1601.054,lot,Lot119,processing completed,908,VFP702,Lot118;Lot119;Lot120,active,
+1601.054,lot,Lot119,moved out of operation,908,,,hold,operation elapsed 918.2 min; limit 720 min
+1601.054,lot,Lot120,processing completed,908,VFP702,Lot118;Lot119;Lot120,active,
+1601.054,lot,Lot120,moved out of operation,908,,,hold,operation elapsed 917.0 min; limit 720 min
+1601.054,tool,VFP702,process completed,908,VFP702,Lot118;Lot119;Lot120,,
+1601.054,lot,Lot123,processing started,908,VFP702,Lot123;Lot124;Lot125,active,
+1601.054,lot,Lot124,processing started,908,VFP702,Lot123;Lot124;Lot125,active,
+1601.054,lot,Lot125,processing started,908,VFP702,Lot123;Lot124;Lot125,active,
+1601.054,tool,VFP702,in process,908,VFP702,Lot123;Lot124;Lot125,,
+1656.119,lot,Lot149,created,,,,active,25 wafers
+1656.119,lot,Lot149,moved into operation,907,,,active,
+1656.119,lot,Lot149,processing started,907,STG907,Lot149,active,
+1656.119,tool,STG907,in process,907,STG907,Lot149,,1 lot
+1657.119,lot,Lot149,processing completed,907,STG907,Lot149,active,
+1657.119,tool,STG907,process completed,907,STG907,Lot149,,
+1657.119,lot,Lot149,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1657.119,lot,Lot149,moved into operation,908,,,active,
+1696.064,lot,Lot150,created,,,,active,25 wafers
+1696.064,lot,Lot150,moved into operation,907,,,active,
+1696.064,lot,Lot150,processing started,907,STG907,Lot150,active,
+1696.064,tool,STG907,in process,907,STG907,Lot150,,1 lot
+1697.064,lot,Lot150,processing completed,907,STG907,Lot150,active,
+1697.064,tool,STG907,process completed,907,STG907,Lot150,,
+1697.064,lot,Lot150,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1697.064,lot,Lot150,moved into operation,908,,,active,
+1709.078,lot,Lot151,created,,,,active,25 wafers
+1709.078,lot,Lot151,moved into operation,907,,,active,
+1709.078,lot,Lot151,processing started,907,STG907,Lot151,active,
+1709.078,tool,STG907,in process,907,STG907,Lot151,,1 lot
+1710.078,lot,Lot151,processing completed,907,STG907,Lot151,active,
+1710.078,tool,STG907,process completed,907,STG907,Lot151,,
+1710.078,lot,Lot151,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1710.078,lot,Lot151,moved into operation,908,,,active,
+1710.078,tool,VFP702,batch dispatched,908,VFP702,Lot149;Lot150;Lot151,,3 lots
+1740.964,lot,Lot152,created,,,,active,25 wafers
+1740.964,lot,Lot152,moved into operation,907,,,active,
+1740.964,lot,Lot152,processing started,907,STG907,Lot152,active,
+1740.964,tool,STG907,in process,907,STG907,Lot152,,1 lot
+1741.964,lot,Lot152,processing completed,907,STG907,Lot152,active,
+1741.964,tool,STG907,process completed,907,STG907,Lot152,,
+1741.964,lot,Lot152,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1741.964,lot,Lot152,moved into operation,908,,,active,
+1818.045,lot,Lot153,created,,,,active,25 wafers
+1818.045,lot,Lot153,moved into operation,907,,,active,
+1818.045,lot,Lot153,processing started,907,STG907,Lot153,active,
+1818.045,tool,STG907,in process,907,STG907,Lot153,,1 lot
+1819.045,lot,Lot153,processing completed,907,STG907,Lot153,active,
+1819.045,tool,STG907,process completed,907,STG907,Lot153,,
+1819.045,lot,Lot153,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1819.045,lot,Lot153,moved into operation,908,,,active,
+1849.045,tool,VFP701,batch dispatched,908,VFP701,Lot152;Lot153,,2 lots
+1885.44,lot,Lot154,created,,,,active,25 wafers
+1885.44,lot,Lot154,moved into operation,907,,,active,
+1885.44,lot,Lot154,processing started,907,STG907,Lot154,active,
+1885.44,tool,STG907,in process,907,STG907,Lot154,,1 lot
+1886.44,lot,Lot154,processing completed,907,STG907,Lot154,active,
+1886.44,tool,STG907,process completed,907,STG907,Lot154,,
+1886.44,lot,Lot154,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1886.44,lot,Lot154,moved into operation,908,,,active,
+1903.88,lot,Lot121,processing completed,908,VFP701,Lot121;Lot122,active,
+1903.88,lot,Lot121,moved out of operation,908,,,hold,operation elapsed 1218.9 min; limit 720 min
+1903.88,lot,Lot122,processing completed,908,VFP701,Lot121;Lot122,active,
+1903.88,lot,Lot122,moved out of operation,908,,,hold,operation elapsed 1190.9 min; limit 720 min
+1903.88,tool,VFP701,process completed,908,VFP701,Lot121;Lot122,,
+1903.88,lot,Lot126,processing started,908,VFP701,Lot126;Lot127;Lot128,active,
+1903.88,lot,Lot127,processing started,908,VFP701,Lot126;Lot127;Lot128,active,
+1903.88,lot,Lot128,processing started,908,VFP701,Lot126;Lot127;Lot128,active,
+1903.88,tool,VFP701,in process,908,VFP701,Lot126;Lot127;Lot128,,
+1910.776,lot,Lot155,created,,,,active,25 wafers
+1910.776,lot,Lot155,moved into operation,907,,,active,
+1910.776,lot,Lot155,processing started,907,STG907,Lot155,active,
+1910.776,tool,STG907,in process,907,STG907,Lot155,,1 lot
+1911.776,lot,Lot155,processing completed,907,STG907,Lot155,active,
+1911.776,tool,STG907,process completed,907,STG907,Lot155,,
+1911.776,lot,Lot155,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1911.776,lot,Lot155,moved into operation,908,,,active,
+1941.776,tool,VFP702,batch dispatched,908,VFP702,Lot154;Lot155,,2 lots
+1942.786,lot,Lot156,created,,,,active,25 wafers
+1942.786,lot,Lot156,moved into operation,907,,,active,
+1942.786,lot,Lot156,processing started,907,STG907,Lot156,active,
+1942.786,tool,STG907,in process,907,STG907,Lot156,,1 lot
+1943.786,lot,Lot156,processing completed,907,STG907,Lot156,active,
+1943.786,tool,STG907,process completed,907,STG907,Lot156,,
+1943.786,lot,Lot156,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1943.786,lot,Lot156,moved into operation,908,,,active,
+1944.051,lot,Lot157,created,,,,active,25 wafers
+1944.051,lot,Lot157,moved into operation,907,,,active,
+1944.051,lot,Lot157,processing started,907,STG907,Lot157,active,
+1944.051,tool,STG907,in process,907,STG907,Lot157,,1 lot
+1945.051,lot,Lot157,processing completed,907,STG907,Lot157,active,
+1945.051,tool,STG907,process completed,907,STG907,Lot157,,
+1945.051,lot,Lot157,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1945.051,lot,Lot157,moved into operation,908,,,active,
+1954.06,lot,Lot158,created,,,,active,25 wafers
+1954.06,lot,Lot158,moved into operation,907,,,active,
+1954.06,lot,Lot158,processing started,907,STG907,Lot158,active,
+1954.06,tool,STG907,in process,907,STG907,Lot158,,1 lot
+1955.06,lot,Lot158,processing completed,907,STG907,Lot158,active,
+1955.06,tool,STG907,process completed,907,STG907,Lot158,,
+1955.06,lot,Lot158,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+1955.06,lot,Lot158,moved into operation,908,,,active,
+1955.06,tool,VFP701,batch dispatched,908,VFP701,Lot156;Lot157;Lot158,,3 lots
+1961.054,lot,Lot123,processing completed,908,VFP702,Lot123;Lot124;Lot125,active,
+1961.054,lot,Lot123,moved out of operation,908,,,hold,operation elapsed 1147.3 min; limit 720 min
+1961.054,lot,Lot124,processing completed,908,VFP702,Lot123;Lot124;Lot125,active,
+1961.054,lot,Lot124,moved out of operation,908,,,hold,operation elapsed 1130.0 min; limit 720 min
+1961.054,lot,Lot125,processing completed,908,VFP702,Lot123;Lot124;Lot125,active,
+1961.054,lot,Lot125,moved out of operation,908,,,hold,operation elapsed 1121.2 min; limit 720 min
+1961.054,tool,VFP702,process completed,908,VFP702,Lot123;Lot124;Lot125,,
+1961.054,lot,Lot129,processing started,908,VFP702,Lot129;Lot130;Lot131,active,
+1961.054,lot,Lot130,processing started,908,VFP702,Lot129;Lot130;Lot131,active,
+1961.054,lot,Lot131,processing started,908,VFP702,Lot129;Lot130;Lot131,active,
+1961.054,tool,VFP702,in process,908,VFP702,Lot129;Lot130;Lot131,,
+2011.536,lot,Lot159,created,,,,active,25 wafers
+2011.536,lot,Lot159,moved into operation,907,,,active,
+2011.536,lot,Lot159,processing started,907,STG907,Lot159,active,
+2011.536,tool,STG907,in process,907,STG907,Lot159,,1 lot
+2012.536,lot,Lot159,processing completed,907,STG907,Lot159,active,
+2012.536,tool,STG907,process completed,907,STG907,Lot159,,
+2012.536,lot,Lot159,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2012.536,lot,Lot159,moved into operation,908,,,active,
+2030.795,lot,Lot160,created,,,,active,25 wafers
+2030.795,lot,Lot160,moved into operation,907,,,active,
+2030.795,lot,Lot160,processing started,907,STG907,Lot160,active,
+2030.795,tool,STG907,in process,907,STG907,Lot160,,1 lot
+2031.795,lot,Lot160,processing completed,907,STG907,Lot160,active,
+2031.795,tool,STG907,process completed,907,STG907,Lot160,,
+2031.795,lot,Lot160,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2031.795,lot,Lot160,moved into operation,908,,,active,
+2037.633,lot,Lot161,created,,,,active,25 wafers
+2037.633,lot,Lot161,moved into operation,907,,,active,
+2037.633,lot,Lot161,processing started,907,STG907,Lot161,active,
+2037.633,tool,STG907,in process,907,STG907,Lot161,,1 lot
+2038.633,lot,Lot161,processing completed,907,STG907,Lot161,active,
+2038.633,tool,STG907,process completed,907,STG907,Lot161,,
+2038.633,lot,Lot161,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2038.633,lot,Lot161,moved into operation,908,,,active,
+2038.633,tool,VFP702,batch dispatched,908,VFP702,Lot159;Lot160;Lot161,,3 lots
+2066.284,lot,Lot162,created,,,,active,25 wafers
+2066.284,lot,Lot162,moved into operation,907,,,active,
+2066.284,lot,Lot162,processing started,907,STG907,Lot162,active,
+2066.284,tool,STG907,in process,907,STG907,Lot162,,1 lot
+2067.284,lot,Lot162,processing completed,907,STG907,Lot162,active,
+2067.284,tool,STG907,process completed,907,STG907,Lot162,,
+2067.284,lot,Lot162,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2067.284,lot,Lot162,moved into operation,908,,,active,
+2109.993,lot,Lot163,created,,,,active,25 wafers
+2109.993,lot,Lot163,moved into operation,907,,,active,
+2109.993,lot,Lot163,processing started,907,STG907,Lot163,active,
+2109.993,tool,STG907,in process,907,STG907,Lot163,,1 lot
+2110.993,lot,Lot163,processing completed,907,STG907,Lot163,active,
+2110.993,tool,STG907,process completed,907,STG907,Lot163,,
+2110.993,lot,Lot163,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2110.993,lot,Lot163,moved into operation,908,,,active,
+2140.993,tool,VFP701,batch dispatched,908,VFP701,Lot162;Lot163,,2 lots
+2150.398,lot,Lot164,created,,,,active,25 wafers
+2150.398,lot,Lot164,moved into operation,907,,,active,
+2150.398,lot,Lot164,processing started,907,STG907,Lot164,active,
+2150.398,tool,STG907,in process,907,STG907,Lot164,,1 lot
+2151.398,lot,Lot164,processing completed,907,STG907,Lot164,active,
+2151.398,tool,STG907,process completed,907,STG907,Lot164,,
+2151.398,lot,Lot164,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2151.398,lot,Lot164,moved into operation,908,,,active,
+2167.301,lot,Lot165,created,,,,active,25 wafers
+2167.301,lot,Lot165,moved into operation,907,,,active,
+2167.301,lot,Lot165,processing started,907,STG907,Lot165,active,
+2167.301,tool,STG907,in process,907,STG907,Lot165,,1 lot
+2168.301,lot,Lot165,processing completed,907,STG907,Lot165,active,
+2168.301,tool,STG907,process completed,907,STG907,Lot165,,
+2168.301,lot,Lot165,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2168.301,lot,Lot165,moved into operation,908,,,active,
+2188.108,lot,Lot166,created,,,,active,25 wafers
+2188.108,lot,Lot166,moved into operation,907,,,active,
+2188.108,lot,Lot166,processing started,907,STG907,Lot166,active,
+2188.108,tool,STG907,in process,907,STG907,Lot166,,1 lot
+2189.108,lot,Lot166,processing completed,907,STG907,Lot166,active,
+2189.108,tool,STG907,process completed,907,STG907,Lot166,,
+2189.108,lot,Lot166,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2189.108,lot,Lot166,moved into operation,908,,,active,
+2189.108,tool,VFP702,batch dispatched,908,VFP702,Lot164;Lot165;Lot166,,3 lots
+2213.673,lot,Lot167,created,,,,active,25 wafers
+2213.673,lot,Lot167,moved into operation,907,,,active,
+2213.673,lot,Lot167,processing started,907,STG907,Lot167,active,
+2213.673,tool,STG907,in process,907,STG907,Lot167,,1 lot
+2214.673,lot,Lot167,processing completed,907,STG907,Lot167,active,
+2214.673,tool,STG907,process completed,907,STG907,Lot167,,
+2214.673,lot,Lot167,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2214.673,lot,Lot167,moved into operation,908,,,active,
+2263.88,lot,Lot126,processing completed,908,VFP701,Lot126;Lot127;Lot128,active,
+2263.88,lot,Lot126,moved out of operation,908,,,hold,operation elapsed 1404.3 min; limit 720 min
+2263.88,lot,Lot127,processing completed,908,VFP701,Lot126;Lot127;Lot128,active,
+2263.88,lot,Lot127,moved out of operation,908,,,hold,operation elapsed 1403.2 min; limit 720 min
+2263.88,lot,Lot128,processing completed,908,VFP701,Lot126;Lot127;Lot128,active,
+2263.88,lot,Lot128,moved out of operation,908,,,hold,operation elapsed 1394.2 min; limit 720 min
+2263.88,tool,VFP701,process completed,908,VFP701,Lot126;Lot127;Lot128,,
+2263.88,lot,Lot132,processing started,908,VFP701,Lot132;Lot133;Lot134,active,
+2263.88,lot,Lot133,processing started,908,VFP701,Lot132;Lot133;Lot134,active,
+2263.88,lot,Lot134,processing started,908,VFP701,Lot132;Lot133;Lot134,active,
+2263.88,tool,VFP701,in process,908,VFP701,Lot132;Lot133;Lot134,,
+2267.928,lot,Lot168,created,,,,active,25 wafers
+2267.928,lot,Lot168,moved into operation,907,,,active,
+2267.928,lot,Lot168,processing started,907,STG907,Lot168,active,
+2267.928,tool,STG907,in process,907,STG907,Lot168,,1 lot
+2268.928,lot,Lot168,processing completed,907,STG907,Lot168,active,
+2268.928,tool,STG907,process completed,907,STG907,Lot168,,
+2268.928,lot,Lot168,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2268.928,lot,Lot168,moved into operation,908,,,active,
+2294.421,lot,Lot169,created,,,,active,25 wafers
+2294.421,lot,Lot169,moved into operation,907,,,active,
+2294.421,lot,Lot169,processing started,907,STG907,Lot169,active,
+2294.421,tool,STG907,in process,907,STG907,Lot169,,1 lot
+2295.421,lot,Lot169,processing completed,907,STG907,Lot169,active,
+2295.421,tool,STG907,process completed,907,STG907,Lot169,,
+2295.421,lot,Lot169,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2295.421,lot,Lot169,moved into operation,908,,,active,
+2295.421,tool,VFP701,batch dispatched,908,VFP701,Lot167;Lot168;Lot169,,3 lots
+2312.408,lot,Lot170,created,,,,active,25 wafers
+2312.408,lot,Lot170,moved into operation,907,,,active,
+2312.408,lot,Lot170,processing started,907,STG907,Lot170,active,
+2312.408,tool,STG907,in process,907,STG907,Lot170,,1 lot
+2313.408,lot,Lot170,processing completed,907,STG907,Lot170,active,
+2313.408,tool,STG907,process completed,907,STG907,Lot170,,
+2313.408,lot,Lot170,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2313.408,lot,Lot170,moved into operation,908,,,active,
+2321.054,lot,Lot129,processing completed,908,VFP702,Lot129;Lot130;Lot131,active,
+2321.054,lot,Lot129,moved out of operation,908,,,hold,operation elapsed 1430.6 min; limit 720 min
+2321.054,lot,Lot130,processing completed,908,VFP702,Lot129;Lot130;Lot131,active,
+2321.054,lot,Lot130,moved out of operation,908,,,hold,operation elapsed 1406.0 min; limit 720 min
+2321.054,lot,Lot131,processing completed,908,VFP702,Lot129;Lot130;Lot131,active,
+2321.054,lot,Lot131,moved out of operation,908,,,hold,operation elapsed 1396.4 min; limit 720 min
+2321.054,tool,VFP702,process completed,908,VFP702,Lot129;Lot130;Lot131,,
+2321.054,lot,Lot135,processing started,908,VFP702,Lot135;Lot136,active,
+2321.054,lot,Lot136,processing started,908,VFP702,Lot135;Lot136,active,
+2321.054,tool,VFP702,in process,908,VFP702,Lot135;Lot136,,
+2336.627,lot,Lot171,created,,,,active,25 wafers
+2336.627,lot,Lot171,moved into operation,907,,,active,
+2336.627,lot,Lot171,processing started,907,STG907,Lot171,active,
+2336.627,tool,STG907,in process,907,STG907,Lot171,,1 lot
+2337.627,lot,Lot171,processing completed,907,STG907,Lot171,active,
+2337.627,tool,STG907,process completed,907,STG907,Lot171,,
+2337.627,lot,Lot171,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2337.627,lot,Lot171,moved into operation,908,,,active,
+2337.708,lot,Lot172,created,,,,active,25 wafers
+2337.708,lot,Lot172,moved into operation,907,,,active,
+2337.708,lot,Lot172,processing started,907,STG907,Lot172,active,
+2337.708,tool,STG907,in process,907,STG907,Lot172,,1 lot
+2338.708,lot,Lot172,processing completed,907,STG907,Lot172,active,
+2338.708,tool,STG907,process completed,907,STG907,Lot172,,
+2338.708,lot,Lot172,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2338.708,lot,Lot172,moved into operation,908,,,active,
+2338.708,tool,VFP702,batch dispatched,908,VFP702,Lot170;Lot171;Lot172,,3 lots
+2339.308,lot,Lot173,created,,,,active,25 wafers
+2339.308,lot,Lot173,moved into operation,907,,,active,
+2339.308,lot,Lot173,processing started,907,STG907,Lot173,active,
+2339.308,tool,STG907,in process,907,STG907,Lot173,,1 lot
+2340.308,lot,Lot173,processing completed,907,STG907,Lot173,active,
+2340.308,tool,STG907,process completed,907,STG907,Lot173,,
+2340.308,lot,Lot173,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2340.308,lot,Lot173,moved into operation,908,,,active,
+2383.06,lot,Lot174,created,,,,active,25 wafers
+2383.06,lot,Lot174,moved into operation,907,,,active,
+2383.06,lot,Lot174,processing started,907,STG907,Lot174,active,
+2383.06,tool,STG907,in process,907,STG907,Lot174,,1 lot
+2384.06,lot,Lot174,processing completed,907,STG907,Lot174,active,
+2384.06,tool,STG907,process completed,907,STG907,Lot174,,
+2384.06,lot,Lot174,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2384.06,lot,Lot174,moved into operation,908,,,active,
+2414.06,tool,VFP701,batch dispatched,908,VFP701,Lot173;Lot174,,2 lots
+2530.143,lot,Lot175,created,,,,active,25 wafers
+2530.143,lot,Lot175,moved into operation,907,,,active,
+2530.143,lot,Lot175,processing started,907,STG907,Lot175,active,
+2530.143,tool,STG907,in process,907,STG907,Lot175,,1 lot
+2531.143,lot,Lot175,processing completed,907,STG907,Lot175,active,
+2531.143,tool,STG907,process completed,907,STG907,Lot175,,
+2531.143,lot,Lot175,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2531.143,lot,Lot175,moved into operation,908,,,active,
+2562.521,lot,Lot176,created,,,,active,25 wafers
+2562.521,lot,Lot176,moved into operation,907,,,active,
+2562.521,lot,Lot176,processing started,907,STG907,Lot176,active,
+2562.521,tool,STG907,in process,907,STG907,Lot176,,1 lot
+2563.521,lot,Lot176,processing completed,907,STG907,Lot176,active,
+2563.521,tool,STG907,process completed,907,STG907,Lot176,,
+2563.521,lot,Lot176,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2563.521,lot,Lot176,moved into operation,908,,,active,
+2580.529,lot,Lot177,created,,,,active,25 wafers
+2580.529,lot,Lot177,moved into operation,907,,,active,
+2580.529,lot,Lot177,processing started,907,STG907,Lot177,active,
+2580.529,tool,STG907,in process,907,STG907,Lot177,,1 lot
+2581.529,lot,Lot177,processing completed,907,STG907,Lot177,active,
+2581.529,tool,STG907,process completed,907,STG907,Lot177,,
+2581.529,lot,Lot177,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2581.529,lot,Lot177,moved into operation,908,,,active,
+2581.529,tool,VFP702,batch dispatched,908,VFP702,Lot175;Lot176;Lot177,,3 lots
+2587.252,lot,Lot178,created,,,,active,25 wafers
+2587.252,lot,Lot178,moved into operation,907,,,active,
+2587.252,lot,Lot178,processing started,907,STG907,Lot178,active,
+2587.252,tool,STG907,in process,907,STG907,Lot178,,1 lot
+2588.252,lot,Lot178,processing completed,907,STG907,Lot178,active,
+2588.252,tool,STG907,process completed,907,STG907,Lot178,,
+2588.252,lot,Lot178,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2588.252,lot,Lot178,moved into operation,908,,,active,
+2612.367,lot,Lot179,created,,,,active,25 wafers
+2612.367,lot,Lot179,moved into operation,907,,,active,
+2612.367,lot,Lot179,processing started,907,STG907,Lot179,active,
+2612.367,tool,STG907,in process,907,STG907,Lot179,,1 lot
+2613.367,lot,Lot179,processing completed,907,STG907,Lot179,active,
+2613.367,tool,STG907,process completed,907,STG907,Lot179,,
+2613.367,lot,Lot179,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2613.367,lot,Lot179,moved into operation,908,,,active,
+2623.88,lot,Lot132,processing completed,908,VFP701,Lot132;Lot133;Lot134,active,
+2623.88,lot,Lot132,moved out of operation,908,,,hold,operation elapsed 1689.8 min; limit 720 min
+2623.88,lot,Lot133,processing completed,908,VFP701,Lot132;Lot133;Lot134,active,
+2623.88,lot,Lot133,moved out of operation,908,,,hold,operation elapsed 1680.9 min; limit 720 min
+2623.88,lot,Lot134,processing completed,908,VFP701,Lot132;Lot133;Lot134,active,
+2623.88,lot,Lot134,moved out of operation,908,,,hold,operation elapsed 1658.8 min; limit 720 min
+2623.88,tool,VFP701,process completed,908,VFP701,Lot132;Lot133;Lot134,,
+2623.88,lot,Lot137,processing started,908,VFP701,Lot137;Lot138,active,
+2623.88,lot,Lot138,processing started,908,VFP701,Lot137;Lot138,active,
+2623.88,tool,VFP701,in process,908,VFP701,Lot137;Lot138,,
+2643.367,tool,VFP701,batch dispatched,908,VFP701,Lot178;Lot179,,2 lots
+2681.054,lot,Lot135,processing completed,908,VFP702,Lot135;Lot136,active,
+2681.054,lot,Lot135,moved out of operation,908,,,hold,operation elapsed 1703.6 min; limit 720 min
+2681.054,lot,Lot136,processing completed,908,VFP702,Lot135;Lot136,active,
+2681.054,lot,Lot136,moved out of operation,908,,,hold,operation elapsed 1702.8 min; limit 720 min
+2681.054,tool,VFP702,process completed,908,VFP702,Lot135;Lot136,,
+2681.054,lot,Lot139,processing started,908,VFP702,Lot139;Lot140,active,
+2681.054,lot,Lot140,processing started,908,VFP702,Lot139;Lot140,active,
+2681.054,tool,VFP702,in process,908,VFP702,Lot139;Lot140,,
+2757.146,lot,Lot180,created,,,,active,25 wafers
+2757.146,lot,Lot180,moved into operation,907,,,active,
+2757.146,lot,Lot180,processing started,907,STG907,Lot180,active,
+2757.146,tool,STG907,in process,907,STG907,Lot180,,1 lot
+2758.146,lot,Lot180,processing completed,907,STG907,Lot180,active,
+2758.146,tool,STG907,process completed,907,STG907,Lot180,,
+2758.146,lot,Lot180,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2758.146,lot,Lot180,moved into operation,908,,,active,
+2810.136,lot,Lot181,created,,,,active,25 wafers
+2810.136,lot,Lot181,moved into operation,907,,,active,
+2810.136,lot,Lot181,processing started,907,STG907,Lot181,active,
+2810.136,tool,STG907,in process,907,STG907,Lot181,,1 lot
+2811.136,lot,Lot181,processing completed,907,STG907,Lot181,active,
+2811.136,tool,STG907,process completed,907,STG907,Lot181,,
+2811.136,lot,Lot181,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2811.136,lot,Lot181,moved into operation,908,,,active,
+2838.061,lot,Lot182,created,,,,active,25 wafers
+2838.061,lot,Lot182,moved into operation,907,,,active,
+2838.061,lot,Lot182,processing started,907,STG907,Lot182,active,
+2838.061,tool,STG907,in process,907,STG907,Lot182,,1 lot
+2839.061,lot,Lot182,processing completed,907,STG907,Lot182,active,
+2839.061,tool,STG907,process completed,907,STG907,Lot182,,
+2839.061,lot,Lot182,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2839.061,lot,Lot182,moved into operation,908,,,active,
+2839.061,tool,VFP702,batch dispatched,908,VFP702,Lot180;Lot181;Lot182,,3 lots
+2908.916,lot,Lot183,created,,,,active,25 wafers
+2908.916,lot,Lot183,moved into operation,907,,,active,
+2908.916,lot,Lot183,processing started,907,STG907,Lot183,active,
+2908.916,tool,STG907,in process,907,STG907,Lot183,,1 lot
+2909.916,lot,Lot183,processing completed,907,STG907,Lot183,active,
+2909.916,tool,STG907,process completed,907,STG907,Lot183,,
+2909.916,lot,Lot183,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2909.916,lot,Lot183,moved into operation,908,,,active,
+2918.427,lot,Lot184,created,,,,active,25 wafers
+2918.427,lot,Lot184,moved into operation,907,,,active,
+2918.427,lot,Lot184,processing started,907,STG907,Lot184,active,
+2918.427,tool,STG907,in process,907,STG907,Lot184,,1 lot
+2919.427,lot,Lot184,processing completed,907,STG907,Lot184,active,
+2919.427,tool,STG907,process completed,907,STG907,Lot184,,
+2919.427,lot,Lot184,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2919.427,lot,Lot184,moved into operation,908,,,active,
+2944.386,lot,Lot185,created,,,,active,25 wafers
+2944.386,lot,Lot185,moved into operation,907,,,active,
+2944.386,lot,Lot185,processing started,907,STG907,Lot185,active,
+2944.386,tool,STG907,in process,907,STG907,Lot185,,1 lot
+2945.386,lot,Lot185,processing completed,907,STG907,Lot185,active,
+2945.386,tool,STG907,process completed,907,STG907,Lot185,,
+2945.386,lot,Lot185,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+2945.386,lot,Lot185,moved into operation,908,,,active,
+2945.386,tool,VFP701,batch dispatched,908,VFP701,Lot183;Lot184;Lot185,,3 lots
+2983.88,lot,Lot137,processing completed,908,VFP701,Lot137;Lot138,active,
+2983.88,lot,Lot137,moved out of operation,908,,,hold,operation elapsed 1940.2 min; limit 720 min
+2983.88,lot,Lot138,processing completed,908,VFP701,Lot137;Lot138,active,
+2983.88,lot,Lot138,moved out of operation,908,,,hold,operation elapsed 1911.0 min; limit 720 min
+2983.88,tool,VFP701,process completed,908,VFP701,Lot137;Lot138,,
+2983.88,lot,Lot141,processing started,908,VFP701,Lot141;Lot142;Lot143,active,
+2983.88,lot,Lot142,processing started,908,VFP701,Lot141;Lot142;Lot143,active,
+2983.88,lot,Lot143,processing started,908,VFP701,Lot141;Lot142;Lot143,active,
+2983.88,tool,VFP701,in process,908,VFP701,Lot141;Lot142;Lot143,,
+3041.054,lot,Lot139,processing completed,908,VFP702,Lot139;Lot140,active,
+3041.054,lot,Lot139,moved out of operation,908,,,hold,operation elapsed 1931.1 min; limit 720 min
+3041.054,lot,Lot140,processing completed,908,VFP702,Lot139;Lot140,active,
+3041.054,lot,Lot140,moved out of operation,908,,,hold,operation elapsed 1923.7 min; limit 720 min
+3041.054,tool,VFP702,process completed,908,VFP702,Lot139;Lot140,,
+3041.054,lot,Lot144,processing started,908,VFP702,Lot144;Lot145,active,
+3041.054,lot,Lot145,processing started,908,VFP702,Lot144;Lot145,active,
+3041.054,tool,VFP702,in process,908,VFP702,Lot144;Lot145,,
+3054.054,lot,Lot186,created,,,,active,25 wafers
+3054.054,lot,Lot186,moved into operation,907,,,active,
+3054.054,lot,Lot186,processing started,907,STG907,Lot186,active,
+3054.054,tool,STG907,in process,907,STG907,Lot186,,1 lot
+3055.054,lot,Lot186,processing completed,907,STG907,Lot186,active,
+3055.054,tool,STG907,process completed,907,STG907,Lot186,,
+3055.054,lot,Lot186,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3055.054,lot,Lot186,moved into operation,908,,,active,
+3085.096,lot,Lot187,created,,,,active,25 wafers
+3085.096,lot,Lot187,moved into operation,907,,,active,
+3085.096,lot,Lot187,processing started,907,STG907,Lot187,active,
+3085.096,tool,STG907,in process,907,STG907,Lot187,,1 lot
+3086.096,lot,Lot187,processing completed,907,STG907,Lot187,active,
+3086.096,tool,STG907,process completed,907,STG907,Lot187,,
+3086.096,lot,Lot187,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3086.096,lot,Lot187,moved into operation,908,,,active,
+3107.22,lot,Lot188,created,,,,active,25 wafers
+3107.22,lot,Lot188,moved into operation,907,,,active,
+3107.22,lot,Lot188,processing started,907,STG907,Lot188,active,
+3107.22,tool,STG907,in process,907,STG907,Lot188,,1 lot
+3108.22,lot,Lot188,processing completed,907,STG907,Lot188,active,
+3108.22,tool,STG907,process completed,907,STG907,Lot188,,
+3108.22,lot,Lot188,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3108.22,lot,Lot188,moved into operation,908,,,active,
+3108.22,tool,VFP702,batch dispatched,908,VFP702,Lot186;Lot187;Lot188,,3 lots
+3118.514,lot,Lot189,created,,,,active,25 wafers
+3118.514,lot,Lot189,moved into operation,907,,,active,
+3118.514,lot,Lot189,processing started,907,STG907,Lot189,active,
+3118.514,tool,STG907,in process,907,STG907,Lot189,,1 lot
+3119.514,lot,Lot189,processing completed,907,STG907,Lot189,active,
+3119.514,tool,STG907,process completed,907,STG907,Lot189,,
+3119.514,lot,Lot189,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3119.514,lot,Lot189,moved into operation,908,,,active,
+3147.101,lot,Lot190,created,,,,active,25 wafers
+3147.101,lot,Lot190,moved into operation,907,,,active,
+3147.101,lot,Lot190,processing started,907,STG907,Lot190,active,
+3147.101,tool,STG907,in process,907,STG907,Lot190,,1 lot
+3148.101,lot,Lot190,processing completed,907,STG907,Lot190,active,
+3148.101,tool,STG907,process completed,907,STG907,Lot190,,
+3148.101,lot,Lot190,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3148.101,lot,Lot190,moved into operation,908,,,active,
+3178.101,tool,VFP701,batch dispatched,908,VFP701,Lot189;Lot190,,2 lots
+3260.474,lot,Lot191,created,,,,active,25 wafers
+3260.474,lot,Lot191,moved into operation,907,,,active,
+3260.474,lot,Lot191,processing started,907,STG907,Lot191,active,
+3260.474,tool,STG907,in process,907,STG907,Lot191,,1 lot
+3260.68,lot,Lot192,created,,,,active,25 wafers
+3260.68,lot,Lot192,moved into operation,907,,,active,
+3260.68,lot,Lot192,processing started,907,STG907,Lot192,active,
+3260.68,tool,STG907,in process,907,STG907,Lot192,,1 lot
+3261.474,lot,Lot191,processing completed,907,STG907,Lot191,active,
+3261.474,tool,STG907,process completed,907,STG907,Lot191,,
+3261.474,lot,Lot191,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3261.474,lot,Lot191,moved into operation,908,,,active,
+3261.68,lot,Lot192,processing completed,907,STG907,Lot192,active,
+3261.68,tool,STG907,process completed,907,STG907,Lot192,,
+3261.68,lot,Lot192,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3261.68,lot,Lot192,moved into operation,908,,,active,
+3291.68,tool,VFP702,batch dispatched,908,VFP702,Lot191;Lot192,,2 lots
+3315.792,lot,Lot193,created,,,,active,25 wafers
+3315.792,lot,Lot193,moved into operation,907,,,active,
+3315.792,lot,Lot193,processing started,907,STG907,Lot193,active,
+3315.792,tool,STG907,in process,907,STG907,Lot193,,1 lot
+3316.792,lot,Lot193,processing completed,907,STG907,Lot193,active,
+3316.792,tool,STG907,process completed,907,STG907,Lot193,,
+3316.792,lot,Lot193,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3316.792,lot,Lot193,moved into operation,908,,,active,
+3343.88,lot,Lot141,processing completed,908,VFP701,Lot141;Lot142;Lot143,active,
+3343.88,lot,Lot141,moved out of operation,908,,,hold,operation elapsed 2050.2 min; limit 720 min
+3343.88,lot,Lot142,processing completed,908,VFP701,Lot141;Lot142;Lot143,active,
+3343.88,lot,Lot142,moved out of operation,908,,,hold,operation elapsed 1979.4 min; limit 720 min
+3343.88,lot,Lot143,processing completed,908,VFP701,Lot141;Lot142;Lot143,active,
+3343.88,lot,Lot143,moved out of operation,908,,,hold,operation elapsed 1974.8 min; limit 720 min
+3343.88,tool,VFP701,process completed,908,VFP701,Lot141;Lot142;Lot143,,
+3343.88,lot,Lot146,processing started,908,VFP701,Lot146;Lot147;Lot148,active,
+3343.88,lot,Lot147,processing started,908,VFP701,Lot146;Lot147;Lot148,active,
+3343.88,lot,Lot148,processing started,908,VFP701,Lot146;Lot147;Lot148,active,
+3343.88,tool,VFP701,in process,908,VFP701,Lot146;Lot147;Lot148,,
+3377.622,lot,Lot194,created,,,,active,25 wafers
+3377.622,lot,Lot194,moved into operation,907,,,active,
+3377.622,lot,Lot194,processing started,907,STG907,Lot194,active,
+3377.622,tool,STG907,in process,907,STG907,Lot194,,1 lot
+3378.622,lot,Lot194,processing completed,907,STG907,Lot194,active,
+3378.622,tool,STG907,process completed,907,STG907,Lot194,,
+3378.622,lot,Lot194,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3378.622,lot,Lot194,moved into operation,908,,,active,
+3401.054,lot,Lot144,processing completed,908,VFP702,Lot144;Lot145,active,
+3401.054,lot,Lot144,moved out of operation,908,,,hold,operation elapsed 2017.4 min; limit 720 min
+3401.054,lot,Lot145,processing completed,908,VFP702,Lot144;Lot145,active,
+3401.054,lot,Lot145,moved out of operation,908,,,hold,operation elapsed 1971.4 min; limit 720 min
+3401.054,tool,VFP702,process completed,908,VFP702,Lot144;Lot145,,
+3401.054,lot,Lot149,processing started,908,VFP702,Lot149;Lot150;Lot151,active,
+3401.054,lot,Lot150,processing started,908,VFP702,Lot149;Lot150;Lot151,active,
+3401.054,lot,Lot151,processing started,908,VFP702,Lot149;Lot150;Lot151,active,
+3401.054,tool,VFP702,in process,908,VFP702,Lot149;Lot150;Lot151,,
+3408.622,tool,VFP701,batch dispatched,908,VFP701,Lot193;Lot194,,2 lots
+3455.855,lot,Lot195,created,,,,active,25 wafers
+3455.855,lot,Lot195,moved into operation,907,,,active,
+3455.855,lot,Lot195,processing started,907,STG907,Lot195,active,
+3455.855,tool,STG907,in process,907,STG907,Lot195,,1 lot
+3456.855,lot,Lot195,processing completed,907,STG907,Lot195,active,
+3456.855,tool,STG907,process completed,907,STG907,Lot195,,
+3456.855,lot,Lot195,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3456.855,lot,Lot195,moved into operation,908,,,active,
+3504.419,lot,Lot196,created,,,,active,25 wafers
+3504.419,lot,Lot196,moved into operation,907,,,active,
+3504.419,lot,Lot196,processing started,907,STG907,Lot196,active,
+3504.419,tool,STG907,in process,907,STG907,Lot196,,1 lot
+3505.419,lot,Lot196,processing completed,907,STG907,Lot196,active,
+3505.419,tool,STG907,process completed,907,STG907,Lot196,,
+3505.419,lot,Lot196,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3505.419,lot,Lot196,moved into operation,908,,,active,
+3535.419,tool,VFP702,batch dispatched,908,VFP702,Lot195;Lot196,,2 lots
+3564.043,lot,Lot197,created,,,,active,25 wafers
+3564.043,lot,Lot197,moved into operation,907,,,active,
+3564.043,lot,Lot197,processing started,907,STG907,Lot197,active,
+3564.043,tool,STG907,in process,907,STG907,Lot197,,1 lot
+3565.043,lot,Lot197,processing completed,907,STG907,Lot197,active,
+3565.043,tool,STG907,process completed,907,STG907,Lot197,,
+3565.043,lot,Lot197,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3565.043,lot,Lot197,moved into operation,908,,,active,
+3590.367,lot,Lot198,created,,,,active,25 wafers
+3590.367,lot,Lot198,moved into operation,907,,,active,
+3590.367,lot,Lot198,processing started,907,STG907,Lot198,active,
+3590.367,tool,STG907,in process,907,STG907,Lot198,,1 lot
+3591.367,lot,Lot198,processing completed,907,STG907,Lot198,active,
+3591.367,tool,STG907,process completed,907,STG907,Lot198,,
+3591.367,lot,Lot198,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3591.367,lot,Lot198,moved into operation,908,,,active,
+3620.034,lot,Lot199,created,,,,active,25 wafers
+3620.034,lot,Lot199,moved into operation,907,,,active,
+3620.034,lot,Lot199,processing started,907,STG907,Lot199,active,
+3620.034,tool,STG907,in process,907,STG907,Lot199,,1 lot
+3621.034,lot,Lot199,processing completed,907,STG907,Lot199,active,
+3621.034,tool,STG907,process completed,907,STG907,Lot199,,
+3621.034,lot,Lot199,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3621.034,lot,Lot199,moved into operation,908,,,active,
+3621.034,tool,VFP701,batch dispatched,908,VFP701,Lot197;Lot198;Lot199,,3 lots
+3640.024,lot,Lot200,created,,,,active,25 wafers
+3640.024,lot,Lot200,moved into operation,907,,,active,
+3640.024,lot,Lot200,processing started,907,STG907,Lot200,active,
+3640.024,tool,STG907,in process,907,STG907,Lot200,,1 lot
+3641.024,lot,Lot200,processing completed,907,STG907,Lot200,active,
+3641.024,tool,STG907,process completed,907,STG907,Lot200,,
+3641.024,lot,Lot200,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3641.024,lot,Lot200,moved into operation,908,,,active,
+3642.103,lot,Lot201,created,,,,active,25 wafers
+3642.103,lot,Lot201,moved into operation,907,,,active,
+3642.103,lot,Lot201,processing started,907,STG907,Lot201,active,
+3642.103,tool,STG907,in process,907,STG907,Lot201,,1 lot
+3643.103,lot,Lot201,processing completed,907,STG907,Lot201,active,
+3643.103,tool,STG907,process completed,907,STG907,Lot201,,
+3643.103,lot,Lot201,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3643.103,lot,Lot201,moved into operation,908,,,active,
+3673.103,tool,VFP702,batch dispatched,908,VFP702,Lot200;Lot201,,2 lots
+3703.88,lot,Lot146,processing completed,908,VFP701,Lot146;Lot147;Lot148,active,
+3703.88,lot,Lot146,moved out of operation,908,,,hold,operation elapsed 2229.5 min; limit 720 min
+3703.88,lot,Lot147,processing completed,908,VFP701,Lot146;Lot147;Lot148,active,
+3703.88,lot,Lot147,moved out of operation,908,,,hold,operation elapsed 2130.3 min; limit 720 min
+3703.88,lot,Lot148,processing completed,908,VFP701,Lot146;Lot147;Lot148,active,
+3703.88,lot,Lot148,moved out of operation,908,,,hold,operation elapsed 2110.6 min; limit 720 min
+3703.88,tool,VFP701,process completed,908,VFP701,Lot146;Lot147;Lot148,,
+3703.88,lot,Lot152,processing started,908,VFP701,Lot152;Lot153,active,
+3703.88,lot,Lot153,processing started,908,VFP701,Lot152;Lot153,active,
+3703.88,tool,VFP701,in process,908,VFP701,Lot152;Lot153,,
+3715.554,lot,Lot202,created,,,,active,25 wafers
+3715.554,lot,Lot202,moved into operation,907,,,active,
+3715.554,lot,Lot202,processing started,907,STG907,Lot202,active,
+3715.554,tool,STG907,in process,907,STG907,Lot202,,1 lot
+3716.554,lot,Lot202,processing completed,907,STG907,Lot202,active,
+3716.554,tool,STG907,process completed,907,STG907,Lot202,,
+3716.554,lot,Lot202,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3716.554,lot,Lot202,moved into operation,908,,,active,
+3745.937,lot,Lot203,created,,,,active,25 wafers
+3745.937,lot,Lot203,moved into operation,907,,,active,
+3745.937,lot,Lot203,processing started,907,STG907,Lot203,active,
+3745.937,tool,STG907,in process,907,STG907,Lot203,,1 lot
+3746.937,lot,Lot203,processing completed,907,STG907,Lot203,active,
+3746.937,tool,STG907,process completed,907,STG907,Lot203,,
+3746.937,lot,Lot203,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3746.937,lot,Lot203,moved into operation,908,,,active,
+3753.963,lot,Lot204,created,,,,active,25 wafers
+3753.963,lot,Lot204,moved into operation,907,,,active,
+3753.963,lot,Lot204,processing started,907,STG907,Lot204,active,
+3753.963,tool,STG907,in process,907,STG907,Lot204,,1 lot
+3754.963,lot,Lot204,processing completed,907,STG907,Lot204,active,
+3754.963,tool,STG907,process completed,907,STG907,Lot204,,
+3754.963,lot,Lot204,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3754.963,lot,Lot204,moved into operation,908,,,active,
+3754.963,tool,VFP701,batch dispatched,908,VFP701,Lot202;Lot203;Lot204,,3 lots
+3761.054,lot,Lot149,processing completed,908,VFP702,Lot149;Lot150;Lot151,active,
+3761.054,lot,Lot149,moved out of operation,908,,,hold,operation elapsed 2103.9 min; limit 720 min
+3761.054,lot,Lot150,processing completed,908,VFP702,Lot149;Lot150;Lot151,active,
+3761.054,lot,Lot150,moved out of operation,908,,,hold,operation elapsed 2064.0 min; limit 720 min
+3761.054,lot,Lot151,processing completed,908,VFP702,Lot149;Lot150;Lot151,active,
+3761.054,lot,Lot151,moved out of operation,908,,,hold,operation elapsed 2051.0 min; limit 720 min
+3761.054,tool,VFP702,process completed,908,VFP702,Lot149;Lot150;Lot151,,
+3761.054,lot,Lot154,processing started,908,VFP702,Lot154;Lot155,active,
+3761.054,lot,Lot155,processing started,908,VFP702,Lot154;Lot155,active,
+3761.054,tool,VFP702,in process,908,VFP702,Lot154;Lot155,,
+3779.258,lot,Lot205,created,,,,active,25 wafers
+3779.258,lot,Lot205,moved into operation,907,,,active,
+3779.258,lot,Lot205,processing started,907,STG907,Lot205,active,
+3779.258,tool,STG907,in process,907,STG907,Lot205,,1 lot
+3780.258,lot,Lot205,processing completed,907,STG907,Lot205,active,
+3780.258,tool,STG907,process completed,907,STG907,Lot205,,
+3780.258,lot,Lot205,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3780.258,lot,Lot205,moved into operation,908,,,active,
+3803.142,lot,Lot206,created,,,,active,25 wafers
+3803.142,lot,Lot206,moved into operation,907,,,active,
+3803.142,lot,Lot206,processing started,907,STG907,Lot206,active,
+3803.142,tool,STG907,in process,907,STG907,Lot206,,1 lot
+3804.142,lot,Lot206,processing completed,907,STG907,Lot206,active,
+3804.142,tool,STG907,process completed,907,STG907,Lot206,,
+3804.142,lot,Lot206,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3804.142,lot,Lot206,moved into operation,908,,,active,
+3819.028,lot,Lot207,created,,,,active,25 wafers
+3819.028,lot,Lot207,moved into operation,907,,,active,
+3819.028,lot,Lot207,processing started,907,STG907,Lot207,active,
+3819.028,tool,STG907,in process,907,STG907,Lot207,,1 lot
+3820.028,lot,Lot207,processing completed,907,STG907,Lot207,active,
+3820.028,tool,STG907,process completed,907,STG907,Lot207,,
+3820.028,lot,Lot207,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3820.028,lot,Lot207,moved into operation,908,,,active,
+3820.028,tool,VFP702,batch dispatched,908,VFP702,Lot205;Lot206;Lot207,,3 lots
+3834.319,lot,Lot208,created,,,,active,25 wafers
+3834.319,lot,Lot208,moved into operation,907,,,active,
+3834.319,lot,Lot208,processing started,907,STG907,Lot208,active,
+3834.319,tool,STG907,in process,907,STG907,Lot208,,1 lot
+3835.319,lot,Lot208,processing completed,907,STG907,Lot208,active,
+3835.319,tool,STG907,process completed,907,STG907,Lot208,,
+3835.319,lot,Lot208,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3835.319,lot,Lot208,moved into operation,908,,,active,
+3862.156,lot,Lot209,created,,,,active,25 wafers
+3862.156,lot,Lot209,moved into operation,907,,,active,
+3862.156,lot,Lot209,processing started,907,STG907,Lot209,active,
+3862.156,tool,STG907,in process,907,STG907,Lot209,,1 lot
+3863.156,lot,Lot209,processing completed,907,STG907,Lot209,active,
+3863.156,tool,STG907,process completed,907,STG907,Lot209,,
+3863.156,lot,Lot209,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3863.156,lot,Lot209,moved into operation,908,,,active,
+3893.156,tool,VFP701,batch dispatched,908,VFP701,Lot208;Lot209,,2 lots
+3897.321,lot,Lot210,created,,,,active,25 wafers
+3897.321,lot,Lot210,moved into operation,907,,,active,
+3897.321,lot,Lot210,processing started,907,STG907,Lot210,active,
+3897.321,tool,STG907,in process,907,STG907,Lot210,,1 lot
+3898.321,lot,Lot210,processing completed,907,STG907,Lot210,active,
+3898.321,tool,STG907,process completed,907,STG907,Lot210,,
+3898.321,lot,Lot210,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3898.321,lot,Lot210,moved into operation,908,,,active,
+3931.446,lot,Lot211,created,,,,active,25 wafers
+3931.446,lot,Lot211,moved into operation,907,,,active,
+3931.446,lot,Lot211,processing started,907,STG907,Lot211,active,
+3931.446,tool,STG907,in process,907,STG907,Lot211,,1 lot
+3932.446,lot,Lot211,processing completed,907,STG907,Lot211,active,
+3932.446,tool,STG907,process completed,907,STG907,Lot211,,
+3932.446,lot,Lot211,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3932.446,lot,Lot211,moved into operation,908,,,active,
+3953.505,lot,Lot212,created,,,,active,25 wafers
+3953.505,lot,Lot212,moved into operation,907,,,active,
+3953.505,lot,Lot212,processing started,907,STG907,Lot212,active,
+3953.505,tool,STG907,in process,907,STG907,Lot212,,1 lot
+3954.505,lot,Lot212,processing completed,907,STG907,Lot212,active,
+3954.505,tool,STG907,process completed,907,STG907,Lot212,,
+3954.505,lot,Lot212,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3954.505,lot,Lot212,moved into operation,908,,,active,
+3954.505,tool,VFP702,batch dispatched,908,VFP702,Lot210;Lot211;Lot212,,3 lots
+3954.526,lot,Lot213,created,,,,active,25 wafers
+3954.526,lot,Lot213,moved into operation,907,,,active,
+3954.526,lot,Lot213,processing started,907,STG907,Lot213,active,
+3954.526,tool,STG907,in process,907,STG907,Lot213,,1 lot
+3955.526,lot,Lot213,processing completed,907,STG907,Lot213,active,
+3955.526,tool,STG907,process completed,907,STG907,Lot213,,
+3955.526,lot,Lot213,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3955.526,lot,Lot213,moved into operation,908,,,active,
+3963.917,lot,Lot214,created,,,,active,25 wafers
+3963.917,lot,Lot214,moved into operation,907,,,active,
+3963.917,lot,Lot214,processing started,907,STG907,Lot214,active,
+3963.917,tool,STG907,in process,907,STG907,Lot214,,1 lot
+3964.917,lot,Lot214,processing completed,907,STG907,Lot214,active,
+3964.917,tool,STG907,process completed,907,STG907,Lot214,,
+3964.917,lot,Lot214,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3964.917,lot,Lot214,moved into operation,908,,,active,
+3970.939,lot,Lot215,created,,,,active,25 wafers
+3970.939,lot,Lot215,moved into operation,907,,,active,
+3970.939,lot,Lot215,processing started,907,STG907,Lot215,active,
+3970.939,tool,STG907,in process,907,STG907,Lot215,,1 lot
+3971.939,lot,Lot215,processing completed,907,STG907,Lot215,active,
+3971.939,tool,STG907,process completed,907,STG907,Lot215,,
+3971.939,lot,Lot215,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+3971.939,lot,Lot215,moved into operation,908,,,active,
+3971.939,tool,VFP701,batch dispatched,908,VFP701,Lot213;Lot214;Lot215,,3 lots
+4002.554,lot,Lot216,created,,,,active,25 wafers
+4002.554,lot,Lot216,moved into operation,907,,,active,
+4002.554,lot,Lot216,processing started,907,STG907,Lot216,active,
+4002.554,tool,STG907,in process,907,STG907,Lot216,,1 lot
+4003.554,lot,Lot216,processing completed,907,STG907,Lot216,active,
+4003.554,tool,STG907,process completed,907,STG907,Lot216,,
+4003.554,lot,Lot216,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4003.554,lot,Lot216,moved into operation,908,,,active,
+4063.88,lot,Lot152,processing completed,908,VFP701,Lot152;Lot153,active,
+4063.88,lot,Lot152,moved out of operation,908,,,hold,operation elapsed 2321.9 min; limit 720 min
+4063.88,lot,Lot153,processing completed,908,VFP701,Lot152;Lot153,active,
+4063.88,lot,Lot153,moved out of operation,908,,,hold,operation elapsed 2244.8 min; limit 720 min
+4063.88,tool,VFP701,process completed,908,VFP701,Lot152;Lot153,,
+4063.88,lot,Lot156,processing started,908,VFP701,Lot156;Lot157;Lot158,active,
+4063.88,lot,Lot157,processing started,908,VFP701,Lot156;Lot157;Lot158,active,
+4063.88,lot,Lot158,processing started,908,VFP701,Lot156;Lot157;Lot158,active,
+4063.88,tool,VFP701,in process,908,VFP701,Lot156;Lot157;Lot158,,
+4073.594,lot,Lot217,created,,,,active,25 wafers
+4073.594,lot,Lot217,moved into operation,907,,,active,
+4073.594,lot,Lot217,processing started,907,STG907,Lot217,active,
+4073.594,tool,STG907,in process,907,STG907,Lot217,,1 lot
+4074.594,lot,Lot217,processing completed,907,STG907,Lot217,active,
+4074.594,tool,STG907,process completed,907,STG907,Lot217,,
+4074.594,lot,Lot217,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4074.594,lot,Lot217,moved into operation,908,,,active,
+4104.594,tool,VFP702,batch dispatched,908,VFP702,Lot216;Lot217,,2 lots
+4121.054,lot,Lot154,processing completed,908,VFP702,Lot154;Lot155,active,
+4121.054,lot,Lot154,moved out of operation,908,,,hold,operation elapsed 2234.6 min; limit 720 min
+4121.054,lot,Lot155,processing completed,908,VFP702,Lot154;Lot155,active,
+4121.054,lot,Lot155,moved out of operation,908,,,hold,operation elapsed 2209.3 min; limit 720 min
+4121.054,tool,VFP702,process completed,908,VFP702,Lot154;Lot155,,
+4121.054,lot,Lot159,processing started,908,VFP702,Lot159;Lot160;Lot161,active,
+4121.054,lot,Lot160,processing started,908,VFP702,Lot159;Lot160;Lot161,active,
+4121.054,lot,Lot161,processing started,908,VFP702,Lot159;Lot160;Lot161,active,
+4121.054,tool,VFP702,in process,908,VFP702,Lot159;Lot160;Lot161,,
+4131.254,lot,Lot218,created,,,,active,25 wafers
+4131.254,lot,Lot218,moved into operation,907,,,active,
+4131.254,lot,Lot218,processing started,907,STG907,Lot218,active,
+4131.254,tool,STG907,in process,907,STG907,Lot218,,1 lot
+4132.254,lot,Lot218,processing completed,907,STG907,Lot218,active,
+4132.254,tool,STG907,process completed,907,STG907,Lot218,,
+4132.254,lot,Lot218,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4132.254,lot,Lot218,moved into operation,908,,,active,
+4188.675,lot,Lot219,created,,,,active,25 wafers
+4188.675,lot,Lot219,moved into operation,907,,,active,
+4188.675,lot,Lot219,processing started,907,STG907,Lot219,active,
+4188.675,tool,STG907,in process,907,STG907,Lot219,,1 lot
+4189.675,lot,Lot219,processing completed,907,STG907,Lot219,active,
+4189.675,tool,STG907,process completed,907,STG907,Lot219,,
+4189.675,lot,Lot219,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4189.675,lot,Lot219,moved into operation,908,,,active,
+4219.675,tool,VFP701,batch dispatched,908,VFP701,Lot218;Lot219,,2 lots
+4249.702,lot,Lot220,created,,,,active,25 wafers
+4249.702,lot,Lot220,moved into operation,907,,,active,
+4249.702,lot,Lot220,processing started,907,STG907,Lot220,active,
+4249.702,tool,STG907,in process,907,STG907,Lot220,,1 lot
+4250.702,lot,Lot220,processing completed,907,STG907,Lot220,active,
+4250.702,tool,STG907,process completed,907,STG907,Lot220,,
+4250.702,lot,Lot220,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4250.702,lot,Lot220,moved into operation,908,,,active,
+4260.314,lot,Lot221,created,,,,active,25 wafers
+4260.314,lot,Lot221,moved into operation,907,,,active,
+4260.314,lot,Lot221,processing started,907,STG907,Lot221,active,
+4260.314,tool,STG907,in process,907,STG907,Lot221,,1 lot
+4261.314,lot,Lot221,processing completed,907,STG907,Lot221,active,
+4261.314,tool,STG907,process completed,907,STG907,Lot221,,
+4261.314,lot,Lot221,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4261.314,lot,Lot221,moved into operation,908,,,active,
+4291.314,tool,VFP702,batch dispatched,908,VFP702,Lot220;Lot221,,2 lots
+4326.681,lot,Lot222,created,,,,active,25 wafers
+4326.681,lot,Lot222,moved into operation,907,,,active,
+4326.681,lot,Lot222,processing started,907,STG907,Lot222,active,
+4326.681,tool,STG907,in process,907,STG907,Lot222,,1 lot
+4327.681,lot,Lot222,processing completed,907,STG907,Lot222,active,
+4327.681,tool,STG907,process completed,907,STG907,Lot222,,
+4327.681,lot,Lot222,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4327.681,lot,Lot222,moved into operation,908,,,active,
+4366.935,lot,Lot223,created,,,,active,25 wafers
+4366.935,lot,Lot223,moved into operation,907,,,active,
+4366.935,lot,Lot223,processing started,907,STG907,Lot223,active,
+4366.935,tool,STG907,in process,907,STG907,Lot223,,1 lot
+4367.935,lot,Lot223,processing completed,907,STG907,Lot223,active,
+4367.935,tool,STG907,process completed,907,STG907,Lot223,,
+4367.935,lot,Lot223,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4367.935,lot,Lot223,moved into operation,908,,,active,
+4370.063,lot,Lot224,created,,,,active,25 wafers
+4370.063,lot,Lot224,moved into operation,907,,,active,
+4370.063,lot,Lot224,processing started,907,STG907,Lot224,active,
+4370.063,tool,STG907,in process,907,STG907,Lot224,,1 lot
+4370.669,lot,Lot225,created,,,,active,25 wafers
+4370.669,lot,Lot225,moved into operation,907,,,active,
+4370.669,lot,Lot225,processing started,907,STG907,Lot225,active,
+4370.669,tool,STG907,in process,907,STG907,Lot225,,1 lot
+4371.063,lot,Lot224,processing completed,907,STG907,Lot224,active,
+4371.063,tool,STG907,process completed,907,STG907,Lot224,,
+4371.063,lot,Lot224,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4371.063,lot,Lot224,moved into operation,908,,,active,
+4371.063,tool,VFP701,batch dispatched,908,VFP701,Lot222;Lot223;Lot224,,3 lots
+4371.197,lot,Lot226,created,,,,active,25 wafers
+4371.197,lot,Lot226,moved into operation,907,,,active,
+4371.197,lot,Lot226,processing started,907,STG907,Lot226,active,
+4371.197,tool,STG907,in process,907,STG907,Lot226,,1 lot
+4371.669,lot,Lot225,processing completed,907,STG907,Lot225,active,
+4371.669,tool,STG907,process completed,907,STG907,Lot225,,
+4371.669,lot,Lot225,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4371.669,lot,Lot225,moved into operation,908,,,active,
+4372.197,lot,Lot226,processing completed,907,STG907,Lot226,active,
+4372.197,tool,STG907,process completed,907,STG907,Lot226,,
+4372.197,lot,Lot226,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4372.197,lot,Lot226,moved into operation,908,,,active,
+4402.197,tool,VFP702,batch dispatched,908,VFP702,Lot225;Lot226,,2 lots
+4421.917,lot,Lot227,created,,,,active,25 wafers
+4421.917,lot,Lot227,moved into operation,907,,,active,
+4421.917,lot,Lot227,processing started,907,STG907,Lot227,active,
+4421.917,tool,STG907,in process,907,STG907,Lot227,,1 lot
+4422.917,lot,Lot227,processing completed,907,STG907,Lot227,active,
+4422.917,tool,STG907,process completed,907,STG907,Lot227,,
+4422.917,lot,Lot227,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4422.917,lot,Lot227,moved into operation,908,,,active,
+4423.88,lot,Lot156,processing completed,908,VFP701,Lot156;Lot157;Lot158,active,
+4423.88,lot,Lot156,moved out of operation,908,,,hold,operation elapsed 2480.1 min; limit 720 min
+4423.88,lot,Lot157,processing completed,908,VFP701,Lot156;Lot157;Lot158,active,
+4423.88,lot,Lot157,moved out of operation,908,,,hold,operation elapsed 2478.8 min; limit 720 min
+4423.88,lot,Lot158,processing completed,908,VFP701,Lot156;Lot157;Lot158,active,
+4423.88,lot,Lot158,moved out of operation,908,,,hold,operation elapsed 2468.8 min; limit 720 min
+4423.88,tool,VFP701,process completed,908,VFP701,Lot156;Lot157;Lot158,,
+4423.88,lot,Lot162,processing started,908,VFP701,Lot162;Lot163,active,
+4423.88,lot,Lot163,processing started,908,VFP701,Lot162;Lot163,active,
+4423.88,tool,VFP701,in process,908,VFP701,Lot162;Lot163,,
+4432.253,lot,Lot228,created,,,,active,25 wafers
+4432.253,lot,Lot228,moved into operation,907,,,active,
+4432.253,lot,Lot228,processing started,907,STG907,Lot228,active,
+4432.253,tool,STG907,in process,907,STG907,Lot228,,1 lot
+4433.253,lot,Lot228,processing completed,907,STG907,Lot228,active,
+4433.253,tool,STG907,process completed,907,STG907,Lot228,,
+4433.253,lot,Lot228,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4433.253,lot,Lot228,moved into operation,908,,,active,
+4436.427,lot,Lot229,created,,,,active,25 wafers
+4436.427,lot,Lot229,moved into operation,907,,,active,
+4436.427,lot,Lot229,processing started,907,STG907,Lot229,active,
+4436.427,tool,STG907,in process,907,STG907,Lot229,,1 lot
+4437.427,lot,Lot229,processing completed,907,STG907,Lot229,active,
+4437.427,tool,STG907,process completed,907,STG907,Lot229,,
+4437.427,lot,Lot229,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4437.427,lot,Lot229,moved into operation,908,,,active,
+4437.427,tool,VFP701,batch dispatched,908,VFP701,Lot227;Lot228;Lot229,,3 lots
+4471.718,lot,Lot230,created,,,,active,25 wafers
+4471.718,lot,Lot230,moved into operation,907,,,active,
+4471.718,lot,Lot230,processing started,907,STG907,Lot230,active,
+4471.718,tool,STG907,in process,907,STG907,Lot230,,1 lot
+4472.718,lot,Lot230,processing completed,907,STG907,Lot230,active,
+4472.718,tool,STG907,process completed,907,STG907,Lot230,,
+4472.718,lot,Lot230,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4472.718,lot,Lot230,moved into operation,908,,,active,
+4481.054,lot,Lot159,processing completed,908,VFP702,Lot159;Lot160;Lot161,active,
+4481.054,lot,Lot159,moved out of operation,908,,,hold,operation elapsed 2468.5 min; limit 720 min
+4481.054,lot,Lot160,processing completed,908,VFP702,Lot159;Lot160;Lot161,active,
+4481.054,lot,Lot160,moved out of operation,908,,,hold,operation elapsed 2449.3 min; limit 720 min
+4481.054,lot,Lot161,processing completed,908,VFP702,Lot159;Lot160;Lot161,active,
+4481.054,lot,Lot161,moved out of operation,908,,,hold,operation elapsed 2442.4 min; limit 720 min
+4481.054,tool,VFP702,process completed,908,VFP702,Lot159;Lot160;Lot161,,
+4481.054,lot,Lot164,processing started,908,VFP702,Lot164;Lot165;Lot166,active,
+4481.054,lot,Lot165,processing started,908,VFP702,Lot164;Lot165;Lot166,active,
+4481.054,lot,Lot166,processing started,908,VFP702,Lot164;Lot165;Lot166,active,
+4481.054,tool,VFP702,in process,908,VFP702,Lot164;Lot165;Lot166,,
+4486.919,lot,Lot231,created,,,,active,25 wafers
+4486.919,lot,Lot231,moved into operation,907,,,active,
+4486.919,lot,Lot231,processing started,907,STG907,Lot231,active,
+4486.919,tool,STG907,in process,907,STG907,Lot231,,1 lot
+4487.919,lot,Lot231,processing completed,907,STG907,Lot231,active,
+4487.919,tool,STG907,process completed,907,STG907,Lot231,,
+4487.919,lot,Lot231,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4487.919,lot,Lot231,moved into operation,908,,,active,
+4489.512,lot,Lot232,created,,,,active,25 wafers
+4489.512,lot,Lot232,moved into operation,907,,,active,
+4489.512,lot,Lot232,processing started,907,STG907,Lot232,active,
+4489.512,tool,STG907,in process,907,STG907,Lot232,,1 lot
+4490.512,lot,Lot232,processing completed,907,STG907,Lot232,active,
+4490.512,tool,STG907,process completed,907,STG907,Lot232,,
+4490.512,lot,Lot232,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4490.512,lot,Lot232,moved into operation,908,,,active,
+4490.512,tool,VFP702,batch dispatched,908,VFP702,Lot230;Lot231;Lot232,,3 lots
+4495.773,lot,Lot233,created,,,,active,25 wafers
+4495.773,lot,Lot233,moved into operation,907,,,active,
+4495.773,lot,Lot233,processing started,907,STG907,Lot233,active,
+4495.773,tool,STG907,in process,907,STG907,Lot233,,1 lot
+4496.773,lot,Lot233,processing completed,907,STG907,Lot233,active,
+4496.773,tool,STG907,process completed,907,STG907,Lot233,,
+4496.773,lot,Lot233,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4496.773,lot,Lot233,moved into operation,908,,,active,
+4522.754,lot,Lot234,created,,,,active,25 wafers
+4522.754,lot,Lot234,moved into operation,907,,,active,
+4522.754,lot,Lot234,processing started,907,STG907,Lot234,active,
+4522.754,tool,STG907,in process,907,STG907,Lot234,,1 lot
+4523.754,lot,Lot234,processing completed,907,STG907,Lot234,active,
+4523.754,tool,STG907,process completed,907,STG907,Lot234,,
+4523.754,lot,Lot234,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4523.754,lot,Lot234,moved into operation,908,,,active,
+4529.381,lot,Lot235,created,,,,active,25 wafers
+4529.381,lot,Lot235,moved into operation,907,,,active,
+4529.381,lot,Lot235,processing started,907,STG907,Lot235,active,
+4529.381,tool,STG907,in process,907,STG907,Lot235,,1 lot
+4530.381,lot,Lot235,processing completed,907,STG907,Lot235,active,
+4530.381,tool,STG907,process completed,907,STG907,Lot235,,
+4530.381,lot,Lot235,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4530.381,lot,Lot235,moved into operation,908,,,active,
+4530.381,tool,VFP701,batch dispatched,908,VFP701,Lot233;Lot234;Lot235,,3 lots
+4540.855,lot,Lot236,created,,,,active,25 wafers
+4540.855,lot,Lot236,moved into operation,907,,,active,
+4540.855,lot,Lot236,processing started,907,STG907,Lot236,active,
+4540.855,tool,STG907,in process,907,STG907,Lot236,,1 lot
+4541.855,lot,Lot236,processing completed,907,STG907,Lot236,active,
+4541.855,tool,STG907,process completed,907,STG907,Lot236,,
+4541.855,lot,Lot236,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4541.855,lot,Lot236,moved into operation,908,,,active,
+4585.616,lot,Lot237,created,,,,active,25 wafers
+4585.616,lot,Lot237,moved into operation,907,,,active,
+4585.616,lot,Lot237,processing started,907,STG907,Lot237,active,
+4585.616,tool,STG907,in process,907,STG907,Lot237,,1 lot
+4586.616,lot,Lot237,processing completed,907,STG907,Lot237,active,
+4586.616,tool,STG907,process completed,907,STG907,Lot237,,
+4586.616,lot,Lot237,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4586.616,lot,Lot237,moved into operation,908,,,active,
+4607.447,lot,Lot238,created,,,,active,25 wafers
+4607.447,lot,Lot238,moved into operation,907,,,active,
+4607.447,lot,Lot238,processing started,907,STG907,Lot238,active,
+4607.447,tool,STG907,in process,907,STG907,Lot238,,1 lot
+4608.447,lot,Lot238,processing completed,907,STG907,Lot238,active,
+4608.447,tool,STG907,process completed,907,STG907,Lot238,,
+4608.447,lot,Lot238,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4608.447,lot,Lot238,moved into operation,908,,,active,
+4608.447,tool,VFP702,batch dispatched,908,VFP702,Lot236;Lot237;Lot238,,3 lots
+4621.437,lot,Lot239,created,,,,active,25 wafers
+4621.437,lot,Lot239,moved into operation,907,,,active,
+4621.437,lot,Lot239,processing started,907,STG907,Lot239,active,
+4621.437,tool,STG907,in process,907,STG907,Lot239,,1 lot
+4622.437,lot,Lot239,processing completed,907,STG907,Lot239,active,
+4622.437,tool,STG907,process completed,907,STG907,Lot239,,
+4622.437,lot,Lot239,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4622.437,lot,Lot239,moved into operation,908,,,active,
+4644.55,lot,Lot240,created,,,,active,25 wafers
+4644.55,lot,Lot240,moved into operation,907,,,active,
+4644.55,lot,Lot240,processing started,907,STG907,Lot240,active,
+4644.55,tool,STG907,in process,907,STG907,Lot240,,1 lot
+4645.411,lot,Lot241,created,,,,active,25 wafers
+4645.411,lot,Lot241,moved into operation,907,,,active,
+4645.411,lot,Lot241,processing started,907,STG907,Lot241,active,
+4645.411,tool,STG907,in process,907,STG907,Lot241,,1 lot
+4645.55,lot,Lot240,processing completed,907,STG907,Lot240,active,
+4645.55,tool,STG907,process completed,907,STG907,Lot240,,
+4645.55,lot,Lot240,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4645.55,lot,Lot240,moved into operation,908,,,active,
+4646.411,lot,Lot241,processing completed,907,STG907,Lot241,active,
+4646.411,tool,STG907,process completed,907,STG907,Lot241,,
+4646.411,lot,Lot241,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4646.411,lot,Lot241,moved into operation,908,,,active,
+4646.411,tool,VFP701,batch dispatched,908,VFP701,Lot239;Lot240;Lot241,,3 lots
+4663.003,lot,Lot242,created,,,,active,25 wafers
+4663.003,lot,Lot242,moved into operation,907,,,active,
+4663.003,lot,Lot242,processing started,907,STG907,Lot242,active,
+4663.003,tool,STG907,in process,907,STG907,Lot242,,1 lot
+4664.003,lot,Lot242,processing completed,907,STG907,Lot242,active,
+4664.003,tool,STG907,process completed,907,STG907,Lot242,,
+4664.003,lot,Lot242,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4664.003,lot,Lot242,moved into operation,908,,,active,
+4682.67,lot,Lot243,created,,,,active,25 wafers
+4682.67,lot,Lot243,moved into operation,907,,,active,
+4682.67,lot,Lot243,processing started,907,STG907,Lot243,active,
+4682.67,tool,STG907,in process,907,STG907,Lot243,,1 lot
+4683.67,lot,Lot243,processing completed,907,STG907,Lot243,active,
+4683.67,tool,STG907,process completed,907,STG907,Lot243,,
+4683.67,lot,Lot243,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4683.67,lot,Lot243,moved into operation,908,,,active,
+4690.169,lot,Lot244,created,,,,active,25 wafers
+4690.169,lot,Lot244,moved into operation,907,,,active,
+4690.169,lot,Lot244,processing started,907,STG907,Lot244,active,
+4690.169,tool,STG907,in process,907,STG907,Lot244,,1 lot
+4691.169,lot,Lot244,processing completed,907,STG907,Lot244,active,
+4691.169,tool,STG907,process completed,907,STG907,Lot244,,
+4691.169,lot,Lot244,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4691.169,lot,Lot244,moved into operation,908,,,active,
+4691.169,tool,VFP702,batch dispatched,908,VFP702,Lot242;Lot243;Lot244,,3 lots
+4694.315,lot,Lot245,created,,,,active,25 wafers
+4694.315,lot,Lot245,moved into operation,907,,,active,
+4694.315,lot,Lot245,processing started,907,STG907,Lot245,active,
+4694.315,tool,STG907,in process,907,STG907,Lot245,,1 lot
+4695.315,lot,Lot245,processing completed,907,STG907,Lot245,active,
+4695.315,tool,STG907,process completed,907,STG907,Lot245,,
+4695.315,lot,Lot245,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4695.315,lot,Lot245,moved into operation,908,,,active,
+4777.142,lot,Lot246,created,,,,active,25 wafers
+4777.142,lot,Lot246,moved into operation,907,,,active,
+4777.142,lot,Lot246,processing started,907,STG907,Lot246,active,
+4777.142,tool,STG907,in process,907,STG907,Lot246,,1 lot
+4778.142,lot,Lot246,processing completed,907,STG907,Lot246,active,
+4778.142,tool,STG907,process completed,907,STG907,Lot246,,
+4778.142,lot,Lot246,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4778.142,lot,Lot246,moved into operation,908,,,active,
+4783.88,lot,Lot162,processing completed,908,VFP701,Lot162;Lot163,active,
+4783.88,lot,Lot162,moved out of operation,908,,,hold,operation elapsed 2716.6 min; limit 720 min
+4783.88,lot,Lot163,processing completed,908,VFP701,Lot162;Lot163,active,
+4783.88,lot,Lot163,moved out of operation,908,,,hold,operation elapsed 2672.9 min; limit 720 min
+4783.88,tool,VFP701,process completed,908,VFP701,Lot162;Lot163,,
+4783.88,lot,Lot167,processing started,908,VFP701,Lot167;Lot168;Lot169,active,
+4783.88,lot,Lot168,processing started,908,VFP701,Lot167;Lot168;Lot169,active,
+4783.88,lot,Lot169,processing started,908,VFP701,Lot167;Lot168;Lot169,active,
+4783.88,tool,VFP701,in process,908,VFP701,Lot167;Lot168;Lot169,,
+4802.831,lot,Lot247,created,,,,active,25 wafers
+4802.831,lot,Lot247,moved into operation,907,,,active,
+4802.831,lot,Lot247,processing started,907,STG907,Lot247,active,
+4802.831,tool,STG907,in process,907,STG907,Lot247,,1 lot
+4803.831,lot,Lot247,processing completed,907,STG907,Lot247,active,
+4803.831,tool,STG907,process completed,907,STG907,Lot247,,
+4803.831,lot,Lot247,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4803.831,lot,Lot247,moved into operation,908,,,active,
+4803.831,tool,VFP701,batch dispatched,908,VFP701,Lot245;Lot246;Lot247,,3 lots
+4811.276,lot,Lot248,created,,,,active,25 wafers
+4811.276,lot,Lot248,moved into operation,907,,,active,
+4811.276,lot,Lot248,processing started,907,STG907,Lot248,active,
+4811.276,tool,STG907,in process,907,STG907,Lot248,,1 lot
+4812.276,lot,Lot248,processing completed,907,STG907,Lot248,active,
+4812.276,tool,STG907,process completed,907,STG907,Lot248,,
+4812.276,lot,Lot248,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4812.276,lot,Lot248,moved into operation,908,,,active,
+4841.054,lot,Lot164,processing completed,908,VFP702,Lot164;Lot165;Lot166,active,
+4841.054,lot,Lot164,moved out of operation,908,,,hold,operation elapsed 2689.7 min; limit 720 min
+4841.054,lot,Lot165,processing completed,908,VFP702,Lot164;Lot165;Lot166,active,
+4841.054,lot,Lot165,moved out of operation,908,,,hold,operation elapsed 2672.8 min; limit 720 min
+4841.054,lot,Lot166,processing completed,908,VFP702,Lot164;Lot165;Lot166,active,
+4841.054,lot,Lot166,moved out of operation,908,,,hold,operation elapsed 2651.9 min; limit 720 min
+4841.054,tool,VFP702,process completed,908,VFP702,Lot164;Lot165;Lot166,,
+4841.054,lot,Lot170,processing started,908,VFP702,Lot170;Lot171;Lot172,active,
+4841.054,lot,Lot171,processing started,908,VFP702,Lot170;Lot171;Lot172,active,
+4841.054,lot,Lot172,processing started,908,VFP702,Lot170;Lot171;Lot172,active,
+4841.054,tool,VFP702,in process,908,VFP702,Lot170;Lot171;Lot172,,
+4844.775,lot,Lot249,created,,,,active,25 wafers
+4844.775,lot,Lot249,moved into operation,907,,,active,
+4844.775,lot,Lot249,processing started,907,STG907,Lot249,active,
+4844.775,tool,STG907,in process,907,STG907,Lot249,,1 lot
+4845.775,lot,Lot249,processing completed,907,STG907,Lot249,active,
+4845.775,tool,STG907,process completed,907,STG907,Lot249,,
+4845.775,lot,Lot249,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4845.775,lot,Lot249,moved into operation,908,,,active,
+4875.775,tool,VFP702,batch dispatched,908,VFP702,Lot248;Lot249,,2 lots
+4905.92,lot,Lot250,created,,,,active,25 wafers
+4905.92,lot,Lot250,moved into operation,907,,,active,
+4905.92,lot,Lot250,processing started,907,STG907,Lot250,active,
+4905.92,tool,STG907,in process,907,STG907,Lot250,,1 lot
+4906.677,lot,Lot251,created,,,,active,25 wafers
+4906.677,lot,Lot251,moved into operation,907,,,active,
+4906.677,lot,Lot251,processing started,907,STG907,Lot251,active,
+4906.677,tool,STG907,in process,907,STG907,Lot251,,1 lot
+4906.92,lot,Lot250,processing completed,907,STG907,Lot250,active,
+4906.92,tool,STG907,process completed,907,STG907,Lot250,,
+4906.92,lot,Lot250,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4906.92,lot,Lot250,moved into operation,908,,,active,
+4907.326,lot,Lot252,created,,,,active,25 wafers
+4907.326,lot,Lot252,moved into operation,907,,,active,
+4907.326,lot,Lot252,processing started,907,STG907,Lot252,active,
+4907.326,tool,STG907,in process,907,STG907,Lot252,,1 lot
+4907.677,lot,Lot251,processing completed,907,STG907,Lot251,active,
+4907.677,tool,STG907,process completed,907,STG907,Lot251,,
+4907.677,lot,Lot251,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4907.677,lot,Lot251,moved into operation,908,,,active,
+4908.326,lot,Lot252,processing completed,907,STG907,Lot252,active,
+4908.326,tool,STG907,process completed,907,STG907,Lot252,,
+4908.326,lot,Lot252,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4908.326,lot,Lot252,moved into operation,908,,,active,
+4908.326,tool,VFP701,batch dispatched,908,VFP701,Lot250;Lot251;Lot252,,3 lots
+4913.027,lot,Lot253,created,,,,active,25 wafers
+4913.027,lot,Lot253,moved into operation,907,,,active,
+4913.027,lot,Lot253,processing started,907,STG907,Lot253,active,
+4913.027,tool,STG907,in process,907,STG907,Lot253,,1 lot
+4914.027,lot,Lot253,processing completed,907,STG907,Lot253,active,
+4914.027,tool,STG907,process completed,907,STG907,Lot253,,
+4914.027,lot,Lot253,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4914.027,lot,Lot253,moved into operation,908,,,active,
+4958.705,lot,Lot254,created,,,,active,25 wafers
+4958.705,lot,Lot254,moved into operation,907,,,active,
+4958.705,lot,Lot254,processing started,907,STG907,Lot254,active,
+4958.705,tool,STG907,in process,907,STG907,Lot254,,1 lot
+4959.705,lot,Lot254,processing completed,907,STG907,Lot254,active,
+4959.705,tool,STG907,process completed,907,STG907,Lot254,,
+4959.705,lot,Lot254,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4959.705,lot,Lot254,moved into operation,908,,,active,
+4964.991,lot,Lot255,created,,,,active,25 wafers
+4964.991,lot,Lot255,moved into operation,907,,,active,
+4964.991,lot,Lot255,processing started,907,STG907,Lot255,active,
+4964.991,tool,STG907,in process,907,STG907,Lot255,,1 lot
+4965.991,lot,Lot255,processing completed,907,STG907,Lot255,active,
+4965.991,tool,STG907,process completed,907,STG907,Lot255,,
+4965.991,lot,Lot255,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+4965.991,lot,Lot255,moved into operation,908,,,active,
+4965.991,tool,VFP702,batch dispatched,908,VFP702,Lot253;Lot254;Lot255,,3 lots
+5008.891,lot,Lot256,created,,,,active,25 wafers
+5008.891,lot,Lot256,moved into operation,907,,,active,
+5008.891,lot,Lot256,processing started,907,STG907,Lot256,active,
+5008.891,tool,STG907,in process,907,STG907,Lot256,,1 lot
+5009.891,lot,Lot256,processing completed,907,STG907,Lot256,active,
+5009.891,tool,STG907,process completed,907,STG907,Lot256,,
+5009.891,lot,Lot256,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5009.891,lot,Lot256,moved into operation,908,,,active,
+5049.706,lot,Lot257,created,,,,active,25 wafers
+5049.706,lot,Lot257,moved into operation,907,,,active,
+5049.706,lot,Lot257,processing started,907,STG907,Lot257,active,
+5049.706,tool,STG907,in process,907,STG907,Lot257,,1 lot
+5050.706,lot,Lot257,processing completed,907,STG907,Lot257,active,
+5050.706,tool,STG907,process completed,907,STG907,Lot257,,
+5050.706,lot,Lot257,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5050.706,lot,Lot257,moved into operation,908,,,active,
+5078.031,lot,Lot258,created,,,,active,25 wafers
+5078.031,lot,Lot258,moved into operation,907,,,active,
+5078.031,lot,Lot258,processing started,907,STG907,Lot258,active,
+5078.031,tool,STG907,in process,907,STG907,Lot258,,1 lot
+5079.031,lot,Lot258,processing completed,907,STG907,Lot258,active,
+5079.031,tool,STG907,process completed,907,STG907,Lot258,,
+5079.031,lot,Lot258,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5079.031,lot,Lot258,moved into operation,908,,,active,
+5079.031,tool,VFP701,batch dispatched,908,VFP701,Lot256;Lot257;Lot258,,3 lots
+5087.004,lot,Lot259,created,,,,active,25 wafers
+5087.004,lot,Lot259,moved into operation,907,,,active,
+5087.004,lot,Lot259,processing started,907,STG907,Lot259,active,
+5087.004,tool,STG907,in process,907,STG907,Lot259,,1 lot
+5088.004,lot,Lot259,processing completed,907,STG907,Lot259,active,
+5088.004,tool,STG907,process completed,907,STG907,Lot259,,
+5088.004,lot,Lot259,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5088.004,lot,Lot259,moved into operation,908,,,active,
+5143.88,lot,Lot167,processing completed,908,VFP701,Lot167;Lot168;Lot169,active,
+5143.88,lot,Lot167,moved out of operation,908,,,hold,operation elapsed 2929.2 min; limit 720 min
+5143.88,lot,Lot168,processing completed,908,VFP701,Lot167;Lot168;Lot169,active,
+5143.88,lot,Lot168,moved out of operation,908,,,hold,operation elapsed 2875.0 min; limit 720 min
+5143.88,lot,Lot169,processing completed,908,VFP701,Lot167;Lot168;Lot169,active,
+5143.88,lot,Lot169,moved out of operation,908,,,hold,operation elapsed 2848.5 min; limit 720 min
+5143.88,tool,VFP701,process completed,908,VFP701,Lot167;Lot168;Lot169,,
+5143.88,lot,Lot173,processing started,908,VFP701,Lot173;Lot174,active,
+5143.88,lot,Lot174,processing started,908,VFP701,Lot173;Lot174,active,
+5143.88,tool,VFP701,in process,908,VFP701,Lot173;Lot174,,
+5201.054,lot,Lot170,processing completed,908,VFP702,Lot170;Lot171;Lot172,active,
+5201.054,lot,Lot170,moved out of operation,908,,,hold,operation elapsed 2887.6 min; limit 720 min
+5201.054,lot,Lot171,processing completed,908,VFP702,Lot170;Lot171;Lot172,active,
+5201.054,lot,Lot171,moved out of operation,908,,,hold,operation elapsed 2863.4 min; limit 720 min
+5201.054,lot,Lot172,processing completed,908,VFP702,Lot170;Lot171;Lot172,active,
+5201.054,lot,Lot172,moved out of operation,908,,,hold,operation elapsed 2862.3 min; limit 720 min
+5201.054,tool,VFP702,process completed,908,VFP702,Lot170;Lot171;Lot172,,
+5201.054,lot,Lot175,processing started,908,VFP702,Lot175;Lot176;Lot177,active,
+5201.054,lot,Lot176,processing started,908,VFP702,Lot175;Lot176;Lot177,active,
+5201.054,lot,Lot177,processing started,908,VFP702,Lot175;Lot176;Lot177,active,
+5201.054,tool,VFP702,in process,908,VFP702,Lot175;Lot176;Lot177,,
+5220.67,lot,Lot260,created,,,,active,25 wafers
+5220.67,lot,Lot260,moved into operation,907,,,active,
+5220.67,lot,Lot260,processing started,907,STG907,Lot260,active,
+5220.67,tool,STG907,in process,907,STG907,Lot260,,1 lot
+5221.67,lot,Lot260,processing completed,907,STG907,Lot260,active,
+5221.67,tool,STG907,process completed,907,STG907,Lot260,,
+5221.67,lot,Lot260,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5221.67,lot,Lot260,moved into operation,908,,,active,
+5251.67,tool,VFP702,batch dispatched,908,VFP702,Lot259;Lot260,,2 lots
+5278.217,lot,Lot261,created,,,,active,25 wafers
+5278.217,lot,Lot261,moved into operation,907,,,active,
+5278.217,lot,Lot261,processing started,907,STG907,Lot261,active,
+5278.217,tool,STG907,in process,907,STG907,Lot261,,1 lot
+5279.217,lot,Lot261,processing completed,907,STG907,Lot261,active,
+5279.217,tool,STG907,process completed,907,STG907,Lot261,,
+5279.217,lot,Lot261,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5279.217,lot,Lot261,moved into operation,908,,,active,
+5304.386,lot,Lot262,created,,,,active,25 wafers
+5304.386,lot,Lot262,moved into operation,907,,,active,
+5304.386,lot,Lot262,processing started,907,STG907,Lot262,active,
+5304.386,tool,STG907,in process,907,STG907,Lot262,,1 lot
+5305.386,lot,Lot262,processing completed,907,STG907,Lot262,active,
+5305.386,tool,STG907,process completed,907,STG907,Lot262,,
+5305.386,lot,Lot262,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5305.386,lot,Lot262,moved into operation,908,,,active,
+5313.479,lot,Lot263,created,,,,active,25 wafers
+5313.479,lot,Lot263,moved into operation,907,,,active,
+5313.479,lot,Lot263,processing started,907,STG907,Lot263,active,
+5313.479,tool,STG907,in process,907,STG907,Lot263,,1 lot
+5314.479,lot,Lot263,processing completed,907,STG907,Lot263,active,
+5314.479,tool,STG907,process completed,907,STG907,Lot263,,
+5314.479,lot,Lot263,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5314.479,lot,Lot263,moved into operation,908,,,active,
+5314.479,tool,VFP701,batch dispatched,908,VFP701,Lot261;Lot262;Lot263,,3 lots
+5351.119,lot,Lot264,created,,,,active,25 wafers
+5351.119,lot,Lot264,moved into operation,907,,,active,
+5351.119,lot,Lot264,processing started,907,STG907,Lot264,active,
+5351.119,tool,STG907,in process,907,STG907,Lot264,,1 lot
+5352.119,lot,Lot264,processing completed,907,STG907,Lot264,active,
+5352.119,tool,STG907,process completed,907,STG907,Lot264,,
+5352.119,lot,Lot264,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5352.119,lot,Lot264,moved into operation,908,,,active,
+5369.204,lot,Lot265,created,,,,active,25 wafers
+5369.204,lot,Lot265,moved into operation,907,,,active,
+5369.204,lot,Lot265,processing started,907,STG907,Lot265,active,
+5369.204,tool,STG907,in process,907,STG907,Lot265,,1 lot
+5370.204,lot,Lot265,processing completed,907,STG907,Lot265,active,
+5370.204,tool,STG907,process completed,907,STG907,Lot265,,
+5370.204,lot,Lot265,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5370.204,lot,Lot265,moved into operation,908,,,active,
+5400.08,lot,Lot266,created,,,,active,25 wafers
+5400.08,lot,Lot266,moved into operation,907,,,active,
+5400.08,lot,Lot266,processing started,907,STG907,Lot266,active,
+5400.08,tool,STG907,in process,907,STG907,Lot266,,1 lot
+5400.204,tool,VFP702,batch dispatched,908,VFP702,Lot264;Lot265,,2 lots
+5401.08,lot,Lot266,processing completed,907,STG907,Lot266,active,
+5401.08,tool,STG907,process completed,907,STG907,Lot266,,
+5401.08,lot,Lot266,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5401.08,lot,Lot266,moved into operation,908,,,active,
+5414.029,lot,Lot267,created,,,,active,25 wafers
+5414.029,lot,Lot267,moved into operation,907,,,active,
+5414.029,lot,Lot267,processing started,907,STG907,Lot267,active,
+5414.029,tool,STG907,in process,907,STG907,Lot267,,1 lot
+5415.029,lot,Lot267,processing completed,907,STG907,Lot267,active,
+5415.029,tool,STG907,process completed,907,STG907,Lot267,,
+5415.029,lot,Lot267,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5415.029,lot,Lot267,moved into operation,908,,,active,
+5445.029,tool,VFP701,batch dispatched,908,VFP701,Lot266;Lot267,,2 lots
+5449.915,lot,Lot268,created,,,,active,25 wafers
+5449.915,lot,Lot268,moved into operation,907,,,active,
+5449.915,lot,Lot268,processing started,907,STG907,Lot268,active,
+5449.915,tool,STG907,in process,907,STG907,Lot268,,1 lot
+5450.915,lot,Lot268,processing completed,907,STG907,Lot268,active,
+5450.915,tool,STG907,process completed,907,STG907,Lot268,,
+5450.915,lot,Lot268,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5450.915,lot,Lot268,moved into operation,908,,,active,
+5452.096,lot,Lot269,created,,,,active,25 wafers
+5452.096,lot,Lot269,moved into operation,907,,,active,
+5452.096,lot,Lot269,processing started,907,STG907,Lot269,active,
+5452.096,tool,STG907,in process,907,STG907,Lot269,,1 lot
+5453.096,lot,Lot269,processing completed,907,STG907,Lot269,active,
+5453.096,tool,STG907,process completed,907,STG907,Lot269,,
+5453.096,lot,Lot269,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5453.096,lot,Lot269,moved into operation,908,,,active,
+5464.865,lot,Lot270,created,,,,active,25 wafers
+5464.865,lot,Lot270,moved into operation,907,,,active,
+5464.865,lot,Lot270,processing started,907,STG907,Lot270,active,
+5464.865,tool,STG907,in process,907,STG907,Lot270,,1 lot
+5465.865,lot,Lot270,processing completed,907,STG907,Lot270,active,
+5465.865,tool,STG907,process completed,907,STG907,Lot270,,
+5465.865,lot,Lot270,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5465.865,lot,Lot270,moved into operation,908,,,active,
+5465.865,tool,VFP702,batch dispatched,908,VFP702,Lot268;Lot269;Lot270,,3 lots
+5503.88,lot,Lot173,processing completed,908,VFP701,Lot173;Lot174,active,
+5503.88,lot,Lot173,moved out of operation,908,,,hold,operation elapsed 3163.6 min; limit 720 min
+5503.88,lot,Lot174,processing completed,908,VFP701,Lot173;Lot174,active,
+5503.88,lot,Lot174,moved out of operation,908,,,hold,operation elapsed 3119.8 min; limit 720 min
+5503.88,tool,VFP701,process completed,908,VFP701,Lot173;Lot174,,
+5503.88,lot,Lot178,processing started,908,VFP701,Lot178;Lot179,active,
+5503.88,lot,Lot179,processing started,908,VFP701,Lot178;Lot179,active,
+5503.88,tool,VFP701,in process,908,VFP701,Lot178;Lot179,,
+5561.054,lot,Lot175,processing completed,908,VFP702,Lot175;Lot176;Lot177,active,
+5561.054,lot,Lot175,moved out of operation,908,,,hold,operation elapsed 3029.9 min; limit 720 min
+5561.054,lot,Lot176,processing completed,908,VFP702,Lot175;Lot176;Lot177,active,
+5561.054,lot,Lot176,moved out of operation,908,,,hold,operation elapsed 2997.5 min; limit 720 min
+5561.054,lot,Lot177,processing completed,908,VFP702,Lot175;Lot176;Lot177,active,
+5561.054,lot,Lot177,moved out of operation,908,,,hold,operation elapsed 2979.5 min; limit 720 min
+5561.054,tool,VFP702,process completed,908,VFP702,Lot175;Lot176;Lot177,,
+5561.054,lot,Lot180,processing started,908,VFP702,Lot180;Lot181;Lot182,active,
+5561.054,lot,Lot181,processing started,908,VFP702,Lot180;Lot181;Lot182,active,
+5561.054,lot,Lot182,processing started,908,VFP702,Lot180;Lot181;Lot182,active,
+5561.054,tool,VFP702,in process,908,VFP702,Lot180;Lot181;Lot182,,
+5588.669,lot,Lot271,created,,,,active,25 wafers
+5588.669,lot,Lot271,moved into operation,907,,,active,
+5588.669,lot,Lot271,processing started,907,STG907,Lot271,active,
+5588.669,tool,STG907,in process,907,STG907,Lot271,,1 lot
+5589.669,lot,Lot271,processing completed,907,STG907,Lot271,active,
+5589.669,tool,STG907,process completed,907,STG907,Lot271,,
+5589.669,lot,Lot271,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5589.669,lot,Lot271,moved into operation,908,,,active,
+5663.683,lot,Lot272,created,,,,active,25 wafers
+5663.683,lot,Lot272,moved into operation,907,,,active,
+5663.683,lot,Lot272,processing started,907,STG907,Lot272,active,
+5663.683,tool,STG907,in process,907,STG907,Lot272,,1 lot
+5664.683,lot,Lot272,processing completed,907,STG907,Lot272,active,
+5664.683,tool,STG907,process completed,907,STG907,Lot272,,
+5664.683,lot,Lot272,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5664.683,lot,Lot272,moved into operation,908,,,active,
+5676.853,lot,Lot273,created,,,,active,25 wafers
+5676.853,lot,Lot273,moved into operation,907,,,active,
+5676.853,lot,Lot273,processing started,907,STG907,Lot273,active,
+5676.853,tool,STG907,in process,907,STG907,Lot273,,1 lot
+5677.853,lot,Lot273,processing completed,907,STG907,Lot273,active,
+5677.853,tool,STG907,process completed,907,STG907,Lot273,,
+5677.853,lot,Lot273,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5677.853,lot,Lot273,moved into operation,908,,,active,
+5677.853,tool,VFP701,batch dispatched,908,VFP701,Lot271;Lot272;Lot273,,3 lots
+5747.253,lot,Lot274,created,,,,active,25 wafers
+5747.253,lot,Lot274,moved into operation,907,,,active,
+5747.253,lot,Lot274,processing started,907,STG907,Lot274,active,
+5747.253,tool,STG907,in process,907,STG907,Lot274,,1 lot
+5748.253,lot,Lot274,processing completed,907,STG907,Lot274,active,
+5748.253,tool,STG907,process completed,907,STG907,Lot274,,
+5748.253,lot,Lot274,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5748.253,lot,Lot274,moved into operation,908,,,active,
+5760.63,lot,Lot275,created,,,,active,25 wafers
+5760.63,lot,Lot275,moved into operation,907,,,active,
+5760.63,lot,Lot275,processing started,907,STG907,Lot275,active,
+5760.63,tool,STG907,in process,907,STG907,Lot275,,1 lot
+5761.63,lot,Lot275,processing completed,907,STG907,Lot275,active,
+5761.63,tool,STG907,process completed,907,STG907,Lot275,,
+5761.63,lot,Lot275,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5761.63,lot,Lot275,moved into operation,908,,,active,
+5791.63,tool,VFP702,batch dispatched,908,VFP702,Lot274;Lot275,,2 lots
+5861.489,lot,Lot276,created,,,,active,25 wafers
+5861.489,lot,Lot276,moved into operation,907,,,active,
+5861.489,lot,Lot276,processing started,907,STG907,Lot276,active,
+5861.489,tool,STG907,in process,907,STG907,Lot276,,1 lot
+5862.489,lot,Lot276,processing completed,907,STG907,Lot276,active,
+5862.489,tool,STG907,process completed,907,STG907,Lot276,,
+5862.489,lot,Lot276,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5862.489,lot,Lot276,moved into operation,908,,,active,
+5863.88,lot,Lot178,processing completed,908,VFP701,Lot178;Lot179,active,
+5863.88,lot,Lot178,moved out of operation,908,,,hold,operation elapsed 3275.6 min; limit 720 min
+5863.88,lot,Lot179,processing completed,908,VFP701,Lot178;Lot179,active,
+5863.88,lot,Lot179,moved out of operation,908,,,hold,operation elapsed 3250.5 min; limit 720 min
+5863.88,tool,VFP701,process completed,908,VFP701,Lot178;Lot179,,
+5863.88,lot,Lot183,processing started,908,VFP701,Lot183;Lot184;Lot185,active,
+5863.88,lot,Lot184,processing started,908,VFP701,Lot183;Lot184;Lot185,active,
+5863.88,lot,Lot185,processing started,908,VFP701,Lot183;Lot184;Lot185,active,
+5863.88,tool,VFP701,in process,908,VFP701,Lot183;Lot184;Lot185,,
+5910.519,lot,Lot277,created,,,,active,25 wafers
+5910.519,lot,Lot277,moved into operation,907,,,active,
+5910.519,lot,Lot277,processing started,907,STG907,Lot277,active,
+5910.519,tool,STG907,in process,907,STG907,Lot277,,1 lot
+5911.519,lot,Lot277,processing completed,907,STG907,Lot277,active,
+5911.519,tool,STG907,process completed,907,STG907,Lot277,,
+5911.519,lot,Lot277,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5911.519,lot,Lot277,moved into operation,908,,,active,
+5921.054,lot,Lot180,processing completed,908,VFP702,Lot180;Lot181;Lot182,active,
+5921.054,lot,Lot180,moved out of operation,908,,,hold,operation elapsed 3162.9 min; limit 720 min
+5921.054,lot,Lot181,processing completed,908,VFP702,Lot180;Lot181;Lot182,active,
+5921.054,lot,Lot181,moved out of operation,908,,,hold,operation elapsed 3109.9 min; limit 720 min
+5921.054,lot,Lot182,processing completed,908,VFP702,Lot180;Lot181;Lot182,active,
+5921.054,lot,Lot182,moved out of operation,908,,,hold,operation elapsed 3082.0 min; limit 720 min
+5921.054,tool,VFP702,process completed,908,VFP702,Lot180;Lot181;Lot182,,
+5921.054,lot,Lot186,processing started,908,VFP702,Lot186;Lot187;Lot188,active,
+5921.054,lot,Lot187,processing started,908,VFP702,Lot186;Lot187;Lot188,active,
+5921.054,lot,Lot188,processing started,908,VFP702,Lot186;Lot187;Lot188,active,
+5921.054,tool,VFP702,in process,908,VFP702,Lot186;Lot187;Lot188,,
+5929.893,lot,Lot278,created,,,,active,25 wafers
+5929.893,lot,Lot278,moved into operation,907,,,active,
+5929.893,lot,Lot278,processing started,907,STG907,Lot278,active,
+5929.893,tool,STG907,in process,907,STG907,Lot278,,1 lot
+5930.893,lot,Lot278,processing completed,907,STG907,Lot278,active,
+5930.893,tool,STG907,process completed,907,STG907,Lot278,,
+5930.893,lot,Lot278,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5930.893,lot,Lot278,moved into operation,908,,,active,
+5930.893,tool,VFP701,batch dispatched,908,VFP701,Lot276;Lot277;Lot278,,3 lots
+5940.363,lot,Lot279,created,,,,active,25 wafers
+5940.363,lot,Lot279,moved into operation,907,,,active,
+5940.363,lot,Lot279,processing started,907,STG907,Lot279,active,
+5940.363,tool,STG907,in process,907,STG907,Lot279,,1 lot
+5940.669,lot,Lot280,created,,,,active,25 wafers
+5940.669,lot,Lot280,moved into operation,907,,,active,
+5940.669,lot,Lot280,processing started,907,STG907,Lot280,active,
+5940.669,tool,STG907,in process,907,STG907,Lot280,,1 lot
+5941.363,lot,Lot279,processing completed,907,STG907,Lot279,active,
+5941.363,tool,STG907,process completed,907,STG907,Lot279,,
+5941.363,lot,Lot279,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5941.363,lot,Lot279,moved into operation,908,,,active,
+5941.669,lot,Lot280,processing completed,907,STG907,Lot280,active,
+5941.669,tool,STG907,process completed,907,STG907,Lot280,,
+5941.669,lot,Lot280,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+5941.669,lot,Lot280,moved into operation,908,,,active,
+5971.669,tool,VFP702,batch dispatched,908,VFP702,Lot279;Lot280,,2 lots
+6016.616,lot,Lot281,created,,,,active,25 wafers
+6016.616,lot,Lot281,moved into operation,907,,,active,
+6016.616,lot,Lot281,processing started,907,STG907,Lot281,active,
+6016.616,tool,STG907,in process,907,STG907,Lot281,,1 lot
+6017.616,lot,Lot281,processing completed,907,STG907,Lot281,active,
+6017.616,tool,STG907,process completed,907,STG907,Lot281,,
+6017.616,lot,Lot281,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6017.616,lot,Lot281,moved into operation,908,,,active,
+6018.008,lot,Lot282,created,,,,active,25 wafers
+6018.008,lot,Lot282,moved into operation,907,,,active,
+6018.008,lot,Lot282,processing started,907,STG907,Lot282,active,
+6018.008,tool,STG907,in process,907,STG907,Lot282,,1 lot
+6019.008,lot,Lot282,processing completed,907,STG907,Lot282,active,
+6019.008,tool,STG907,process completed,907,STG907,Lot282,,
+6019.008,lot,Lot282,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6019.008,lot,Lot282,moved into operation,908,,,active,
+6049.008,tool,VFP701,batch dispatched,908,VFP701,Lot281;Lot282,,2 lots
+6079.623,lot,Lot283,created,,,,active,25 wafers
+6079.623,lot,Lot283,moved into operation,907,,,active,
+6079.623,lot,Lot283,processing started,907,STG907,Lot283,active,
+6079.623,tool,STG907,in process,907,STG907,Lot283,,1 lot
+6080.623,lot,Lot283,processing completed,907,STG907,Lot283,active,
+6080.623,tool,STG907,process completed,907,STG907,Lot283,,
+6080.623,lot,Lot283,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6080.623,lot,Lot283,moved into operation,908,,,active,
+6197.54,lot,Lot284,created,,,,active,25 wafers
+6197.54,lot,Lot284,moved into operation,907,,,active,
+6197.54,lot,Lot284,processing started,907,STG907,Lot284,active,
+6197.54,tool,STG907,in process,907,STG907,Lot284,,1 lot
+6198.54,lot,Lot284,processing completed,907,STG907,Lot284,active,
+6198.54,tool,STG907,process completed,907,STG907,Lot284,,
+6198.54,lot,Lot284,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6198.54,lot,Lot284,moved into operation,908,,,active,
+6223.88,lot,Lot183,processing completed,908,VFP701,Lot183;Lot184;Lot185,active,
+6223.88,lot,Lot183,moved out of operation,908,,,hold,operation elapsed 3314.0 min; limit 720 min
+6223.88,lot,Lot184,processing completed,908,VFP701,Lot183;Lot184;Lot185,active,
+6223.88,lot,Lot184,moved out of operation,908,,,hold,operation elapsed 3304.5 min; limit 720 min
+6223.88,lot,Lot185,processing completed,908,VFP701,Lot183;Lot184;Lot185,active,
+6223.88,lot,Lot185,moved out of operation,908,,,hold,operation elapsed 3278.5 min; limit 720 min
+6223.88,tool,VFP701,process completed,908,VFP701,Lot183;Lot184;Lot185,,
+6223.88,lot,Lot189,processing started,908,VFP701,Lot189;Lot190,active,
+6223.88,lot,Lot190,processing started,908,VFP701,Lot189;Lot190,active,
+6223.88,tool,VFP701,in process,908,VFP701,Lot189;Lot190,,
+6227.947,lot,Lot285,created,,,,active,25 wafers
+6227.947,lot,Lot285,moved into operation,907,,,active,
+6227.947,lot,Lot285,processing started,907,STG907,Lot285,active,
+6227.947,tool,STG907,in process,907,STG907,Lot285,,1 lot
+6228.54,tool,VFP702,batch dispatched,908,VFP702,Lot283;Lot284,,2 lots
+6228.947,lot,Lot285,processing completed,907,STG907,Lot285,active,
+6228.947,tool,STG907,process completed,907,STG907,Lot285,,
+6228.947,lot,Lot285,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6228.947,lot,Lot285,moved into operation,908,,,active,
+6234.721,lot,Lot286,created,,,,active,25 wafers
+6234.721,lot,Lot286,moved into operation,907,,,active,
+6234.721,lot,Lot286,processing started,907,STG907,Lot286,active,
+6234.721,tool,STG907,in process,907,STG907,Lot286,,1 lot
+6235.721,lot,Lot286,processing completed,907,STG907,Lot286,active,
+6235.721,tool,STG907,process completed,907,STG907,Lot286,,
+6235.721,lot,Lot286,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6235.721,lot,Lot286,moved into operation,908,,,active,
+6265.721,tool,VFP701,batch dispatched,908,VFP701,Lot285;Lot286,,2 lots
+6281.054,lot,Lot186,processing completed,908,VFP702,Lot186;Lot187;Lot188,active,
+6281.054,lot,Lot186,moved out of operation,908,,,hold,operation elapsed 3226.0 min; limit 720 min
+6281.054,lot,Lot187,processing completed,908,VFP702,Lot186;Lot187;Lot188,active,
+6281.054,lot,Lot187,moved out of operation,908,,,hold,operation elapsed 3195.0 min; limit 720 min
+6281.054,lot,Lot188,processing completed,908,VFP702,Lot186;Lot187;Lot188,active,
+6281.054,lot,Lot188,moved out of operation,908,,,hold,operation elapsed 3172.8 min; limit 720 min
+6281.054,tool,VFP702,process completed,908,VFP702,Lot186;Lot187;Lot188,,
+6281.054,lot,Lot191,processing started,908,VFP702,Lot191;Lot192,active,
+6281.054,lot,Lot192,processing started,908,VFP702,Lot191;Lot192,active,
+6281.054,tool,VFP702,in process,908,VFP702,Lot191;Lot192,,
+6307.559,lot,Lot287,created,,,,active,25 wafers
+6307.559,lot,Lot287,moved into operation,907,,,active,
+6307.559,lot,Lot287,processing started,907,STG907,Lot287,active,
+6307.559,tool,STG907,in process,907,STG907,Lot287,,1 lot
+6308.559,lot,Lot287,processing completed,907,STG907,Lot287,active,
+6308.559,tool,STG907,process completed,907,STG907,Lot287,,
+6308.559,lot,Lot287,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6308.559,lot,Lot287,moved into operation,908,,,active,
+6438.637,lot,Lot288,created,,,,active,25 wafers
+6438.637,lot,Lot288,moved into operation,907,,,active,
+6438.637,lot,Lot288,processing started,907,STG907,Lot288,active,
+6438.637,tool,STG907,in process,907,STG907,Lot288,,1 lot
+6439.637,lot,Lot288,processing completed,907,STG907,Lot288,active,
+6439.637,tool,STG907,process completed,907,STG907,Lot288,,
+6439.637,lot,Lot288,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6439.637,lot,Lot288,moved into operation,908,,,active,
+6469.637,tool,VFP702,batch dispatched,908,VFP702,Lot287;Lot288,,2 lots
+6482.466,lot,Lot289,created,,,,active,25 wafers
+6482.466,lot,Lot289,moved into operation,907,,,active,
+6482.466,lot,Lot289,processing started,907,STG907,Lot289,active,
+6482.466,tool,STG907,in process,907,STG907,Lot289,,1 lot
+6483.466,lot,Lot289,processing completed,907,STG907,Lot289,active,
+6483.466,tool,STG907,process completed,907,STG907,Lot289,,
+6483.466,lot,Lot289,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6483.466,lot,Lot289,moved into operation,908,,,active,
+6508.064,lot,Lot290,created,,,,active,25 wafers
+6508.064,lot,Lot290,moved into operation,907,,,active,
+6508.064,lot,Lot290,processing started,907,STG907,Lot290,active,
+6508.064,tool,STG907,in process,907,STG907,Lot290,,1 lot
+6509.064,lot,Lot290,processing completed,907,STG907,Lot290,active,
+6509.064,tool,STG907,process completed,907,STG907,Lot290,,
+6509.064,lot,Lot290,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6509.064,lot,Lot290,moved into operation,908,,,active,
+6525.156,lot,Lot291,created,,,,active,25 wafers
+6525.156,lot,Lot291,moved into operation,907,,,active,
+6525.156,lot,Lot291,processing started,907,STG907,Lot291,active,
+6525.156,tool,STG907,in process,907,STG907,Lot291,,1 lot
+6526.156,lot,Lot291,processing completed,907,STG907,Lot291,active,
+6526.156,tool,STG907,process completed,907,STG907,Lot291,,
+6526.156,lot,Lot291,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6526.156,lot,Lot291,moved into operation,908,,,active,
+6526.156,tool,VFP701,batch dispatched,908,VFP701,Lot289;Lot290;Lot291,,3 lots
+6540.494,lot,Lot292,created,,,,active,25 wafers
+6540.494,lot,Lot292,moved into operation,907,,,active,
+6540.494,lot,Lot292,processing started,907,STG907,Lot292,active,
+6540.494,tool,STG907,in process,907,STG907,Lot292,,1 lot
+6541.494,lot,Lot292,processing completed,907,STG907,Lot292,active,
+6541.494,tool,STG907,process completed,907,STG907,Lot292,,
+6541.494,lot,Lot292,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6541.494,lot,Lot292,moved into operation,908,,,active,
+6548.788,lot,Lot293,created,,,,active,25 wafers
+6548.788,lot,Lot293,moved into operation,907,,,active,
+6548.788,lot,Lot293,processing started,907,STG907,Lot293,active,
+6548.788,tool,STG907,in process,907,STG907,Lot293,,1 lot
+6549.788,lot,Lot293,processing completed,907,STG907,Lot293,active,
+6549.788,tool,STG907,process completed,907,STG907,Lot293,,
+6549.788,lot,Lot293,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6549.788,lot,Lot293,moved into operation,908,,,active,
+6579.788,tool,VFP702,batch dispatched,908,VFP702,Lot292;Lot293,,2 lots
+6583.88,lot,Lot189,processing completed,908,VFP701,Lot189;Lot190,active,
+6583.88,lot,Lot189,moved out of operation,908,,,hold,operation elapsed 3464.4 min; limit 720 min
+6583.88,lot,Lot190,processing completed,908,VFP701,Lot189;Lot190,active,
+6583.88,lot,Lot190,moved out of operation,908,,,hold,operation elapsed 3435.8 min; limit 720 min
+6583.88,tool,VFP701,process completed,908,VFP701,Lot189;Lot190,,
+6583.88,lot,Lot193,processing started,908,VFP701,Lot193;Lot194,active,
+6583.88,lot,Lot194,processing started,908,VFP701,Lot193;Lot194,active,
+6583.88,tool,VFP701,in process,908,VFP701,Lot193;Lot194,,
+6589.155,lot,Lot294,created,,,,active,25 wafers
+6589.155,lot,Lot294,moved into operation,907,,,active,
+6589.155,lot,Lot294,processing started,907,STG907,Lot294,active,
+6589.155,tool,STG907,in process,907,STG907,Lot294,,1 lot
+6590.155,lot,Lot294,processing completed,907,STG907,Lot294,active,
+6590.155,tool,STG907,process completed,907,STG907,Lot294,,
+6590.155,lot,Lot294,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6590.155,lot,Lot294,moved into operation,908,,,active,
+6609.579,lot,Lot295,created,,,,active,25 wafers
+6609.579,lot,Lot295,moved into operation,907,,,active,
+6609.579,lot,Lot295,processing started,907,STG907,Lot295,active,
+6609.579,tool,STG907,in process,907,STG907,Lot295,,1 lot
+6610.579,lot,Lot295,processing completed,907,STG907,Lot295,active,
+6610.579,tool,STG907,process completed,907,STG907,Lot295,,
+6610.579,lot,Lot295,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6610.579,lot,Lot295,moved into operation,908,,,active,
+6617.348,lot,Lot296,created,,,,active,25 wafers
+6617.348,lot,Lot296,moved into operation,907,,,active,
+6617.348,lot,Lot296,processing started,907,STG907,Lot296,active,
+6617.348,tool,STG907,in process,907,STG907,Lot296,,1 lot
+6618.348,lot,Lot296,processing completed,907,STG907,Lot296,active,
+6618.348,tool,STG907,process completed,907,STG907,Lot296,,
+6618.348,lot,Lot296,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6618.348,lot,Lot296,moved into operation,908,,,active,
+6618.348,tool,VFP701,batch dispatched,908,VFP701,Lot294;Lot295;Lot296,,3 lots
+6621.318,lot,Lot297,created,,,,active,25 wafers
+6621.318,lot,Lot297,moved into operation,907,,,active,
+6621.318,lot,Lot297,processing started,907,STG907,Lot297,active,
+6621.318,tool,STG907,in process,907,STG907,Lot297,,1 lot
+6622.318,lot,Lot297,processing completed,907,STG907,Lot297,active,
+6622.318,tool,STG907,process completed,907,STG907,Lot297,,
+6622.318,lot,Lot297,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6622.318,lot,Lot297,moved into operation,908,,,active,
+6641.054,lot,Lot191,processing completed,908,VFP702,Lot191;Lot192,active,
+6641.054,lot,Lot191,moved out of operation,908,,,hold,operation elapsed 3379.6 min; limit 720 min
+6641.054,lot,Lot192,processing completed,908,VFP702,Lot191;Lot192,active,
+6641.054,lot,Lot192,moved out of operation,908,,,hold,operation elapsed 3379.4 min; limit 720 min
+6641.054,tool,VFP702,process completed,908,VFP702,Lot191;Lot192,,
+6641.054,lot,Lot195,processing started,908,VFP702,Lot195;Lot196,active,
+6641.054,lot,Lot196,processing started,908,VFP702,Lot195;Lot196,active,
+6641.054,tool,VFP702,in process,908,VFP702,Lot195;Lot196,,
+6660.792,lot,Lot298,created,,,,active,25 wafers
+6660.792,lot,Lot298,moved into operation,907,,,active,
+6660.792,lot,Lot298,processing started,907,STG907,Lot298,active,
+6660.792,tool,STG907,in process,907,STG907,Lot298,,1 lot
+6661.792,lot,Lot298,processing completed,907,STG907,Lot298,active,
+6661.792,tool,STG907,process completed,907,STG907,Lot298,,
+6661.792,lot,Lot298,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6661.792,lot,Lot298,moved into operation,908,,,active,
+6673.431,lot,Lot299,created,,,,active,25 wafers
+6673.431,lot,Lot299,moved into operation,907,,,active,
+6673.431,lot,Lot299,processing started,907,STG907,Lot299,active,
+6673.431,tool,STG907,in process,907,STG907,Lot299,,1 lot
+6674.431,lot,Lot299,processing completed,907,STG907,Lot299,active,
+6674.431,tool,STG907,process completed,907,STG907,Lot299,,
+6674.431,lot,Lot299,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6674.431,lot,Lot299,moved into operation,908,,,active,
+6674.431,tool,VFP702,batch dispatched,908,VFP702,Lot297;Lot298;Lot299,,3 lots
+6698.37,lot,Lot300,created,,,,active,25 wafers
+6698.37,lot,Lot300,moved into operation,907,,,active,
+6698.37,lot,Lot300,processing started,907,STG907,Lot300,active,
+6698.37,tool,STG907,in process,907,STG907,Lot300,,1 lot
+6699.37,lot,Lot300,processing completed,907,STG907,Lot300,active,
+6699.37,tool,STG907,process completed,907,STG907,Lot300,,
+6699.37,lot,Lot300,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6699.37,lot,Lot300,moved into operation,908,,,active,
+6712.538,lot,Lot301,created,,,,active,25 wafers
+6712.538,lot,Lot301,moved into operation,907,,,active,
+6712.538,lot,Lot301,processing started,907,STG907,Lot301,active,
+6712.538,tool,STG907,in process,907,STG907,Lot301,,1 lot
+6713.538,lot,Lot301,processing completed,907,STG907,Lot301,active,
+6713.538,tool,STG907,process completed,907,STG907,Lot301,,
+6713.538,lot,Lot301,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6713.538,lot,Lot301,moved into operation,908,,,active,
+6743.538,tool,VFP701,batch dispatched,908,VFP701,Lot300;Lot301,,2 lots
+6786.437,lot,Lot302,created,,,,active,25 wafers
+6786.437,lot,Lot302,moved into operation,907,,,active,
+6786.437,lot,Lot302,processing started,907,STG907,Lot302,active,
+6786.437,tool,STG907,in process,907,STG907,Lot302,,1 lot
+6787.437,lot,Lot302,processing completed,907,STG907,Lot302,active,
+6787.437,tool,STG907,process completed,907,STG907,Lot302,,
+6787.437,lot,Lot302,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6787.437,lot,Lot302,moved into operation,908,,,active,
+6869.215,lot,Lot303,created,,,,active,25 wafers
+6869.215,lot,Lot303,moved into operation,907,,,active,
+6869.215,lot,Lot303,processing started,907,STG907,Lot303,active,
+6869.215,tool,STG907,in process,907,STG907,Lot303,,1 lot
+6869.872,lot,Lot304,created,,,,active,25 wafers
+6869.872,lot,Lot304,moved into operation,907,,,active,
+6869.872,lot,Lot304,processing started,907,STG907,Lot304,active,
+6869.872,tool,STG907,in process,907,STG907,Lot304,,1 lot
+6870.215,lot,Lot303,processing completed,907,STG907,Lot303,active,
+6870.215,tool,STG907,process completed,907,STG907,Lot303,,
+6870.215,lot,Lot303,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6870.215,lot,Lot303,moved into operation,908,,,active,
+6870.872,lot,Lot304,processing completed,907,STG907,Lot304,active,
+6870.872,tool,STG907,process completed,907,STG907,Lot304,,
+6870.872,lot,Lot304,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6870.872,lot,Lot304,moved into operation,908,,,active,
+6870.872,tool,VFP702,batch dispatched,908,VFP702,Lot302;Lot303;Lot304,,3 lots
+6877.944,lot,Lot305,created,,,,active,25 wafers
+6877.944,lot,Lot305,moved into operation,907,,,active,
+6877.944,lot,Lot305,processing started,907,STG907,Lot305,active,
+6877.944,tool,STG907,in process,907,STG907,Lot305,,1 lot
+6878.944,lot,Lot305,processing completed,907,STG907,Lot305,active,
+6878.944,tool,STG907,process completed,907,STG907,Lot305,,
+6878.944,lot,Lot305,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6878.944,lot,Lot305,moved into operation,908,,,active,
+6892.24,lot,Lot306,created,,,,active,25 wafers
+6892.24,lot,Lot306,moved into operation,907,,,active,
+6892.24,lot,Lot306,processing started,907,STG907,Lot306,active,
+6892.24,tool,STG907,in process,907,STG907,Lot306,,1 lot
+6893.24,lot,Lot306,processing completed,907,STG907,Lot306,active,
+6893.24,tool,STG907,process completed,907,STG907,Lot306,,
+6893.24,lot,Lot306,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+6893.24,lot,Lot306,moved into operation,908,,,active,
+6923.24,tool,VFP701,batch dispatched,908,VFP701,Lot305;Lot306,,2 lots
+6943.88,lot,Lot193,processing completed,908,VFP701,Lot193;Lot194,active,
+6943.88,lot,Lot193,moved out of operation,908,,,hold,operation elapsed 3627.1 min; limit 720 min
+6943.88,lot,Lot194,processing completed,908,VFP701,Lot193;Lot194,active,
+6943.88,lot,Lot194,moved out of operation,908,,,hold,operation elapsed 3565.3 min; limit 720 min
+6943.88,tool,VFP701,process completed,908,VFP701,Lot193;Lot194,,
+6943.88,lot,Lot197,processing started,908,VFP701,Lot197;Lot198;Lot199,active,
+6943.88,lot,Lot198,processing started,908,VFP701,Lot197;Lot198;Lot199,active,
+6943.88,lot,Lot199,processing started,908,VFP701,Lot197;Lot198;Lot199,active,
+6943.88,tool,VFP701,in process,908,VFP701,Lot197;Lot198;Lot199,,
+7001.054,lot,Lot195,processing completed,908,VFP702,Lot195;Lot196,active,
+7001.054,lot,Lot195,moved out of operation,908,,,hold,operation elapsed 3544.2 min; limit 720 min
+7001.054,lot,Lot196,processing completed,908,VFP702,Lot195;Lot196,active,
+7001.054,lot,Lot196,moved out of operation,908,,,hold,operation elapsed 3495.6 min; limit 720 min
+7001.054,tool,VFP702,process completed,908,VFP702,Lot195;Lot196,,
+7001.054,lot,Lot200,processing started,908,VFP702,Lot200;Lot201,active,
+7001.054,lot,Lot201,processing started,908,VFP702,Lot200;Lot201,active,
+7001.054,tool,VFP702,in process,908,VFP702,Lot200;Lot201,,
+7048.719,lot,Lot307,created,,,,active,25 wafers
+7048.719,lot,Lot307,moved into operation,907,,,active,
+7048.719,lot,Lot307,processing started,907,STG907,Lot307,active,
+7048.719,tool,STG907,in process,907,STG907,Lot307,,1 lot
+7049.719,lot,Lot307,processing completed,907,STG907,Lot307,active,
+7049.719,tool,STG907,process completed,907,STG907,Lot307,,
+7049.719,lot,Lot307,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7049.719,lot,Lot307,moved into operation,908,,,active,
+7103.672,lot,Lot308,created,,,,active,25 wafers
+7103.672,lot,Lot308,moved into operation,907,,,active,
+7103.672,lot,Lot308,processing started,907,STG907,Lot308,active,
+7103.672,tool,STG907,in process,907,STG907,Lot308,,1 lot
+7104.672,lot,Lot308,processing completed,907,STG907,Lot308,active,
+7104.672,tool,STG907,process completed,907,STG907,Lot308,,
+7104.672,lot,Lot308,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7104.672,lot,Lot308,moved into operation,908,,,active,
+7118.581,lot,Lot309,created,,,,active,25 wafers
+7118.581,lot,Lot309,moved into operation,907,,,active,
+7118.581,lot,Lot309,processing started,907,STG907,Lot309,active,
+7118.581,tool,STG907,in process,907,STG907,Lot309,,1 lot
+7119.581,lot,Lot309,processing completed,907,STG907,Lot309,active,
+7119.581,tool,STG907,process completed,907,STG907,Lot309,,
+7119.581,lot,Lot309,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7119.581,lot,Lot309,moved into operation,908,,,active,
+7119.581,tool,VFP702,batch dispatched,908,VFP702,Lot307;Lot308;Lot309,,3 lots
+7127.206,lot,Lot310,created,,,,active,25 wafers
+7127.206,lot,Lot310,moved into operation,907,,,active,
+7127.206,lot,Lot310,processing started,907,STG907,Lot310,active,
+7127.206,tool,STG907,in process,907,STG907,Lot310,,1 lot
+7128.206,lot,Lot310,processing completed,907,STG907,Lot310,active,
+7128.206,tool,STG907,process completed,907,STG907,Lot310,,
+7128.206,lot,Lot310,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7128.206,lot,Lot310,moved into operation,908,,,active,
+7167.607,lot,Lot311,created,,,,active,25 wafers
+7167.607,lot,Lot311,moved into operation,907,,,active,
+7167.607,lot,Lot311,processing started,907,STG907,Lot311,active,
+7167.607,tool,STG907,in process,907,STG907,Lot311,,1 lot
+7168.607,lot,Lot311,processing completed,907,STG907,Lot311,active,
+7168.607,tool,STG907,process completed,907,STG907,Lot311,,
+7168.607,lot,Lot311,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7168.607,lot,Lot311,moved into operation,908,,,active,
+7198.607,tool,VFP701,batch dispatched,908,VFP701,Lot310;Lot311,,2 lots
+7233.066,lot,Lot312,created,,,,active,25 wafers
+7233.066,lot,Lot312,moved into operation,907,,,active,
+7233.066,lot,Lot312,processing started,907,STG907,Lot312,active,
+7233.066,tool,STG907,in process,907,STG907,Lot312,,1 lot
+7234.066,lot,Lot312,processing completed,907,STG907,Lot312,active,
+7234.066,tool,STG907,process completed,907,STG907,Lot312,,
+7234.066,lot,Lot312,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7234.066,lot,Lot312,moved into operation,908,,,active,
+7303.88,lot,Lot197,processing completed,908,VFP701,Lot197;Lot198;Lot199,active,
+7303.88,lot,Lot197,moved out of operation,908,,,hold,operation elapsed 3738.8 min; limit 720 min
+7303.88,lot,Lot198,processing completed,908,VFP701,Lot197;Lot198;Lot199,active,
+7303.88,lot,Lot198,moved out of operation,908,,,hold,operation elapsed 3712.5 min; limit 720 min
+7303.88,lot,Lot199,processing completed,908,VFP701,Lot197;Lot198;Lot199,active,
+7303.88,lot,Lot199,moved out of operation,908,,,hold,operation elapsed 3682.8 min; limit 720 min
+7303.88,tool,VFP701,process completed,908,VFP701,Lot197;Lot198;Lot199,,
+7303.88,tool,VFP701,PM started,,VFP701,,,trigger: run count
+7329.942,lot,Lot313,created,,,,active,25 wafers
+7329.942,lot,Lot313,moved into operation,907,,,active,
+7329.942,lot,Lot313,processing started,907,STG907,Lot313,active,
+7329.942,tool,STG907,in process,907,STG907,Lot313,,1 lot
+7330.942,lot,Lot313,processing completed,907,STG907,Lot313,active,
+7330.942,tool,STG907,process completed,907,STG907,Lot313,,
+7330.942,lot,Lot313,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7330.942,lot,Lot313,moved into operation,908,,,active,
+7345.112,lot,Lot314,created,,,,active,25 wafers
+7345.112,lot,Lot314,moved into operation,907,,,active,
+7345.112,lot,Lot314,processing started,907,STG907,Lot314,active,
+7345.112,tool,STG907,in process,907,STG907,Lot314,,1 lot
+7346.112,lot,Lot314,processing completed,907,STG907,Lot314,active,
+7346.112,tool,STG907,process completed,907,STG907,Lot314,,
+7346.112,lot,Lot314,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7346.112,lot,Lot314,moved into operation,908,,,active,
+7346.112,tool,VFP702,batch dispatched,908,VFP702,Lot312;Lot313;Lot314,,3 lots
+7361.054,lot,Lot200,processing completed,908,VFP702,Lot200;Lot201,active,
+7361.054,lot,Lot200,moved out of operation,908,,,hold,operation elapsed 3720.0 min; limit 720 min
+7361.054,lot,Lot201,processing completed,908,VFP702,Lot200;Lot201,active,
+7361.054,lot,Lot201,moved out of operation,908,,,hold,operation elapsed 3718.0 min; limit 720 min
+7361.054,tool,VFP702,process completed,908,VFP702,Lot200;Lot201,,
+7361.054,tool,VFP702,PM started,,VFP702,,,trigger: run count
+7422.166,lot,Lot315,created,,,,active,25 wafers
+7422.166,lot,Lot315,moved into operation,907,,,active,
+7422.166,lot,Lot315,processing started,907,STG907,Lot315,active,
+7422.166,tool,STG907,in process,907,STG907,Lot315,,1 lot
+7423.166,lot,Lot315,processing completed,907,STG907,Lot315,active,
+7423.166,tool,STG907,process completed,907,STG907,Lot315,,
+7423.166,lot,Lot315,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7423.166,lot,Lot315,moved into operation,908,,,active,
+7463.995,lot,Lot316,created,,,,active,25 wafers
+7463.995,lot,Lot316,moved into operation,907,,,active,
+7463.995,lot,Lot316,processing started,907,STG907,Lot316,active,
+7463.995,tool,STG907,in process,907,STG907,Lot316,,1 lot
+7464.995,lot,Lot316,processing completed,907,STG907,Lot316,active,
+7464.995,tool,STG907,process completed,907,STG907,Lot316,,
+7464.995,lot,Lot316,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7464.995,lot,Lot316,moved into operation,908,,,active,
+7487.849,lot,Lot317,created,,,,active,25 wafers
+7487.849,lot,Lot317,moved into operation,907,,,active,
+7487.849,lot,Lot317,processing started,907,STG907,Lot317,active,
+7487.849,tool,STG907,in process,907,STG907,Lot317,,1 lot
+7488.849,lot,Lot317,processing completed,907,STG907,Lot317,active,
+7488.849,tool,STG907,process completed,907,STG907,Lot317,,
+7488.849,lot,Lot317,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7488.849,lot,Lot317,moved into operation,908,,,active,
+7488.849,tool,VFP701,batch dispatched,908,VFP701,Lot315;Lot316;Lot317,,3 lots
+7640.279,lot,Lot318,created,,,,active,25 wafers
+7640.279,lot,Lot318,moved into operation,907,,,active,
+7640.279,lot,Lot318,processing started,907,STG907,Lot318,active,
+7640.279,tool,STG907,in process,907,STG907,Lot318,,1 lot
+7641.279,lot,Lot318,processing completed,907,STG907,Lot318,active,
+7641.279,tool,STG907,process completed,907,STG907,Lot318,,
+7641.279,lot,Lot318,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7641.279,lot,Lot318,moved into operation,908,,,active,
+7649.906,lot,Lot319,created,,,,active,25 wafers
+7649.906,lot,Lot319,moved into operation,907,,,active,
+7649.906,lot,Lot319,processing started,907,STG907,Lot319,active,
+7649.906,tool,STG907,in process,907,STG907,Lot319,,1 lot
+7650.906,lot,Lot319,processing completed,907,STG907,Lot319,active,
+7650.906,tool,STG907,process completed,907,STG907,Lot319,,
+7650.906,lot,Lot319,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7650.906,lot,Lot319,moved into operation,908,,,active,
+7680.906,tool,VFP702,batch dispatched,908,VFP702,Lot318;Lot319,,2 lots
+7696.442,lot,Lot320,created,,,,active,25 wafers
+7696.442,lot,Lot320,moved into operation,907,,,active,
+7696.442,lot,Lot320,processing started,907,STG907,Lot320,active,
+7696.442,tool,STG907,in process,907,STG907,Lot320,,1 lot
+7697.442,lot,Lot320,processing completed,907,STG907,Lot320,active,
+7697.442,tool,STG907,process completed,907,STG907,Lot320,,
+7697.442,lot,Lot320,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7697.442,lot,Lot320,moved into operation,908,,,active,
+7699.628,lot,Lot321,created,,,,active,25 wafers
+7699.628,lot,Lot321,moved into operation,907,,,active,
+7699.628,lot,Lot321,processing started,907,STG907,Lot321,active,
+7699.628,tool,STG907,in process,907,STG907,Lot321,,1 lot
+7700.628,lot,Lot321,processing completed,907,STG907,Lot321,active,
+7700.628,tool,STG907,process completed,907,STG907,Lot321,,
+7700.628,lot,Lot321,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7700.628,lot,Lot321,moved into operation,908,,,active,
+7706.322,lot,Lot322,created,,,,active,25 wafers
+7706.322,lot,Lot322,moved into operation,907,,,active,
+7706.322,lot,Lot322,processing started,907,STG907,Lot322,active,
+7706.322,tool,STG907,in process,907,STG907,Lot322,,1 lot
+7707.322,lot,Lot322,processing completed,907,STG907,Lot322,active,
+7707.322,tool,STG907,process completed,907,STG907,Lot322,,
+7707.322,lot,Lot322,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7707.322,lot,Lot322,moved into operation,908,,,active,
+7707.322,tool,VFP701,batch dispatched,908,VFP701,Lot320;Lot321;Lot322,,3 lots
+7783.88,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+7783.88,lot,Lot202,processing started,908,VFP701,Lot202;Lot203;Lot204,active,
+7783.88,lot,Lot203,processing started,908,VFP701,Lot202;Lot203;Lot204,active,
+7783.88,lot,Lot204,processing started,908,VFP701,Lot202;Lot203;Lot204,active,
+7783.88,tool,VFP701,in process,908,VFP701,Lot202;Lot203;Lot204,,
+7793.406,lot,Lot323,created,,,,active,25 wafers
+7793.406,lot,Lot323,moved into operation,907,,,active,
+7793.406,lot,Lot323,processing started,907,STG907,Lot323,active,
+7793.406,tool,STG907,in process,907,STG907,Lot323,,1 lot
+7794.406,lot,Lot323,processing completed,907,STG907,Lot323,active,
+7794.406,tool,STG907,process completed,907,STG907,Lot323,,
+7794.406,lot,Lot323,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7794.406,lot,Lot323,moved into operation,908,,,active,
+7802.027,lot,Lot324,created,,,,active,25 wafers
+7802.027,lot,Lot324,moved into operation,907,,,active,
+7802.027,lot,Lot324,processing started,907,STG907,Lot324,active,
+7802.027,tool,STG907,in process,907,STG907,Lot324,,1 lot
+7803.027,lot,Lot324,processing completed,907,STG907,Lot324,active,
+7803.027,tool,STG907,process completed,907,STG907,Lot324,,
+7803.027,lot,Lot324,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7803.027,lot,Lot324,moved into operation,908,,,active,
+7833.027,tool,VFP702,batch dispatched,908,VFP702,Lot323;Lot324,,2 lots
+7841.054,tool,VFP702,PM completed,,VFP702,,,trigger: run count
+7841.054,lot,Lot205,processing started,908,VFP702,Lot205;Lot206;Lot207,active,
+7841.054,lot,Lot206,processing started,908,VFP702,Lot205;Lot206;Lot207,active,
+7841.054,lot,Lot207,processing started,908,VFP702,Lot205;Lot206;Lot207,active,
+7841.054,tool,VFP702,in process,908,VFP702,Lot205;Lot206;Lot207,,
+7853.271,lot,Lot325,created,,,,active,25 wafers
+7853.271,lot,Lot325,moved into operation,907,,,active,
+7853.271,lot,Lot325,processing started,907,STG907,Lot325,active,
+7853.271,tool,STG907,in process,907,STG907,Lot325,,1 lot
+7854.271,lot,Lot325,processing completed,907,STG907,Lot325,active,
+7854.271,tool,STG907,process completed,907,STG907,Lot325,,
+7854.271,lot,Lot325,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7854.271,lot,Lot325,moved into operation,908,,,active,
+7886.276,lot,Lot326,created,,,,active,25 wafers
+7886.276,lot,Lot326,moved into operation,907,,,active,
+7886.276,lot,Lot326,processing started,907,STG907,Lot326,active,
+7886.276,tool,STG907,in process,907,STG907,Lot326,,1 lot
+7887.276,lot,Lot326,processing completed,907,STG907,Lot326,active,
+7887.276,tool,STG907,process completed,907,STG907,Lot326,,
+7887.276,lot,Lot326,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7887.276,lot,Lot326,moved into operation,908,,,active,
+7917.276,tool,VFP701,batch dispatched,908,VFP701,Lot325;Lot326,,2 lots
+7952.505,lot,Lot327,created,,,,active,25 wafers
+7952.505,lot,Lot327,moved into operation,907,,,active,
+7952.505,lot,Lot327,processing started,907,STG907,Lot327,active,
+7952.505,tool,STG907,in process,907,STG907,Lot327,,1 lot
+7953.505,lot,Lot327,processing completed,907,STG907,Lot327,active,
+7953.505,tool,STG907,process completed,907,STG907,Lot327,,
+7953.505,lot,Lot327,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7953.505,lot,Lot327,moved into operation,908,,,active,
+7969.03,lot,Lot328,created,,,,active,25 wafers
+7969.03,lot,Lot328,moved into operation,907,,,active,
+7969.03,lot,Lot328,processing started,907,STG907,Lot328,active,
+7969.03,tool,STG907,in process,907,STG907,Lot328,,1 lot
+7970.03,lot,Lot328,processing completed,907,STG907,Lot328,active,
+7970.03,tool,STG907,process completed,907,STG907,Lot328,,
+7970.03,lot,Lot328,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7970.03,lot,Lot328,moved into operation,908,,,active,
+7984.004,lot,Lot329,created,,,,active,25 wafers
+7984.004,lot,Lot329,moved into operation,907,,,active,
+7984.004,lot,Lot329,processing started,907,STG907,Lot329,active,
+7984.004,tool,STG907,in process,907,STG907,Lot329,,1 lot
+7985.004,lot,Lot329,processing completed,907,STG907,Lot329,active,
+7985.004,tool,STG907,process completed,907,STG907,Lot329,,
+7985.004,lot,Lot329,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7985.004,lot,Lot329,moved into operation,908,,,active,
+7985.004,tool,VFP702,batch dispatched,908,VFP702,Lot327;Lot328;Lot329,,3 lots
+7996.396,lot,Lot330,created,,,,active,25 wafers
+7996.396,lot,Lot330,moved into operation,907,,,active,
+7996.396,lot,Lot330,processing started,907,STG907,Lot330,active,
+7996.396,tool,STG907,in process,907,STG907,Lot330,,1 lot
+7997.396,lot,Lot330,processing completed,907,STG907,Lot330,active,
+7997.396,tool,STG907,process completed,907,STG907,Lot330,,
+7997.396,lot,Lot330,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+7997.396,lot,Lot330,moved into operation,908,,,active,
+8069.136,lot,Lot331,created,,,,active,25 wafers
+8069.136,lot,Lot331,moved into operation,907,,,active,
+8069.136,lot,Lot331,processing started,907,STG907,Lot331,active,
+8069.136,tool,STG907,in process,907,STG907,Lot331,,1 lot
+8070.136,lot,Lot331,processing completed,907,STG907,Lot331,active,
+8070.136,tool,STG907,process completed,907,STG907,Lot331,,
+8070.136,lot,Lot331,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8070.136,lot,Lot331,moved into operation,908,,,active,
+8100.136,tool,VFP701,batch dispatched,908,VFP701,Lot330;Lot331,,2 lots
+8102.483,lot,Lot332,created,,,,active,25 wafers
+8102.483,lot,Lot332,moved into operation,907,,,active,
+8102.483,lot,Lot332,processing started,907,STG907,Lot332,active,
+8102.483,tool,STG907,in process,907,STG907,Lot332,,1 lot
+8103.483,lot,Lot332,processing completed,907,STG907,Lot332,active,
+8103.483,tool,STG907,process completed,907,STG907,Lot332,,
+8103.483,lot,Lot332,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8103.483,lot,Lot332,moved into operation,908,,,active,
+8143.88,lot,Lot202,processing completed,908,VFP701,Lot202;Lot203;Lot204,active,
+8143.88,lot,Lot202,moved out of operation,908,,,hold,operation elapsed 4427.3 min; limit 720 min
+8143.88,lot,Lot203,processing completed,908,VFP701,Lot202;Lot203;Lot204,active,
+8143.88,lot,Lot203,moved out of operation,908,,,hold,operation elapsed 4396.9 min; limit 720 min
+8143.88,lot,Lot204,processing completed,908,VFP701,Lot202;Lot203;Lot204,active,
+8143.88,lot,Lot204,moved out of operation,908,,,hold,operation elapsed 4388.9 min; limit 720 min
+8143.88,tool,VFP701,process completed,908,VFP701,Lot202;Lot203;Lot204,,
+8143.88,lot,Lot208,processing started,908,VFP701,Lot208;Lot209,active,
+8143.88,lot,Lot209,processing started,908,VFP701,Lot208;Lot209,active,
+8143.88,tool,VFP701,in process,908,VFP701,Lot208;Lot209,,
+8201.054,lot,Lot205,processing completed,908,VFP702,Lot205;Lot206;Lot207,active,
+8201.054,lot,Lot205,moved out of operation,908,,,hold,operation elapsed 4420.8 min; limit 720 min
+8201.054,lot,Lot206,processing completed,908,VFP702,Lot205;Lot206;Lot207,active,
+8201.054,lot,Lot206,moved out of operation,908,,,hold,operation elapsed 4396.9 min; limit 720 min
+8201.054,lot,Lot207,processing completed,908,VFP702,Lot205;Lot206;Lot207,active,
+8201.054,lot,Lot207,moved out of operation,908,,,hold,operation elapsed 4381.0 min; limit 720 min
+8201.054,tool,VFP702,process completed,908,VFP702,Lot205;Lot206;Lot207,,
+8201.054,lot,Lot210,processing started,908,VFP702,Lot210;Lot211;Lot212,active,
+8201.054,lot,Lot211,processing started,908,VFP702,Lot210;Lot211;Lot212,active,
+8201.054,lot,Lot212,processing started,908,VFP702,Lot210;Lot211;Lot212,active,
+8201.054,tool,VFP702,in process,908,VFP702,Lot210;Lot211;Lot212,,
+8213.572,lot,Lot333,created,,,,active,25 wafers
+8213.572,lot,Lot333,moved into operation,907,,,active,
+8213.572,lot,Lot333,processing started,907,STG907,Lot333,active,
+8213.572,tool,STG907,in process,907,STG907,Lot333,,1 lot
+8214.572,lot,Lot333,processing completed,907,STG907,Lot333,active,
+8214.572,tool,STG907,process completed,907,STG907,Lot333,,
+8214.572,lot,Lot333,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8214.572,lot,Lot333,moved into operation,908,,,active,
+8244.572,tool,VFP702,batch dispatched,908,VFP702,Lot332;Lot333,,2 lots
+8292.15,lot,Lot334,created,,,,active,25 wafers
+8292.15,lot,Lot334,moved into operation,907,,,active,
+8292.15,lot,Lot334,processing started,907,STG907,Lot334,active,
+8292.15,tool,STG907,in process,907,STG907,Lot334,,1 lot
+8293.15,lot,Lot334,processing completed,907,STG907,Lot334,active,
+8293.15,tool,STG907,process completed,907,STG907,Lot334,,
+8293.15,lot,Lot334,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8293.15,lot,Lot334,moved into operation,908,,,active,
+8297.385,lot,Lot335,created,,,,active,25 wafers
+8297.385,lot,Lot335,moved into operation,907,,,active,
+8297.385,lot,Lot335,processing started,907,STG907,Lot335,active,
+8297.385,tool,STG907,in process,907,STG907,Lot335,,1 lot
+8298.385,lot,Lot335,processing completed,907,STG907,Lot335,active,
+8298.385,tool,STG907,process completed,907,STG907,Lot335,,
+8298.385,lot,Lot335,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8298.385,lot,Lot335,moved into operation,908,,,active,
+8326.225,lot,Lot336,created,,,,active,25 wafers
+8326.225,lot,Lot336,moved into operation,907,,,active,
+8326.225,lot,Lot336,processing started,907,STG907,Lot336,active,
+8326.225,tool,STG907,in process,907,STG907,Lot336,,1 lot
+8327.225,lot,Lot336,processing completed,907,STG907,Lot336,active,
+8327.225,tool,STG907,process completed,907,STG907,Lot336,,
+8327.225,lot,Lot336,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8327.225,lot,Lot336,moved into operation,908,,,active,
+8327.225,tool,VFP701,batch dispatched,908,VFP701,Lot334;Lot335;Lot336,,3 lots
+8330.19,lot,Lot337,created,,,,active,25 wafers
+8330.19,lot,Lot337,moved into operation,907,,,active,
+8330.19,lot,Lot337,processing started,907,STG907,Lot337,active,
+8330.19,tool,STG907,in process,907,STG907,Lot337,,1 lot
+8331.19,lot,Lot337,processing completed,907,STG907,Lot337,active,
+8331.19,tool,STG907,process completed,907,STG907,Lot337,,
+8331.19,lot,Lot337,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8331.19,lot,Lot337,moved into operation,908,,,active,
+8331.627,lot,Lot338,created,,,,active,25 wafers
+8331.627,lot,Lot338,moved into operation,907,,,active,
+8331.627,lot,Lot338,processing started,907,STG907,Lot338,active,
+8331.627,tool,STG907,in process,907,STG907,Lot338,,1 lot
+8332.627,lot,Lot338,processing completed,907,STG907,Lot338,active,
+8332.627,tool,STG907,process completed,907,STG907,Lot338,,
+8332.627,lot,Lot338,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8332.627,lot,Lot338,moved into operation,908,,,active,
+8334.363,lot,Lot339,created,,,,active,25 wafers
+8334.363,lot,Lot339,moved into operation,907,,,active,
+8334.363,lot,Lot339,processing started,907,STG907,Lot339,active,
+8334.363,tool,STG907,in process,907,STG907,Lot339,,1 lot
+8335.363,lot,Lot339,processing completed,907,STG907,Lot339,active,
+8335.363,tool,STG907,process completed,907,STG907,Lot339,,
+8335.363,lot,Lot339,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8335.363,lot,Lot339,moved into operation,908,,,active,
+8335.363,tool,VFP702,batch dispatched,908,VFP702,Lot337;Lot338;Lot339,,3 lots
+8406.766,lot,Lot340,created,,,,active,25 wafers
+8406.766,lot,Lot340,moved into operation,907,,,active,
+8406.766,lot,Lot340,processing started,907,STG907,Lot340,active,
+8406.766,tool,STG907,in process,907,STG907,Lot340,,1 lot
+8407.766,lot,Lot340,processing completed,907,STG907,Lot340,active,
+8407.766,tool,STG907,process completed,907,STG907,Lot340,,
+8407.766,lot,Lot340,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8407.766,lot,Lot340,moved into operation,908,,,active,
+8462.628,lot,Lot341,created,,,,active,25 wafers
+8462.628,lot,Lot341,moved into operation,907,,,active,
+8462.628,lot,Lot341,processing started,907,STG907,Lot341,active,
+8462.628,tool,STG907,in process,907,STG907,Lot341,,1 lot
+8463.628,lot,Lot341,processing completed,907,STG907,Lot341,active,
+8463.628,tool,STG907,process completed,907,STG907,Lot341,,
+8463.628,lot,Lot341,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8463.628,lot,Lot341,moved into operation,908,,,active,
+8493.628,tool,VFP701,batch dispatched,908,VFP701,Lot340;Lot341,,2 lots
+8503.88,lot,Lot208,processing completed,908,VFP701,Lot208;Lot209,active,
+8503.88,lot,Lot208,moved out of operation,908,,,hold,operation elapsed 4668.6 min; limit 720 min
+8503.88,lot,Lot209,processing completed,908,VFP701,Lot208;Lot209,active,
+8503.88,lot,Lot209,moved out of operation,908,,,hold,operation elapsed 4640.7 min; limit 720 min
+8503.88,tool,VFP701,process completed,908,VFP701,Lot208;Lot209,,
+8503.88,lot,Lot213,processing started,908,VFP701,Lot213;Lot214;Lot215,active,
+8503.88,lot,Lot214,processing started,908,VFP701,Lot213;Lot214;Lot215,active,
+8503.88,lot,Lot215,processing started,908,VFP701,Lot213;Lot214;Lot215,active,
+8503.88,tool,VFP701,in process,908,VFP701,Lot213;Lot214;Lot215,,
+8526.103,lot,Lot342,created,,,,active,25 wafers
+8526.103,lot,Lot342,moved into operation,907,,,active,
+8526.103,lot,Lot342,processing started,907,STG907,Lot342,active,
+8526.103,tool,STG907,in process,907,STG907,Lot342,,1 lot
+8527.103,lot,Lot342,processing completed,907,STG907,Lot342,active,
+8527.103,tool,STG907,process completed,907,STG907,Lot342,,
+8527.103,lot,Lot342,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8527.103,lot,Lot342,moved into operation,908,,,active,
+8541.111,lot,Lot343,created,,,,active,25 wafers
+8541.111,lot,Lot343,moved into operation,907,,,active,
+8541.111,lot,Lot343,processing started,907,STG907,Lot343,active,
+8541.111,tool,STG907,in process,907,STG907,Lot343,,1 lot
+8542.111,lot,Lot343,processing completed,907,STG907,Lot343,active,
+8542.111,tool,STG907,process completed,907,STG907,Lot343,,
+8542.111,lot,Lot343,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8542.111,lot,Lot343,moved into operation,908,,,active,
+8561.054,lot,Lot210,processing completed,908,VFP702,Lot210;Lot211;Lot212,active,
+8561.054,lot,Lot210,moved out of operation,908,,,hold,operation elapsed 4662.7 min; limit 720 min
+8561.054,lot,Lot211,processing completed,908,VFP702,Lot210;Lot211;Lot212,active,
+8561.054,lot,Lot211,moved out of operation,908,,,hold,operation elapsed 4628.6 min; limit 720 min
+8561.054,lot,Lot212,processing completed,908,VFP702,Lot210;Lot211;Lot212,active,
+8561.054,lot,Lot212,moved out of operation,908,,,hold,operation elapsed 4606.5 min; limit 720 min
+8561.054,tool,VFP702,process completed,908,VFP702,Lot210;Lot211;Lot212,,
+8561.054,lot,Lot216,processing started,908,VFP702,Lot216;Lot217,active,
+8561.054,lot,Lot217,processing started,908,VFP702,Lot216;Lot217,active,
+8561.054,tool,VFP702,in process,908,VFP702,Lot216;Lot217,,
+8572.111,tool,VFP702,batch dispatched,908,VFP702,Lot342;Lot343,,2 lots
+8575.49,lot,Lot344,created,,,,active,25 wafers
+8575.49,lot,Lot344,moved into operation,907,,,active,
+8575.49,lot,Lot344,processing started,907,STG907,Lot344,active,
+8575.49,tool,STG907,in process,907,STG907,Lot344,,1 lot
+8576.49,lot,Lot344,processing completed,907,STG907,Lot344,active,
+8576.49,tool,STG907,process completed,907,STG907,Lot344,,
+8576.49,lot,Lot344,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8576.49,lot,Lot344,moved into operation,908,,,active,
+8630.312,lot,Lot345,created,,,,active,25 wafers
+8630.312,lot,Lot345,moved into operation,907,,,active,
+8630.312,lot,Lot345,processing started,907,STG907,Lot345,active,
+8630.312,tool,STG907,in process,907,STG907,Lot345,,1 lot
+8631.312,lot,Lot345,processing completed,907,STG907,Lot345,active,
+8631.312,tool,STG907,process completed,907,STG907,Lot345,,
+8631.312,lot,Lot345,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8631.312,lot,Lot345,moved into operation,908,,,active,
+8647.407,lot,Lot346,created,,,,active,25 wafers
+8647.407,lot,Lot346,moved into operation,907,,,active,
+8647.407,lot,Lot346,processing started,907,STG907,Lot346,active,
+8647.407,tool,STG907,in process,907,STG907,Lot346,,1 lot
+8648.407,lot,Lot346,processing completed,907,STG907,Lot346,active,
+8648.407,tool,STG907,process completed,907,STG907,Lot346,,
+8648.407,lot,Lot346,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8648.407,lot,Lot346,moved into operation,908,,,active,
+8648.407,tool,VFP701,batch dispatched,908,VFP701,Lot344;Lot345;Lot346,,3 lots
+8677.856,lot,Lot347,created,,,,active,25 wafers
+8677.856,lot,Lot347,moved into operation,907,,,active,
+8677.856,lot,Lot347,processing started,907,STG907,Lot347,active,
+8677.856,tool,STG907,in process,907,STG907,Lot347,,1 lot
+8678.856,lot,Lot347,processing completed,907,STG907,Lot347,active,
+8678.856,tool,STG907,process completed,907,STG907,Lot347,,
+8678.856,lot,Lot347,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8678.856,lot,Lot347,moved into operation,908,,,active,
+8686.972,lot,Lot348,created,,,,active,25 wafers
+8686.972,lot,Lot348,moved into operation,907,,,active,
+8686.972,lot,Lot348,processing started,907,STG907,Lot348,active,
+8686.972,tool,STG907,in process,907,STG907,Lot348,,1 lot
+8687.972,lot,Lot348,processing completed,907,STG907,Lot348,active,
+8687.972,tool,STG907,process completed,907,STG907,Lot348,,
+8687.972,lot,Lot348,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8687.972,lot,Lot348,moved into operation,908,,,active,
+8690.042,lot,Lot349,created,,,,active,25 wafers
+8690.042,lot,Lot349,moved into operation,907,,,active,
+8690.042,lot,Lot349,processing started,907,STG907,Lot349,active,
+8690.042,tool,STG907,in process,907,STG907,Lot349,,1 lot
+8691.042,lot,Lot349,processing completed,907,STG907,Lot349,active,
+8691.042,tool,STG907,process completed,907,STG907,Lot349,,
+8691.042,lot,Lot349,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8691.042,lot,Lot349,moved into operation,908,,,active,
+8691.042,tool,VFP702,batch dispatched,908,VFP702,Lot347;Lot348;Lot349,,3 lots
+8701.211,lot,Lot350,created,,,,active,25 wafers
+8701.211,lot,Lot350,moved into operation,907,,,active,
+8701.211,lot,Lot350,processing started,907,STG907,Lot350,active,
+8701.211,tool,STG907,in process,907,STG907,Lot350,,1 lot
+8702.211,lot,Lot350,processing completed,907,STG907,Lot350,active,
+8702.211,tool,STG907,process completed,907,STG907,Lot350,,
+8702.211,lot,Lot350,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8702.211,lot,Lot350,moved into operation,908,,,active,
+8780.925,lot,Lot351,created,,,,active,25 wafers
+8780.925,lot,Lot351,moved into operation,907,,,active,
+8780.925,lot,Lot351,processing started,907,STG907,Lot351,active,
+8780.925,tool,STG907,in process,907,STG907,Lot351,,1 lot
+8781.925,lot,Lot351,processing completed,907,STG907,Lot351,active,
+8781.925,tool,STG907,process completed,907,STG907,Lot351,,
+8781.925,lot,Lot351,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8781.925,lot,Lot351,moved into operation,908,,,active,
+8810.846,lot,Lot352,created,,,,active,25 wafers
+8810.846,lot,Lot352,moved into operation,907,,,active,
+8810.846,lot,Lot352,processing started,907,STG907,Lot352,active,
+8810.846,tool,STG907,in process,907,STG907,Lot352,,1 lot
+8811.846,lot,Lot352,processing completed,907,STG907,Lot352,active,
+8811.846,tool,STG907,process completed,907,STG907,Lot352,,
+8811.846,lot,Lot352,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8811.846,lot,Lot352,moved into operation,908,,,active,
+8811.846,tool,VFP701,batch dispatched,908,VFP701,Lot350;Lot351;Lot352,,3 lots
+8863.88,lot,Lot213,processing completed,908,VFP701,Lot213;Lot214;Lot215,active,
+8863.88,lot,Lot213,moved out of operation,908,,,hold,operation elapsed 4908.4 min; limit 720 min
+8863.88,lot,Lot214,processing completed,908,VFP701,Lot213;Lot214;Lot215,active,
+8863.88,lot,Lot214,moved out of operation,908,,,hold,operation elapsed 4899.0 min; limit 720 min
+8863.88,lot,Lot215,processing completed,908,VFP701,Lot213;Lot214;Lot215,active,
+8863.88,lot,Lot215,moved out of operation,908,,,hold,operation elapsed 4891.9 min; limit 720 min
+8863.88,tool,VFP701,process completed,908,VFP701,Lot213;Lot214;Lot215,,
+8863.88,lot,Lot218,processing started,908,VFP701,Lot218;Lot219,active,
+8863.88,lot,Lot219,processing started,908,VFP701,Lot218;Lot219,active,
+8863.88,tool,VFP701,in process,908,VFP701,Lot218;Lot219,,
+8904.128,lot,Lot353,created,,,,active,25 wafers
+8904.128,lot,Lot353,moved into operation,907,,,active,
+8904.128,lot,Lot353,processing started,907,STG907,Lot353,active,
+8904.128,tool,STG907,in process,907,STG907,Lot353,,1 lot
+8905.128,lot,Lot353,processing completed,907,STG907,Lot353,active,
+8905.128,tool,STG907,process completed,907,STG907,Lot353,,
+8905.128,lot,Lot353,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8905.128,lot,Lot353,moved into operation,908,,,active,
+8921.054,lot,Lot216,processing completed,908,VFP702,Lot216;Lot217,active,
+8921.054,lot,Lot216,moved out of operation,908,,,hold,operation elapsed 4917.5 min; limit 720 min
+8921.054,lot,Lot217,processing completed,908,VFP702,Lot216;Lot217,active,
+8921.054,lot,Lot217,moved out of operation,908,,,hold,operation elapsed 4846.5 min; limit 720 min
+8921.054,tool,VFP702,process completed,908,VFP702,Lot216;Lot217,,
+8921.054,lot,Lot220,processing started,908,VFP702,Lot220;Lot221,active,
+8921.054,lot,Lot221,processing started,908,VFP702,Lot220;Lot221,active,
+8921.054,tool,VFP702,in process,908,VFP702,Lot220;Lot221,,
+8926.162,lot,Lot354,created,,,,active,25 wafers
+8926.162,lot,Lot354,moved into operation,907,,,active,
+8926.162,lot,Lot354,processing started,907,STG907,Lot354,active,
+8926.162,tool,STG907,in process,907,STG907,Lot354,,1 lot
+8927.162,lot,Lot354,processing completed,907,STG907,Lot354,active,
+8927.162,tool,STG907,process completed,907,STG907,Lot354,,
+8927.162,lot,Lot354,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8927.162,lot,Lot354,moved into operation,908,,,active,
+8937.848,lot,Lot355,created,,,,active,25 wafers
+8937.848,lot,Lot355,moved into operation,907,,,active,
+8937.848,lot,Lot355,processing started,907,STG907,Lot355,active,
+8937.848,tool,STG907,in process,907,STG907,Lot355,,1 lot
+8938.848,lot,Lot355,processing completed,907,STG907,Lot355,active,
+8938.848,tool,STG907,process completed,907,STG907,Lot355,,
+8938.848,lot,Lot355,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8938.848,lot,Lot355,moved into operation,908,,,active,
+8938.848,tool,VFP702,batch dispatched,908,VFP702,Lot353;Lot354;Lot355,,3 lots
+8993.523,lot,Lot356,created,,,,active,25 wafers
+8993.523,lot,Lot356,moved into operation,907,,,active,
+8993.523,lot,Lot356,processing started,907,STG907,Lot356,active,
+8993.523,tool,STG907,in process,907,STG907,Lot356,,1 lot
+8994.523,lot,Lot356,processing completed,907,STG907,Lot356,active,
+8994.523,tool,STG907,process completed,907,STG907,Lot356,,
+8994.523,lot,Lot356,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+8994.523,lot,Lot356,moved into operation,908,,,active,
+9056.844,lot,Lot357,created,,,,active,25 wafers
+9056.844,lot,Lot357,moved into operation,907,,,active,
+9056.844,lot,Lot357,processing started,907,STG907,Lot357,active,
+9056.844,tool,STG907,in process,907,STG907,Lot357,,1 lot
+9057.292,lot,Lot358,created,,,,active,25 wafers
+9057.292,lot,Lot358,moved into operation,907,,,active,
+9057.292,lot,Lot358,processing started,907,STG907,Lot358,active,
+9057.292,tool,STG907,in process,907,STG907,Lot358,,1 lot
+9057.844,lot,Lot357,processing completed,907,STG907,Lot357,active,
+9057.844,tool,STG907,process completed,907,STG907,Lot357,,
+9057.844,lot,Lot357,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9057.844,lot,Lot357,moved into operation,908,,,active,
+9058.292,lot,Lot358,processing completed,907,STG907,Lot358,active,
+9058.292,tool,STG907,process completed,907,STG907,Lot358,,
+9058.292,lot,Lot358,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9058.292,lot,Lot358,moved into operation,908,,,active,
+9058.292,tool,VFP701,batch dispatched,908,VFP701,Lot356;Lot357;Lot358,,3 lots
+9097.249,lot,Lot359,created,,,,active,25 wafers
+9097.249,lot,Lot359,moved into operation,907,,,active,
+9097.249,lot,Lot359,processing started,907,STG907,Lot359,active,
+9097.249,tool,STG907,in process,907,STG907,Lot359,,1 lot
+9098.249,lot,Lot359,processing completed,907,STG907,Lot359,active,
+9098.249,tool,STG907,process completed,907,STG907,Lot359,,
+9098.249,lot,Lot359,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9098.249,lot,Lot359,moved into operation,908,,,active,
+9100.711,lot,Lot360,created,,,,active,25 wafers
+9100.711,lot,Lot360,moved into operation,907,,,active,
+9100.711,lot,Lot360,processing started,907,STG907,Lot360,active,
+9100.711,tool,STG907,in process,907,STG907,Lot360,,1 lot
+9101.711,lot,Lot360,processing completed,907,STG907,Lot360,active,
+9101.711,tool,STG907,process completed,907,STG907,Lot360,,
+9101.711,lot,Lot360,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9101.711,lot,Lot360,moved into operation,908,,,active,
+9105.113,lot,Lot361,created,,,,active,25 wafers
+9105.113,lot,Lot361,moved into operation,907,,,active,
+9105.113,lot,Lot361,processing started,907,STG907,Lot361,active,
+9105.113,tool,STG907,in process,907,STG907,Lot361,,1 lot
+9106.113,lot,Lot361,processing completed,907,STG907,Lot361,active,
+9106.113,tool,STG907,process completed,907,STG907,Lot361,,
+9106.113,lot,Lot361,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9106.113,lot,Lot361,moved into operation,908,,,active,
+9106.113,tool,VFP702,batch dispatched,908,VFP702,Lot359;Lot360;Lot361,,3 lots
+9182.993,lot,Lot362,created,,,,active,25 wafers
+9182.993,lot,Lot362,moved into operation,907,,,active,
+9182.993,lot,Lot362,processing started,907,STG907,Lot362,active,
+9182.993,tool,STG907,in process,907,STG907,Lot362,,1 lot
+9183.993,lot,Lot362,processing completed,907,STG907,Lot362,active,
+9183.993,tool,STG907,process completed,907,STG907,Lot362,,
+9183.993,lot,Lot362,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9183.993,lot,Lot362,moved into operation,908,,,active,
+9184.464,lot,Lot363,created,,,,active,25 wafers
+9184.464,lot,Lot363,moved into operation,907,,,active,
+9184.464,lot,Lot363,processing started,907,STG907,Lot363,active,
+9184.464,tool,STG907,in process,907,STG907,Lot363,,1 lot
+9185.464,lot,Lot363,processing completed,907,STG907,Lot363,active,
+9185.464,tool,STG907,process completed,907,STG907,Lot363,,
+9185.464,lot,Lot363,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9185.464,lot,Lot363,moved into operation,908,,,active,
+9194.326,lot,Lot364,created,,,,active,25 wafers
+9194.326,lot,Lot364,moved into operation,907,,,active,
+9194.326,lot,Lot364,processing started,907,STG907,Lot364,active,
+9194.326,tool,STG907,in process,907,STG907,Lot364,,1 lot
+9195.326,lot,Lot364,processing completed,907,STG907,Lot364,active,
+9195.326,tool,STG907,process completed,907,STG907,Lot364,,
+9195.326,lot,Lot364,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9195.326,lot,Lot364,moved into operation,908,,,active,
+9195.326,tool,VFP701,batch dispatched,908,VFP701,Lot362;Lot363;Lot364,,3 lots
+9223.88,lot,Lot218,processing completed,908,VFP701,Lot218;Lot219,active,
+9223.88,lot,Lot218,moved out of operation,908,,,hold,operation elapsed 5091.6 min; limit 720 min
+9223.88,lot,Lot219,processing completed,908,VFP701,Lot218;Lot219,active,
+9223.88,lot,Lot219,moved out of operation,908,,,hold,operation elapsed 5034.2 min; limit 720 min
+9223.88,tool,VFP701,process completed,908,VFP701,Lot218;Lot219,,
+9223.88,lot,Lot222,processing started,908,VFP701,Lot222;Lot223;Lot224,active,
+9223.88,lot,Lot223,processing started,908,VFP701,Lot222;Lot223;Lot224,active,
+9223.88,lot,Lot224,processing started,908,VFP701,Lot222;Lot223;Lot224,active,
+9223.88,tool,VFP701,in process,908,VFP701,Lot222;Lot223;Lot224,,
+9281.054,lot,Lot220,processing completed,908,VFP702,Lot220;Lot221,active,
+9281.054,lot,Lot220,moved out of operation,908,,,hold,operation elapsed 5030.4 min; limit 720 min
+9281.054,lot,Lot221,processing completed,908,VFP702,Lot220;Lot221,active,
+9281.054,lot,Lot221,moved out of operation,908,,,hold,operation elapsed 5019.7 min; limit 720 min
+9281.054,tool,VFP702,process completed,908,VFP702,Lot220;Lot221,,
+9281.054,lot,Lot225,processing started,908,VFP702,Lot225;Lot226,active,
+9281.054,lot,Lot226,processing started,908,VFP702,Lot225;Lot226,active,
+9281.054,tool,VFP702,in process,908,VFP702,Lot225;Lot226,,
+9354.028,lot,Lot365,created,,,,active,25 wafers
+9354.028,lot,Lot365,moved into operation,907,,,active,
+9354.028,lot,Lot365,processing started,907,STG907,Lot365,active,
+9354.028,tool,STG907,in process,907,STG907,Lot365,,1 lot
+9355.028,lot,Lot365,processing completed,907,STG907,Lot365,active,
+9355.028,tool,STG907,process completed,907,STG907,Lot365,,
+9355.028,lot,Lot365,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9355.028,lot,Lot365,moved into operation,908,,,active,
+9373.701,lot,Lot366,created,,,,active,25 wafers
+9373.701,lot,Lot366,moved into operation,907,,,active,
+9373.701,lot,Lot366,processing started,907,STG907,Lot366,active,
+9373.701,tool,STG907,in process,907,STG907,Lot366,,1 lot
+9374.701,lot,Lot366,processing completed,907,STG907,Lot366,active,
+9374.701,tool,STG907,process completed,907,STG907,Lot366,,
+9374.701,lot,Lot366,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9374.701,lot,Lot366,moved into operation,908,,,active,
+9378.121,lot,Lot367,created,,,,active,25 wafers
+9378.121,lot,Lot367,moved into operation,907,,,active,
+9378.121,lot,Lot367,processing started,907,STG907,Lot367,active,
+9378.121,tool,STG907,in process,907,STG907,Lot367,,1 lot
+9379.121,lot,Lot367,processing completed,907,STG907,Lot367,active,
+9379.121,tool,STG907,process completed,907,STG907,Lot367,,
+9379.121,lot,Lot367,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9379.121,lot,Lot367,moved into operation,908,,,active,
+9379.121,tool,VFP702,batch dispatched,908,VFP702,Lot365;Lot366;Lot367,,3 lots
+9384.716,lot,Lot368,created,,,,active,25 wafers
+9384.716,lot,Lot368,moved into operation,907,,,active,
+9384.716,lot,Lot368,processing started,907,STG907,Lot368,active,
+9384.716,tool,STG907,in process,907,STG907,Lot368,,1 lot
+9385.716,lot,Lot368,processing completed,907,STG907,Lot368,active,
+9385.716,tool,STG907,process completed,907,STG907,Lot368,,
+9385.716,lot,Lot368,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9385.716,lot,Lot368,moved into operation,908,,,active,
+9394.663,lot,Lot369,created,,,,active,25 wafers
+9394.663,lot,Lot369,moved into operation,907,,,active,
+9394.663,lot,Lot369,processing started,907,STG907,Lot369,active,
+9394.663,tool,STG907,in process,907,STG907,Lot369,,1 lot
+9395.663,lot,Lot369,processing completed,907,STG907,Lot369,active,
+9395.663,tool,STG907,process completed,907,STG907,Lot369,,
+9395.663,lot,Lot369,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9395.663,lot,Lot369,moved into operation,908,,,active,
+9425.663,tool,VFP701,batch dispatched,908,VFP701,Lot368;Lot369,,2 lots
+9443.717,lot,Lot370,created,,,,active,25 wafers
+9443.717,lot,Lot370,moved into operation,907,,,active,
+9443.717,lot,Lot370,processing started,907,STG907,Lot370,active,
+9443.717,tool,STG907,in process,907,STG907,Lot370,,1 lot
+9444.717,lot,Lot370,processing completed,907,STG907,Lot370,active,
+9444.717,tool,STG907,process completed,907,STG907,Lot370,,
+9444.717,lot,Lot370,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9444.717,lot,Lot370,moved into operation,908,,,active,
+9447.623,lot,Lot371,created,,,,active,25 wafers
+9447.623,lot,Lot371,moved into operation,907,,,active,
+9447.623,lot,Lot371,processing started,907,STG907,Lot371,active,
+9447.623,tool,STG907,in process,907,STG907,Lot371,,1 lot
+9448.623,lot,Lot371,processing completed,907,STG907,Lot371,active,
+9448.623,tool,STG907,process completed,907,STG907,Lot371,,
+9448.623,lot,Lot371,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9448.623,lot,Lot371,moved into operation,908,,,active,
+9478.623,tool,VFP702,batch dispatched,908,VFP702,Lot370;Lot371,,2 lots
+9534.616,lot,Lot372,created,,,,active,25 wafers
+9534.616,lot,Lot372,moved into operation,907,,,active,
+9534.616,lot,Lot372,processing started,907,STG907,Lot372,active,
+9534.616,tool,STG907,in process,907,STG907,Lot372,,1 lot
+9535.616,lot,Lot372,processing completed,907,STG907,Lot372,active,
+9535.616,tool,STG907,process completed,907,STG907,Lot372,,
+9535.616,lot,Lot372,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9535.616,lot,Lot372,moved into operation,908,,,active,
+9551.726,lot,Lot373,created,,,,active,25 wafers
+9551.726,lot,Lot373,moved into operation,907,,,active,
+9551.726,lot,Lot373,processing started,907,STG907,Lot373,active,
+9551.726,tool,STG907,in process,907,STG907,Lot373,,1 lot
+9552.726,lot,Lot373,processing completed,907,STG907,Lot373,active,
+9552.726,tool,STG907,process completed,907,STG907,Lot373,,
+9552.726,lot,Lot373,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9552.726,lot,Lot373,moved into operation,908,,,active,
+9582.726,tool,VFP701,batch dispatched,908,VFP701,Lot372;Lot373,,2 lots
+9583.88,lot,Lot222,processing completed,908,VFP701,Lot222;Lot223;Lot224,active,
+9583.88,lot,Lot222,moved out of operation,908,,,hold,operation elapsed 5256.2 min; limit 720 min
+9583.88,lot,Lot223,processing completed,908,VFP701,Lot222;Lot223;Lot224,active,
+9583.88,lot,Lot223,moved out of operation,908,,,hold,operation elapsed 5215.9 min; limit 720 min
+9583.88,lot,Lot224,processing completed,908,VFP701,Lot222;Lot223;Lot224,active,
+9583.88,lot,Lot224,moved out of operation,908,,,hold,operation elapsed 5212.8 min; limit 720 min
+9583.88,tool,VFP701,process completed,908,VFP701,Lot222;Lot223;Lot224,,
+9583.88,lot,Lot227,processing started,908,VFP701,Lot227;Lot228;Lot229,active,
+9583.88,lot,Lot228,processing started,908,VFP701,Lot227;Lot228;Lot229,active,
+9583.88,lot,Lot229,processing started,908,VFP701,Lot227;Lot228;Lot229,active,
+9583.88,tool,VFP701,in process,908,VFP701,Lot227;Lot228;Lot229,,
+9641.054,lot,Lot225,processing completed,908,VFP702,Lot225;Lot226,active,
+9641.054,lot,Lot225,moved out of operation,908,,,hold,operation elapsed 5269.4 min; limit 720 min
+9641.054,lot,Lot226,processing completed,908,VFP702,Lot225;Lot226,active,
+9641.054,lot,Lot226,moved out of operation,908,,,hold,operation elapsed 5268.9 min; limit 720 min
+9641.054,tool,VFP702,process completed,908,VFP702,Lot225;Lot226,,
+9641.054,lot,Lot230,processing started,908,VFP702,Lot230;Lot231;Lot232,active,
+9641.054,lot,Lot231,processing started,908,VFP702,Lot230;Lot231;Lot232,active,
+9641.054,lot,Lot232,processing started,908,VFP702,Lot230;Lot231;Lot232,active,
+9641.054,tool,VFP702,in process,908,VFP702,Lot230;Lot231;Lot232,,
+9678.28,lot,Lot374,created,,,,active,25 wafers
+9678.28,lot,Lot374,moved into operation,907,,,active,
+9678.28,lot,Lot374,processing started,907,STG907,Lot374,active,
+9678.28,tool,STG907,in process,907,STG907,Lot374,,1 lot
+9679.28,lot,Lot374,processing completed,907,STG907,Lot374,active,
+9679.28,tool,STG907,process completed,907,STG907,Lot374,,
+9679.28,lot,Lot374,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9679.28,lot,Lot374,moved into operation,908,,,active,
+9764.657,lot,Lot375,created,,,,active,25 wafers
+9764.657,lot,Lot375,moved into operation,907,,,active,
+9764.657,lot,Lot375,processing started,907,STG907,Lot375,active,
+9764.657,tool,STG907,in process,907,STG907,Lot375,,1 lot
+9765.657,lot,Lot375,processing completed,907,STG907,Lot375,active,
+9765.657,tool,STG907,process completed,907,STG907,Lot375,,
+9765.657,lot,Lot375,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9765.657,lot,Lot375,moved into operation,908,,,active,
+9777.191,lot,Lot376,created,,,,active,25 wafers
+9777.191,lot,Lot376,moved into operation,907,,,active,
+9777.191,lot,Lot376,processing started,907,STG907,Lot376,active,
+9777.191,tool,STG907,in process,907,STG907,Lot376,,1 lot
+9778.191,lot,Lot376,processing completed,907,STG907,Lot376,active,
+9778.191,tool,STG907,process completed,907,STG907,Lot376,,
+9778.191,lot,Lot376,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9778.191,lot,Lot376,moved into operation,908,,,active,
+9778.191,tool,VFP702,batch dispatched,908,VFP702,Lot374;Lot375;Lot376,,3 lots
+9787.711,lot,Lot377,created,,,,active,25 wafers
+9787.711,lot,Lot377,moved into operation,907,,,active,
+9787.711,lot,Lot377,processing started,907,STG907,Lot377,active,
+9787.711,tool,STG907,in process,907,STG907,Lot377,,1 lot
+9788.711,lot,Lot377,processing completed,907,STG907,Lot377,active,
+9788.711,tool,STG907,process completed,907,STG907,Lot377,,
+9788.711,lot,Lot377,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9788.711,lot,Lot377,moved into operation,908,,,active,
+9811.046,lot,Lot378,created,,,,active,25 wafers
+9811.046,lot,Lot378,moved into operation,907,,,active,
+9811.046,lot,Lot378,processing started,907,STG907,Lot378,active,
+9811.046,tool,STG907,in process,907,STG907,Lot378,,1 lot
+9812.046,lot,Lot378,processing completed,907,STG907,Lot378,active,
+9812.046,tool,STG907,process completed,907,STG907,Lot378,,
+9812.046,lot,Lot378,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9812.046,lot,Lot378,moved into operation,908,,,active,
+9814.845,lot,Lot379,created,,,,active,25 wafers
+9814.845,lot,Lot379,moved into operation,907,,,active,
+9814.845,lot,Lot379,processing started,907,STG907,Lot379,active,
+9814.845,tool,STG907,in process,907,STG907,Lot379,,1 lot
+9815.845,lot,Lot379,processing completed,907,STG907,Lot379,active,
+9815.845,tool,STG907,process completed,907,STG907,Lot379,,
+9815.845,lot,Lot379,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9815.845,lot,Lot379,moved into operation,908,,,active,
+9815.845,tool,VFP701,batch dispatched,908,VFP701,Lot377;Lot378;Lot379,,3 lots
+9852.85,lot,Lot380,created,,,,active,25 wafers
+9852.85,lot,Lot380,moved into operation,907,,,active,
+9852.85,lot,Lot380,processing started,907,STG907,Lot380,active,
+9852.85,tool,STG907,in process,907,STG907,Lot380,,1 lot
+9853.85,lot,Lot380,processing completed,907,STG907,Lot380,active,
+9853.85,tool,STG907,process completed,907,STG907,Lot380,,
+9853.85,lot,Lot380,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9853.85,lot,Lot380,moved into operation,908,,,active,
+9854.305,lot,Lot381,created,,,,active,25 wafers
+9854.305,lot,Lot381,moved into operation,907,,,active,
+9854.305,lot,Lot381,processing started,907,STG907,Lot381,active,
+9854.305,tool,STG907,in process,907,STG907,Lot381,,1 lot
+9854.685,lot,Lot382,created,,,,active,25 wafers
+9854.685,lot,Lot382,moved into operation,907,,,active,
+9854.685,lot,Lot382,processing started,907,STG907,Lot382,active,
+9854.685,tool,STG907,in process,907,STG907,Lot382,,1 lot
+9855.305,lot,Lot381,processing completed,907,STG907,Lot381,active,
+9855.305,tool,STG907,process completed,907,STG907,Lot381,,
+9855.305,lot,Lot381,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9855.305,lot,Lot381,moved into operation,908,,,active,
+9855.685,lot,Lot382,processing completed,907,STG907,Lot382,active,
+9855.685,tool,STG907,process completed,907,STG907,Lot382,,
+9855.685,lot,Lot382,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+9855.685,lot,Lot382,moved into operation,908,,,active,
+9855.685,tool,VFP702,batch dispatched,908,VFP702,Lot380;Lot381;Lot382,,3 lots
+9943.88,lot,Lot227,processing completed,908,VFP701,Lot227;Lot228;Lot229,active,
+9943.88,lot,Lot227,moved out of operation,908,,,hold,operation elapsed 5521.0 min; limit 720 min
+9943.88,lot,Lot228,processing completed,908,VFP701,Lot227;Lot228;Lot229,active,
+9943.88,lot,Lot228,moved out of operation,908,,,hold,operation elapsed 5510.6 min; limit 720 min
+9943.88,lot,Lot229,processing completed,908,VFP701,Lot227;Lot228;Lot229,active,
+9943.88,lot,Lot229,moved out of operation,908,,,hold,operation elapsed 5506.5 min; limit 720 min
+9943.88,tool,VFP701,process completed,908,VFP701,Lot227;Lot228;Lot229,,
+9943.88,lot,Lot233,processing started,908,VFP701,Lot233;Lot234;Lot235,active,
+9943.88,lot,Lot234,processing started,908,VFP701,Lot233;Lot234;Lot235,active,
+9943.88,lot,Lot235,processing started,908,VFP701,Lot233;Lot234;Lot235,active,
+9943.88,tool,VFP701,in process,908,VFP701,Lot233;Lot234;Lot235,,
+10000.498,lot,Lot383,created,,,,active,25 wafers
+10000.498,lot,Lot383,moved into operation,907,,,active,
+10000.498,lot,Lot383,processing started,907,STG907,Lot383,active,
+10000.498,tool,STG907,in process,907,STG907,Lot383,,1 lot
+10001.054,lot,Lot230,processing completed,908,VFP702,Lot230;Lot231;Lot232,active,
+10001.054,lot,Lot230,moved out of operation,908,,,hold,operation elapsed 5528.3 min; limit 720 min
+10001.054,lot,Lot231,processing completed,908,VFP702,Lot230;Lot231;Lot232,active,
+10001.054,lot,Lot231,moved out of operation,908,,,hold,operation elapsed 5513.1 min; limit 720 min
+10001.054,lot,Lot232,processing completed,908,VFP702,Lot230;Lot231;Lot232,active,
+10001.054,lot,Lot232,moved out of operation,908,,,hold,operation elapsed 5510.5 min; limit 720 min
+10001.054,tool,VFP702,process completed,908,VFP702,Lot230;Lot231;Lot232,,
+10001.054,lot,Lot236,processing started,908,VFP702,Lot236;Lot237;Lot238,active,
+10001.054,lot,Lot237,processing started,908,VFP702,Lot236;Lot237;Lot238,active,
+10001.054,lot,Lot238,processing started,908,VFP702,Lot236;Lot237;Lot238,active,
+10001.054,tool,VFP702,in process,908,VFP702,Lot236;Lot237;Lot238,,
+10001.498,lot,Lot383,processing completed,907,STG907,Lot383,active,
+10001.498,tool,STG907,process completed,907,STG907,Lot383,,
+10001.498,lot,Lot383,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+10001.498,lot,Lot383,moved into operation,908,,,active,
+10013.11,lot,Lot384,created,,,,active,25 wafers
+10013.11,lot,Lot384,moved into operation,907,,,active,
+10013.11,lot,Lot384,processing started,907,STG907,Lot384,active,
+10013.11,tool,STG907,in process,907,STG907,Lot384,,1 lot
+10014.11,lot,Lot384,processing completed,907,STG907,Lot384,active,
+10014.11,tool,STG907,process completed,907,STG907,Lot384,,
+10014.11,lot,Lot384,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+10014.11,lot,Lot384,moved into operation,908,,,active,
+10044.11,tool,VFP701,batch dispatched,908,VFP701,Lot383;Lot384,,2 lots
+10045.789,lot,Lot385,created,,,,active,25 wafers
+10045.789,lot,Lot385,moved into operation,907,,,active,
+10045.789,lot,Lot385,processing started,907,STG907,Lot385,active,
+10045.789,tool,STG907,in process,907,STG907,Lot385,,1 lot
+10046.789,lot,Lot385,processing completed,907,STG907,Lot385,active,
+10046.789,tool,STG907,process completed,907,STG907,Lot385,,
+10046.789,lot,Lot385,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+10046.789,lot,Lot385,moved into operation,908,,,active,
+10067.301,lot,Lot386,created,,,,active,25 wafers
+10067.301,lot,Lot386,moved into operation,907,,,active,
+10067.301,lot,Lot386,processing started,907,STG907,Lot386,active,
+10067.301,tool,STG907,in process,907,STG907,Lot386,,1 lot
+10068.301,lot,Lot386,processing completed,907,STG907,Lot386,active,
+10068.301,tool,STG907,process completed,907,STG907,Lot386,,
+10068.301,lot,Lot386,moved out of operation,907,,,active,operation elapsed 1.0 min; limit 10080 min
+10068.301,lot,Lot386,moved into operation,908,,,active,
