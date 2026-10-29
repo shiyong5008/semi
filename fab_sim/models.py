@@ -13,6 +13,7 @@ class Lot:
     wafer_count: int
     status: str = "active"
     operation_entry_times: dict[int, float] = field(default_factory=dict)
+    operation_queue_times: dict[int, float] = field(default_factory=dict)
 
 
 @dataclass
@@ -21,6 +22,8 @@ class Tool:
     operation_config: ToolOperationConfig
     resource: simpy.PriorityResource
     batch_queue: simpy.Store
+    outstanding_batches: int = 0
+    pm_pending: bool = False
     run_count_since_pm: int = 0
     last_pm_completion: float = 0.0
     estimated_available_at: float = 0.0

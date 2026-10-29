@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+from bisect import bisect_left, bisect_right
 import csv
 import json
 from pathlib import Path
@@ -17,7 +18,7 @@ HTML_TEMPLATE = """<!doctype html>
   <title>Fab simulation report</title>
   <style>
     :root { color-scheme: light; font-family: system-ui, sans-serif; color: #172033; background: #f3f6fb; }
-    body { max-width: 1100px; margin: 0 auto; padding: 24px; }
+    body { max-width: 1400px; margin: 0 auto; padding: 24px; }
     h1 { margin-bottom: 4px; }
     .muted { color: #64748b; }
     .panel { background: white; border: 1px solid #dce3ed; border-radius: 12px; padding: 20px; margin: 18px 0; }
@@ -25,7 +26,13 @@ HTML_TEMPLATE = """<!doctype html>
     #time-label { font-size: 1.35rem; font-weight: 700; font-variant-numeric: tabular-nums; }
     input[type=range] { width: 100%; margin: 18px 0 8px; accent-color: #2563eb; }
     .range-labels { display: flex; justify-content: space-between; color: #64748b; font-size: .85rem; }
-    table { width: 100%; border-collapse: collapse; }
+    .playback-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    button, .speed-control select { padding: 7px 12px; border: 1px solid #cbd5e1; border-radius: 7px; background: white; color: inherit; font: inherit; }
+    button { cursor: pointer; }
+    button:disabled { cursor: not-allowed; opacity: .5; }
+    .speed-control { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+    .table-wrap { overflow-x: auto; }
+    .table-wrap table { width: 100%; min-width: 1300px; border-collapse: collapse; }
     th, td { padding: 11px 12px; border-bottom: 1px solid #e6ebf2; text-align: left; }
     th { color: #475569; font-size: .85rem; }
     td.number { font-variant-numeric: tabular-nums; }
@@ -48,13 +55,32 @@ HTML_TEMPLATE = """<!doctype html>
     <div class="time-row"><strong>Simulation time</strong><span id="time-label"></span></div>
     <input id="time-slider" type="range" min="0" max="0" value="0" step="1" aria-label="Simulation time">
     <div class="range-labels"><span>0 min</span><span id="end-label"></span></div>
+    <div class="playback-controls" aria-label="Playback controls">
+      <button id="start-button" type="button">Start</button>
+      <button id="pause-button" type="button" disabled>Pause</button>
+      <button id="stop-button" type="button" disabled>Stop</button>
+      <label class="speed-control" for="speed-select">Speed
+        <select id="speed-select" aria-label="Playback speed">
+          <option value="1">1x - 1min</option>
+          <option value="10">10x - 10mins</option>
+          <option value="60">60x - 1hr</option>
+          <option value="180">180x - 3hrs</option>
+          <option value="720">720x - 12hrs</option>
+          <option value="1440">1440x - 24hrs</option>
+          <option value="4320">4320x - 3days</option>
+          <option value="10080">10080x - 7days</option>
+        </select>
+      </label>
+    </div>
   </section>
   <section class="panel">
     <h2>Operation status</h2>
-    <table>
-      <thead><tr><th>ops_id</th><th>Description</th><th>WIP (wafer)</th><th>In process (wafer)</th><th>Hold (wafer)</th><th>Tool status</th></tr></thead>
-      <tbody id="status-table"></tbody>
-    </table>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>ops_id</th><th>Description</th><th>WIP (wafer)</th><th>In process (wafer)</th><th>Hold (wafer)</th><th>Tool status</th><th>Current shift outs (wafer)</th><th>Last shift outs (wafer)</th><th>Last 7 days outs (wafer)</th></tr></thead>
+        <tbody id="status-table"></tbody>
+      </table>
+    </div>
   </section>
   <section class="panel">
     <div class="time-row"><h2>WIP trend (wafer)</h2><label>Operation <select id="operation-select"></select></label></div>
@@ -69,6 +95,10 @@ HTML_TEMPLATE = """<!doctype html>
   <script>
     const data = JSON.parse(document.getElementById("report-data").textContent);
     const slider = document.getElementById("time-slider");
+    const startButton = document.getElementById("start-button");
+    const pauseButton = document.getElementById("pause-button");
+    const stopButton = document.getElementById("stop-button");
+    const speedSelect = document.getElementById("speed-select");
     const timeLabel = document.getElementById("time-label");
     const endLabel = document.getElementById("end-label");
     const table = document.getElementById("status-table");
@@ -76,6 +106,10 @@ HTML_TEMPLATE = """<!doctype html>
     const canvas = document.getElementById("chart");
     const context = canvas.getContext("2d");
     const colors = {wip: "#2563eb", in_process: "#16a34a", hold: "#dc2626"};
+    let isPlaying = false;
+    let animationFrameId = null;
+    let lastFrameTime = null;
+    let playbackTime = 0;
 
     data.operations.forEach(operation => {
       const option = document.createElement("option");
@@ -111,6 +145,16 @@ HTML_TEMPLATE = """<!doctype html>
         });
         toolsCell.appendChild(toolList);
         tr.appendChild(toolsCell);
+        [
+          row.current_shift_outs,
+          row.last_shift_outs,
+          row.last_7_days_outs
+        ].forEach(value => {
+          const td = document.createElement("td");
+          td.className = "number";
+          td.textContent = value;
+          tr.appendChild(td);
+        });
         table.appendChild(tr);
       });
     }
@@ -178,10 +222,80 @@ HTML_TEMPLATE = """<!doctype html>
       renderTable(snapshot);
       drawChart(selector.value || data.operations[0]?.ops_id, snapshot.time);
     }
-    slider.addEventListener("input", render);
+
+    function updatePlaybackControls() {
+      startButton.disabled = isPlaying || data.snapshots.length === 0;
+      pauseButton.disabled = !isPlaying;
+      stopButton.disabled = !isPlaying && Number(slider.value) === 0;
+    }
+
+    function pausePlayback() {
+      isPlaying = false;
+      if (animationFrameId !== null) cancelAnimationFrame(animationFrameId);
+      animationFrameId = null;
+      lastFrameTime = null;
+      updatePlaybackControls();
+    }
+
+    function findSnapshotIndex(time) {
+      let low = 0;
+      let high = data.snapshots.length - 1;
+      while (low < high) {
+        const middle = Math.ceil((low + high) / 2);
+        if (data.snapshots[middle].time <= time) low = middle;
+        else high = middle - 1;
+      }
+      return low;
+    }
+
+    function advancePlayback(timestamp) {
+      if (!isPlaying) return;
+      if (lastFrameTime !== null) {
+        playbackTime += (timestamp - lastFrameTime) * Number(speedSelect.value) / 60000;
+      }
+      lastFrameTime = timestamp;
+
+      const endTime = data.snapshots[data.snapshots.length - 1].time;
+      const nextIndex = findSnapshotIndex(Math.min(playbackTime, endTime));
+      if (Number(slider.value) !== nextIndex) {
+        slider.value = String(nextIndex);
+        render();
+      }
+      if (playbackTime >= endTime) {
+        pausePlayback();
+        return;
+      }
+      animationFrameId = requestAnimationFrame(advancePlayback);
+    }
+
+    startButton.addEventListener("click", () => {
+      if (Number(slider.value) >= data.snapshots.length - 1) {
+        slider.value = "0";
+        playbackTime = data.snapshots[0]?.time || 0;
+      }
+      isPlaying = true;
+      lastFrameTime = null;
+      updatePlaybackControls();
+      animationFrameId = requestAnimationFrame(advancePlayback);
+    });
+    pauseButton.addEventListener("click", pausePlayback);
+    stopButton.addEventListener("click", () => {
+      pausePlayback();
+      slider.value = "0";
+      playbackTime = data.snapshots[0]?.time || 0;
+      render();
+      updatePlaybackControls();
+    });
+    slider.addEventListener("input", () => {
+      playbackTime = currentSnapshot()?.time || 0;
+      lastFrameTime = null;
+      render();
+      updatePlaybackControls();
+    });
     selector.addEventListener("change", render);
     window.addEventListener("resize", render);
     render();
+    updatePlaybackControls();
   </script>
 </body>
 </html>
@@ -233,6 +347,8 @@ def build_report_data(
     step_minutes: float,
     wafers_per_lot: int,
 ) -> dict[str, Any]:
+    shift_minutes = 12 * 60
+    seven_days_minutes = 7 * 24 * 60
     if step_minutes <= 0:
         raise ValueError("Report interval must be greater than zero")
     if wafers_per_lot <= 0:
@@ -256,6 +372,17 @@ def build_report_data(
             "tool_ids": tool_ids,
         })
     ordered_events = sorted(events, key=lambda row: float(row["time_minutes"]))
+    successful_out_times: dict[int, list[float]] = {}
+    for event in ordered_events:
+        if (
+            event["entity_type"] == "lot"
+            and event["event"] == "moved out of operation"
+            and (event["status"] or "active") != "hold"
+        ):
+            operation_id = int(event["operation_id"])
+            successful_out_times.setdefault(operation_id, []).append(
+                float(event["time_minutes"])
+            )
     sample_times = [0.0]
     sample_time = step_minutes
     while sample_time < end_time:
@@ -329,6 +456,36 @@ def build_report_data(
             operation_count["wip"] += wafers_per_lot
             operation_count["in_process"] += wafers_per_lot * int(state["in_process"])
             operation_count["hold"] += wafers_per_lot * int(state["status"] == "hold")
+
+        shift_start = (target_time // shift_minutes) * shift_minutes
+        last_shift_start = max(0.0, shift_start - shift_minutes)
+        seven_days_start = max(0.0, target_time - seven_days_minutes)
+        for operation_id, operation_count in counts.items():
+            out_times = successful_out_times.get(operation_id, [])
+            out_end = bisect_right(out_times, target_time)
+            current_shift_start_index = bisect_left(
+                out_times, shift_start, 0, out_end
+            )
+            last_shift_start_index = bisect_left(
+                out_times, last_shift_start, 0, out_end
+            )
+            seven_days_start_index = bisect_left(
+                out_times, seven_days_start, 0, out_end
+            )
+            last_shift_end_index = bisect_left(
+                out_times, shift_start, last_shift_start_index, out_end
+            )
+            operation_count.update(
+                current_shift_outs=(
+                    out_end - current_shift_start_index
+                ) * wafers_per_lot,
+                last_shift_outs=(
+                    last_shift_end_index - last_shift_start_index
+                ) * wafers_per_lot,
+                last_7_days_outs=(
+                    out_end - seven_days_start_index
+                ) * wafers_per_lot,
+            )
 
         snapshots.append(
             {

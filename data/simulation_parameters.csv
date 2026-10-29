@@ -1,6 +1,6 @@
 parameter,value
-lots_per_shift,20
-duration_hours,168
+lots_per_shift,11
+duration_hours,672
 wafers_per_lot,25
-op_908_wait_for_third_lot_mins,30
+op_907_release,2
 random_seed,1

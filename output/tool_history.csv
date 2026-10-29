@@ -1,794 +1,1855 @@
 time_minutes,entity_type,entity_id,event,operation_id,tool_id,lot_ids,status,details
-5.194,tool,STG907,in process,907,STG907,Lot101,,1 lot
-6.194,tool,STG907,process completed,907,STG907,Lot101,,
-72.88,tool,STG907,in process,907,STG907,Lot102,,1 lot
-73.88,tool,STG907,process completed,907,STG907,Lot102,,
-103.88,tool,VFP701,batch dispatched,908,VFP701,Lot101;Lot102,,2 lots
-103.88,tool,VFP701,in process,908,VFP701,Lot101;Lot102,,
-124.827,tool,STG907,in process,907,STG907,Lot103,,1 lot
-125.827,tool,STG907,process completed,907,STG907,Lot103,,
-135.428,tool,STG907,in process,907,STG907,Lot104,,1 lot
-136.428,tool,STG907,process completed,907,STG907,Lot104,,
-160.054,tool,STG907,in process,907,STG907,Lot105,,1 lot
-161.054,tool,STG907,process completed,907,STG907,Lot105,,
-161.054,tool,VFP702,batch dispatched,908,VFP702,Lot103;Lot104;Lot105,,3 lots
-161.054,tool,VFP702,in process,908,VFP702,Lot103;Lot104;Lot105,,
-181.543,tool,STG907,in process,907,STG907,Lot106,,1 lot
-182.543,tool,STG907,process completed,907,STG907,Lot106,,
-219.5,tool,STG907,in process,907,STG907,Lot107,,1 lot
-220.5,tool,STG907,process completed,907,STG907,Lot107,,
-250.5,tool,VFP701,batch dispatched,908,VFP701,Lot106;Lot107,,2 lots
-275.466,tool,STG907,in process,907,STG907,Lot108,,1 lot
-276.466,tool,STG907,process completed,907,STG907,Lot108,,
-279.014,tool,STG907,in process,907,STG907,Lot109,,1 lot
-280.014,tool,STG907,process completed,907,STG907,Lot109,,
-280.049,tool,STG907,in process,907,STG907,Lot110,,1 lot
-281.049,tool,STG907,process completed,907,STG907,Lot110,,
-281.049,tool,VFP702,batch dispatched,908,VFP702,Lot108;Lot109;Lot110,,3 lots
-345.081,tool,STG907,in process,907,STG907,Lot111,,1 lot
-346.081,tool,STG907,process completed,907,STG907,Lot111,,
-365.493,tool,STG907,in process,907,STG907,Lot112,,1 lot
-366.493,tool,STG907,process completed,907,STG907,Lot112,,
-396.493,tool,VFP701,batch dispatched,908,VFP701,Lot111;Lot112,,2 lots
-417.213,tool,STG907,in process,907,STG907,Lot113,,1 lot
-417.289,tool,STG907,in process,907,STG907,Lot114,,1 lot
-418.213,tool,STG907,process completed,907,STG907,Lot113,,
-418.289,tool,STG907,process completed,907,STG907,Lot114,,
-438.51,tool,STG907,in process,907,STG907,Lot115,,1 lot
-439.51,tool,STG907,process completed,907,STG907,Lot115,,
-439.51,tool,VFP702,batch dispatched,908,VFP702,Lot113;Lot114;Lot115,,3 lots
-463.88,tool,VFP701,process completed,908,VFP701,Lot101;Lot102,,
-463.88,tool,VFP701,in process,908,VFP701,Lot106;Lot107,,
-484.535,tool,STG907,in process,907,STG907,Lot116,,1 lot
-485.535,tool,STG907,process completed,907,STG907,Lot116,,
-493.887,tool,STG907,in process,907,STG907,Lot117,,1 lot
-494.887,tool,STG907,process completed,907,STG907,Lot117,,
-521.054,tool,VFP702,process completed,908,VFP702,Lot103;Lot104;Lot105,,
-521.054,tool,VFP702,in process,908,VFP702,Lot108;Lot109;Lot110,,
-524.887,tool,VFP701,batch dispatched,908,VFP701,Lot116;Lot117,,2 lots
-598.48,tool,STG907,in process,907,STG907,Lot118,,1 lot
-599.48,tool,STG907,process completed,907,STG907,Lot118,,
-681.89,tool,STG907,in process,907,STG907,Lot119,,1 lot
-682.89,tool,STG907,process completed,907,STG907,Lot119,,
-683.009,tool,STG907,in process,907,STG907,Lot120,,1 lot
-683.937,tool,STG907,in process,907,STG907,Lot121,,1 lot
-684.009,tool,STG907,process completed,907,STG907,Lot120,,
-684.009,tool,VFP702,batch dispatched,908,VFP702,Lot118;Lot119;Lot120,,3 lots
-684.937,tool,STG907,process completed,907,STG907,Lot121,,
-712.002,tool,STG907,in process,907,STG907,Lot122,,1 lot
-713.002,tool,STG907,process completed,907,STG907,Lot122,,
-743.002,tool,VFP701,batch dispatched,908,VFP701,Lot121;Lot122,,2 lots
-812.778,tool,STG907,in process,907,STG907,Lot123,,1 lot
-813.778,tool,STG907,process completed,907,STG907,Lot123,,
-823.88,tool,VFP701,process completed,908,VFP701,Lot106;Lot107,,
-823.88,tool,VFP701,in process,908,VFP701,Lot111;Lot112,,
-830.057,tool,STG907,in process,907,STG907,Lot124,,1 lot
-831.057,tool,STG907,process completed,907,STG907,Lot124,,
-838.845,tool,STG907,in process,907,STG907,Lot125,,1 lot
-839.845,tool,STG907,process completed,907,STG907,Lot125,,
-839.845,tool,VFP702,batch dispatched,908,VFP702,Lot123;Lot124;Lot125,,3 lots
-858.587,tool,STG907,in process,907,STG907,Lot126,,1 lot
-859.587,tool,STG907,process completed,907,STG907,Lot126,,
-859.648,tool,STG907,in process,907,STG907,Lot127,,1 lot
-860.648,tool,STG907,process completed,907,STG907,Lot127,,
-868.671,tool,STG907,in process,907,STG907,Lot128,,1 lot
-869.671,tool,STG907,process completed,907,STG907,Lot128,,
-869.671,tool,VFP701,batch dispatched,908,VFP701,Lot126;Lot127;Lot128,,3 lots
-881.054,tool,VFP702,process completed,908,VFP702,Lot108;Lot109;Lot110,,
-881.054,tool,VFP702,in process,908,VFP702,Lot113;Lot114;Lot115,,
-889.409,tool,STG907,in process,907,STG907,Lot129,,1 lot
-890.409,tool,STG907,process completed,907,STG907,Lot129,,
-914.062,tool,STG907,in process,907,STG907,Lot130,,1 lot
-915.062,tool,STG907,process completed,907,STG907,Lot130,,
-923.616,tool,STG907,in process,907,STG907,Lot131,,1 lot
-924.616,tool,STG907,process completed,907,STG907,Lot131,,
-924.616,tool,VFP702,batch dispatched,908,VFP702,Lot129;Lot130;Lot131,,3 lots
-933.065,tool,STG907,in process,907,STG907,Lot132,,1 lot
-934.065,tool,STG907,process completed,907,STG907,Lot132,,
-941.954,tool,STG907,in process,907,STG907,Lot133,,1 lot
-942.954,tool,STG907,process completed,907,STG907,Lot133,,
-964.11,tool,STG907,in process,907,STG907,Lot134,,1 lot
-965.11,tool,STG907,process completed,907,STG907,Lot134,,
-965.11,tool,VFP701,batch dispatched,908,VFP701,Lot132;Lot133;Lot134,,3 lots
-976.429,tool,STG907,in process,907,STG907,Lot135,,1 lot
-977.211,tool,STG907,in process,907,STG907,Lot136,,1 lot
-977.429,tool,STG907,process completed,907,STG907,Lot135,,
-978.211,tool,STG907,process completed,907,STG907,Lot136,,
-1008.211,tool,VFP702,batch dispatched,908,VFP702,Lot135;Lot136,,2 lots
-1042.643,tool,STG907,in process,907,STG907,Lot137,,1 lot
-1043.643,tool,STG907,process completed,907,STG907,Lot137,,
-1071.909,tool,STG907,in process,907,STG907,Lot138,,1 lot
-1072.909,tool,STG907,process completed,907,STG907,Lot138,,
-1102.909,tool,VFP701,batch dispatched,908,VFP701,Lot137;Lot138,,2 lots
-1108.919,tool,STG907,in process,907,STG907,Lot139,,1 lot
-1109.919,tool,STG907,process completed,907,STG907,Lot139,,
-1116.323,tool,STG907,in process,907,STG907,Lot140,,1 lot
-1117.323,tool,STG907,process completed,907,STG907,Lot140,,
-1147.323,tool,VFP702,batch dispatched,908,VFP702,Lot139;Lot140,,2 lots
-1183.88,tool,VFP701,process completed,908,VFP701,Lot111;Lot112,,
-1183.88,tool,VFP701,in process,908,VFP701,Lot116;Lot117,,
-1241.054,tool,VFP702,process completed,908,VFP702,Lot113;Lot114;Lot115,,
-1241.054,tool,VFP702,in process,908,VFP702,Lot118;Lot119;Lot120,,
-1292.675,tool,STG907,in process,907,STG907,Lot141,,1 lot
-1293.675,tool,STG907,process completed,907,STG907,Lot141,,
-1363.441,tool,STG907,in process,907,STG907,Lot142,,1 lot
-1364.441,tool,STG907,process completed,907,STG907,Lot142,,
-1368.079,tool,STG907,in process,907,STG907,Lot143,,1 lot
-1369.079,tool,STG907,process completed,907,STG907,Lot143,,
-1369.079,tool,VFP701,batch dispatched,908,VFP701,Lot141;Lot142;Lot143,,3 lots
-1382.642,tool,STG907,in process,907,STG907,Lot144,,1 lot
-1383.642,tool,STG907,process completed,907,STG907,Lot144,,
-1428.66,tool,STG907,in process,907,STG907,Lot145,,1 lot
-1429.66,tool,STG907,process completed,907,STG907,Lot145,,
-1459.66,tool,VFP702,batch dispatched,908,VFP702,Lot144;Lot145,,2 lots
-1473.372,tool,STG907,in process,907,STG907,Lot146,,1 lot
-1474.372,tool,STG907,process completed,907,STG907,Lot146,,
-1543.88,tool,VFP701,process completed,908,VFP701,Lot116;Lot117,,
-1543.88,tool,VFP701,in process,908,VFP701,Lot121;Lot122,,
-1572.58,tool,STG907,in process,907,STG907,Lot147,,1 lot
-1573.58,tool,STG907,process completed,907,STG907,Lot147,,
-1592.321,tool,STG907,in process,907,STG907,Lot148,,1 lot
-1593.321,tool,STG907,process completed,907,STG907,Lot148,,
-1593.321,tool,VFP701,batch dispatched,908,VFP701,Lot146;Lot147;Lot148,,3 lots
-1601.054,tool,VFP702,process completed,908,VFP702,Lot118;Lot119;Lot120,,
-1601.054,tool,VFP702,in process,908,VFP702,Lot123;Lot124;Lot125,,
-1656.119,tool,STG907,in process,907,STG907,Lot149,,1 lot
-1657.119,tool,STG907,process completed,907,STG907,Lot149,,
-1696.064,tool,STG907,in process,907,STG907,Lot150,,1 lot
-1697.064,tool,STG907,process completed,907,STG907,Lot150,,
-1709.078,tool,STG907,in process,907,STG907,Lot151,,1 lot
-1710.078,tool,STG907,process completed,907,STG907,Lot151,,
-1710.078,tool,VFP702,batch dispatched,908,VFP702,Lot149;Lot150;Lot151,,3 lots
-1740.964,tool,STG907,in process,907,STG907,Lot152,,1 lot
-1741.964,tool,STG907,process completed,907,STG907,Lot152,,
-1818.045,tool,STG907,in process,907,STG907,Lot153,,1 lot
-1819.045,tool,STG907,process completed,907,STG907,Lot153,,
-1849.045,tool,VFP701,batch dispatched,908,VFP701,Lot152;Lot153,,2 lots
-1885.44,tool,STG907,in process,907,STG907,Lot154,,1 lot
-1886.44,tool,STG907,process completed,907,STG907,Lot154,,
-1903.88,tool,VFP701,process completed,908,VFP701,Lot121;Lot122,,
-1903.88,tool,VFP701,in process,908,VFP701,Lot126;Lot127;Lot128,,
-1910.776,tool,STG907,in process,907,STG907,Lot155,,1 lot
-1911.776,tool,STG907,process completed,907,STG907,Lot155,,
-1941.776,tool,VFP702,batch dispatched,908,VFP702,Lot154;Lot155,,2 lots
-1942.786,tool,STG907,in process,907,STG907,Lot156,,1 lot
-1943.786,tool,STG907,process completed,907,STG907,Lot156,,
-1944.051,tool,STG907,in process,907,STG907,Lot157,,1 lot
-1945.051,tool,STG907,process completed,907,STG907,Lot157,,
-1954.06,tool,STG907,in process,907,STG907,Lot158,,1 lot
-1955.06,tool,STG907,process completed,907,STG907,Lot158,,
-1955.06,tool,VFP701,batch dispatched,908,VFP701,Lot156;Lot157;Lot158,,3 lots
-1961.054,tool,VFP702,process completed,908,VFP702,Lot123;Lot124;Lot125,,
-1961.054,tool,VFP702,in process,908,VFP702,Lot129;Lot130;Lot131,,
-2011.536,tool,STG907,in process,907,STG907,Lot159,,1 lot
-2012.536,tool,STG907,process completed,907,STG907,Lot159,,
-2030.795,tool,STG907,in process,907,STG907,Lot160,,1 lot
-2031.795,tool,STG907,process completed,907,STG907,Lot160,,
-2037.633,tool,STG907,in process,907,STG907,Lot161,,1 lot
-2038.633,tool,STG907,process completed,907,STG907,Lot161,,
-2038.633,tool,VFP702,batch dispatched,908,VFP702,Lot159;Lot160;Lot161,,3 lots
-2066.284,tool,STG907,in process,907,STG907,Lot162,,1 lot
-2067.284,tool,STG907,process completed,907,STG907,Lot162,,
-2109.993,tool,STG907,in process,907,STG907,Lot163,,1 lot
-2110.993,tool,STG907,process completed,907,STG907,Lot163,,
-2140.993,tool,VFP701,batch dispatched,908,VFP701,Lot162;Lot163,,2 lots
-2150.398,tool,STG907,in process,907,STG907,Lot164,,1 lot
-2151.398,tool,STG907,process completed,907,STG907,Lot164,,
-2167.301,tool,STG907,in process,907,STG907,Lot165,,1 lot
-2168.301,tool,STG907,process completed,907,STG907,Lot165,,
-2188.108,tool,STG907,in process,907,STG907,Lot166,,1 lot
-2189.108,tool,STG907,process completed,907,STG907,Lot166,,
-2189.108,tool,VFP702,batch dispatched,908,VFP702,Lot164;Lot165;Lot166,,3 lots
-2213.673,tool,STG907,in process,907,STG907,Lot167,,1 lot
-2214.673,tool,STG907,process completed,907,STG907,Lot167,,
-2263.88,tool,VFP701,process completed,908,VFP701,Lot126;Lot127;Lot128,,
-2263.88,tool,VFP701,in process,908,VFP701,Lot132;Lot133;Lot134,,
-2267.928,tool,STG907,in process,907,STG907,Lot168,,1 lot
-2268.928,tool,STG907,process completed,907,STG907,Lot168,,
-2294.421,tool,STG907,in process,907,STG907,Lot169,,1 lot
-2295.421,tool,STG907,process completed,907,STG907,Lot169,,
-2295.421,tool,VFP701,batch dispatched,908,VFP701,Lot167;Lot168;Lot169,,3 lots
-2312.408,tool,STG907,in process,907,STG907,Lot170,,1 lot
-2313.408,tool,STG907,process completed,907,STG907,Lot170,,
-2321.054,tool,VFP702,process completed,908,VFP702,Lot129;Lot130;Lot131,,
-2321.054,tool,VFP702,in process,908,VFP702,Lot135;Lot136,,
-2336.627,tool,STG907,in process,907,STG907,Lot171,,1 lot
-2337.627,tool,STG907,process completed,907,STG907,Lot171,,
-2337.708,tool,STG907,in process,907,STG907,Lot172,,1 lot
-2338.708,tool,STG907,process completed,907,STG907,Lot172,,
-2338.708,tool,VFP702,batch dispatched,908,VFP702,Lot170;Lot171;Lot172,,3 lots
-2339.308,tool,STG907,in process,907,STG907,Lot173,,1 lot
-2340.308,tool,STG907,process completed,907,STG907,Lot173,,
-2383.06,tool,STG907,in process,907,STG907,Lot174,,1 lot
-2384.06,tool,STG907,process completed,907,STG907,Lot174,,
-2414.06,tool,VFP701,batch dispatched,908,VFP701,Lot173;Lot174,,2 lots
-2530.143,tool,STG907,in process,907,STG907,Lot175,,1 lot
-2531.143,tool,STG907,process completed,907,STG907,Lot175,,
-2562.521,tool,STG907,in process,907,STG907,Lot176,,1 lot
-2563.521,tool,STG907,process completed,907,STG907,Lot176,,
-2580.529,tool,STG907,in process,907,STG907,Lot177,,1 lot
-2581.529,tool,STG907,process completed,907,STG907,Lot177,,
-2581.529,tool,VFP702,batch dispatched,908,VFP702,Lot175;Lot176;Lot177,,3 lots
-2587.252,tool,STG907,in process,907,STG907,Lot178,,1 lot
-2588.252,tool,STG907,process completed,907,STG907,Lot178,,
-2612.367,tool,STG907,in process,907,STG907,Lot179,,1 lot
-2613.367,tool,STG907,process completed,907,STG907,Lot179,,
-2623.88,tool,VFP701,process completed,908,VFP701,Lot132;Lot133;Lot134,,
-2623.88,tool,VFP701,in process,908,VFP701,Lot137;Lot138,,
-2643.367,tool,VFP701,batch dispatched,908,VFP701,Lot178;Lot179,,2 lots
-2681.054,tool,VFP702,process completed,908,VFP702,Lot135;Lot136,,
-2681.054,tool,VFP702,in process,908,VFP702,Lot139;Lot140,,
-2757.146,tool,STG907,in process,907,STG907,Lot180,,1 lot
-2758.146,tool,STG907,process completed,907,STG907,Lot180,,
-2810.136,tool,STG907,in process,907,STG907,Lot181,,1 lot
-2811.136,tool,STG907,process completed,907,STG907,Lot181,,
-2838.061,tool,STG907,in process,907,STG907,Lot182,,1 lot
-2839.061,tool,STG907,process completed,907,STG907,Lot182,,
-2839.061,tool,VFP702,batch dispatched,908,VFP702,Lot180;Lot181;Lot182,,3 lots
-2908.916,tool,STG907,in process,907,STG907,Lot183,,1 lot
-2909.916,tool,STG907,process completed,907,STG907,Lot183,,
-2918.427,tool,STG907,in process,907,STG907,Lot184,,1 lot
-2919.427,tool,STG907,process completed,907,STG907,Lot184,,
-2944.386,tool,STG907,in process,907,STG907,Lot185,,1 lot
-2945.386,tool,STG907,process completed,907,STG907,Lot185,,
-2945.386,tool,VFP701,batch dispatched,908,VFP701,Lot183;Lot184;Lot185,,3 lots
-2983.88,tool,VFP701,process completed,908,VFP701,Lot137;Lot138,,
-2983.88,tool,VFP701,in process,908,VFP701,Lot141;Lot142;Lot143,,
-3041.054,tool,VFP702,process completed,908,VFP702,Lot139;Lot140,,
-3041.054,tool,VFP702,in process,908,VFP702,Lot144;Lot145,,
-3054.054,tool,STG907,in process,907,STG907,Lot186,,1 lot
-3055.054,tool,STG907,process completed,907,STG907,Lot186,,
-3085.096,tool,STG907,in process,907,STG907,Lot187,,1 lot
-3086.096,tool,STG907,process completed,907,STG907,Lot187,,
-3107.22,tool,STG907,in process,907,STG907,Lot188,,1 lot
-3108.22,tool,STG907,process completed,907,STG907,Lot188,,
-3108.22,tool,VFP702,batch dispatched,908,VFP702,Lot186;Lot187;Lot188,,3 lots
-3118.514,tool,STG907,in process,907,STG907,Lot189,,1 lot
-3119.514,tool,STG907,process completed,907,STG907,Lot189,,
-3147.101,tool,STG907,in process,907,STG907,Lot190,,1 lot
-3148.101,tool,STG907,process completed,907,STG907,Lot190,,
-3178.101,tool,VFP701,batch dispatched,908,VFP701,Lot189;Lot190,,2 lots
-3260.474,tool,STG907,in process,907,STG907,Lot191,,1 lot
-3260.68,tool,STG907,in process,907,STG907,Lot192,,1 lot
-3261.474,tool,STG907,process completed,907,STG907,Lot191,,
-3261.68,tool,STG907,process completed,907,STG907,Lot192,,
-3291.68,tool,VFP702,batch dispatched,908,VFP702,Lot191;Lot192,,2 lots
-3315.792,tool,STG907,in process,907,STG907,Lot193,,1 lot
-3316.792,tool,STG907,process completed,907,STG907,Lot193,,
-3343.88,tool,VFP701,process completed,908,VFP701,Lot141;Lot142;Lot143,,
-3343.88,tool,VFP701,in process,908,VFP701,Lot146;Lot147;Lot148,,
-3377.622,tool,STG907,in process,907,STG907,Lot194,,1 lot
-3378.622,tool,STG907,process completed,907,STG907,Lot194,,
-3401.054,tool,VFP702,process completed,908,VFP702,Lot144;Lot145,,
-3401.054,tool,VFP702,in process,908,VFP702,Lot149;Lot150;Lot151,,
-3408.622,tool,VFP701,batch dispatched,908,VFP701,Lot193;Lot194,,2 lots
-3455.855,tool,STG907,in process,907,STG907,Lot195,,1 lot
-3456.855,tool,STG907,process completed,907,STG907,Lot195,,
-3504.419,tool,STG907,in process,907,STG907,Lot196,,1 lot
-3505.419,tool,STG907,process completed,907,STG907,Lot196,,
-3535.419,tool,VFP702,batch dispatched,908,VFP702,Lot195;Lot196,,2 lots
-3564.043,tool,STG907,in process,907,STG907,Lot197,,1 lot
-3565.043,tool,STG907,process completed,907,STG907,Lot197,,
-3590.367,tool,STG907,in process,907,STG907,Lot198,,1 lot
-3591.367,tool,STG907,process completed,907,STG907,Lot198,,
-3620.034,tool,STG907,in process,907,STG907,Lot199,,1 lot
-3621.034,tool,STG907,process completed,907,STG907,Lot199,,
-3621.034,tool,VFP701,batch dispatched,908,VFP701,Lot197;Lot198;Lot199,,3 lots
-3640.024,tool,STG907,in process,907,STG907,Lot200,,1 lot
-3641.024,tool,STG907,process completed,907,STG907,Lot200,,
-3642.103,tool,STG907,in process,907,STG907,Lot201,,1 lot
-3643.103,tool,STG907,process completed,907,STG907,Lot201,,
-3673.103,tool,VFP702,batch dispatched,908,VFP702,Lot200;Lot201,,2 lots
-3703.88,tool,VFP701,process completed,908,VFP701,Lot146;Lot147;Lot148,,
-3703.88,tool,VFP701,in process,908,VFP701,Lot152;Lot153,,
-3715.554,tool,STG907,in process,907,STG907,Lot202,,1 lot
-3716.554,tool,STG907,process completed,907,STG907,Lot202,,
-3745.937,tool,STG907,in process,907,STG907,Lot203,,1 lot
-3746.937,tool,STG907,process completed,907,STG907,Lot203,,
-3753.963,tool,STG907,in process,907,STG907,Lot204,,1 lot
-3754.963,tool,STG907,process completed,907,STG907,Lot204,,
-3754.963,tool,VFP701,batch dispatched,908,VFP701,Lot202;Lot203;Lot204,,3 lots
-3761.054,tool,VFP702,process completed,908,VFP702,Lot149;Lot150;Lot151,,
-3761.054,tool,VFP702,in process,908,VFP702,Lot154;Lot155,,
-3779.258,tool,STG907,in process,907,STG907,Lot205,,1 lot
-3780.258,tool,STG907,process completed,907,STG907,Lot205,,
-3803.142,tool,STG907,in process,907,STG907,Lot206,,1 lot
-3804.142,tool,STG907,process completed,907,STG907,Lot206,,
-3819.028,tool,STG907,in process,907,STG907,Lot207,,1 lot
-3820.028,tool,STG907,process completed,907,STG907,Lot207,,
-3820.028,tool,VFP702,batch dispatched,908,VFP702,Lot205;Lot206;Lot207,,3 lots
-3834.319,tool,STG907,in process,907,STG907,Lot208,,1 lot
-3835.319,tool,STG907,process completed,907,STG907,Lot208,,
-3862.156,tool,STG907,in process,907,STG907,Lot209,,1 lot
-3863.156,tool,STG907,process completed,907,STG907,Lot209,,
-3893.156,tool,VFP701,batch dispatched,908,VFP701,Lot208;Lot209,,2 lots
-3897.321,tool,STG907,in process,907,STG907,Lot210,,1 lot
-3898.321,tool,STG907,process completed,907,STG907,Lot210,,
-3931.446,tool,STG907,in process,907,STG907,Lot211,,1 lot
-3932.446,tool,STG907,process completed,907,STG907,Lot211,,
-3953.505,tool,STG907,in process,907,STG907,Lot212,,1 lot
-3954.505,tool,STG907,process completed,907,STG907,Lot212,,
-3954.505,tool,VFP702,batch dispatched,908,VFP702,Lot210;Lot211;Lot212,,3 lots
-3954.526,tool,STG907,in process,907,STG907,Lot213,,1 lot
-3955.526,tool,STG907,process completed,907,STG907,Lot213,,
-3963.917,tool,STG907,in process,907,STG907,Lot214,,1 lot
-3964.917,tool,STG907,process completed,907,STG907,Lot214,,
-3970.939,tool,STG907,in process,907,STG907,Lot215,,1 lot
-3971.939,tool,STG907,process completed,907,STG907,Lot215,,
-3971.939,tool,VFP701,batch dispatched,908,VFP701,Lot213;Lot214;Lot215,,3 lots
-4002.554,tool,STG907,in process,907,STG907,Lot216,,1 lot
-4003.554,tool,STG907,process completed,907,STG907,Lot216,,
-4063.88,tool,VFP701,process completed,908,VFP701,Lot152;Lot153,,
-4063.88,tool,VFP701,in process,908,VFP701,Lot156;Lot157;Lot158,,
-4073.594,tool,STG907,in process,907,STG907,Lot217,,1 lot
-4074.594,tool,STG907,process completed,907,STG907,Lot217,,
-4104.594,tool,VFP702,batch dispatched,908,VFP702,Lot216;Lot217,,2 lots
-4121.054,tool,VFP702,process completed,908,VFP702,Lot154;Lot155,,
-4121.054,tool,VFP702,in process,908,VFP702,Lot159;Lot160;Lot161,,
-4131.254,tool,STG907,in process,907,STG907,Lot218,,1 lot
-4132.254,tool,STG907,process completed,907,STG907,Lot218,,
-4188.675,tool,STG907,in process,907,STG907,Lot219,,1 lot
-4189.675,tool,STG907,process completed,907,STG907,Lot219,,
-4219.675,tool,VFP701,batch dispatched,908,VFP701,Lot218;Lot219,,2 lots
-4249.702,tool,STG907,in process,907,STG907,Lot220,,1 lot
-4250.702,tool,STG907,process completed,907,STG907,Lot220,,
-4260.314,tool,STG907,in process,907,STG907,Lot221,,1 lot
-4261.314,tool,STG907,process completed,907,STG907,Lot221,,
-4291.314,tool,VFP702,batch dispatched,908,VFP702,Lot220;Lot221,,2 lots
-4326.681,tool,STG907,in process,907,STG907,Lot222,,1 lot
-4327.681,tool,STG907,process completed,907,STG907,Lot222,,
-4366.935,tool,STG907,in process,907,STG907,Lot223,,1 lot
-4367.935,tool,STG907,process completed,907,STG907,Lot223,,
-4370.063,tool,STG907,in process,907,STG907,Lot224,,1 lot
-4370.669,tool,STG907,in process,907,STG907,Lot225,,1 lot
-4371.063,tool,STG907,process completed,907,STG907,Lot224,,
-4371.063,tool,VFP701,batch dispatched,908,VFP701,Lot222;Lot223;Lot224,,3 lots
-4371.197,tool,STG907,in process,907,STG907,Lot226,,1 lot
-4371.669,tool,STG907,process completed,907,STG907,Lot225,,
-4372.197,tool,STG907,process completed,907,STG907,Lot226,,
-4402.197,tool,VFP702,batch dispatched,908,VFP702,Lot225;Lot226,,2 lots
-4421.917,tool,STG907,in process,907,STG907,Lot227,,1 lot
-4422.917,tool,STG907,process completed,907,STG907,Lot227,,
-4423.88,tool,VFP701,process completed,908,VFP701,Lot156;Lot157;Lot158,,
-4423.88,tool,VFP701,in process,908,VFP701,Lot162;Lot163,,
-4432.253,tool,STG907,in process,907,STG907,Lot228,,1 lot
-4433.253,tool,STG907,process completed,907,STG907,Lot228,,
-4436.427,tool,STG907,in process,907,STG907,Lot229,,1 lot
-4437.427,tool,STG907,process completed,907,STG907,Lot229,,
-4437.427,tool,VFP701,batch dispatched,908,VFP701,Lot227;Lot228;Lot229,,3 lots
-4471.718,tool,STG907,in process,907,STG907,Lot230,,1 lot
-4472.718,tool,STG907,process completed,907,STG907,Lot230,,
-4481.054,tool,VFP702,process completed,908,VFP702,Lot159;Lot160;Lot161,,
-4481.054,tool,VFP702,in process,908,VFP702,Lot164;Lot165;Lot166,,
-4486.919,tool,STG907,in process,907,STG907,Lot231,,1 lot
-4487.919,tool,STG907,process completed,907,STG907,Lot231,,
-4489.512,tool,STG907,in process,907,STG907,Lot232,,1 lot
-4490.512,tool,STG907,process completed,907,STG907,Lot232,,
-4490.512,tool,VFP702,batch dispatched,908,VFP702,Lot230;Lot231;Lot232,,3 lots
-4495.773,tool,STG907,in process,907,STG907,Lot233,,1 lot
-4496.773,tool,STG907,process completed,907,STG907,Lot233,,
-4522.754,tool,STG907,in process,907,STG907,Lot234,,1 lot
-4523.754,tool,STG907,process completed,907,STG907,Lot234,,
-4529.381,tool,STG907,in process,907,STG907,Lot235,,1 lot
-4530.381,tool,STG907,process completed,907,STG907,Lot235,,
-4530.381,tool,VFP701,batch dispatched,908,VFP701,Lot233;Lot234;Lot235,,3 lots
-4540.855,tool,STG907,in process,907,STG907,Lot236,,1 lot
-4541.855,tool,STG907,process completed,907,STG907,Lot236,,
-4585.616,tool,STG907,in process,907,STG907,Lot237,,1 lot
-4586.616,tool,STG907,process completed,907,STG907,Lot237,,
-4607.447,tool,STG907,in process,907,STG907,Lot238,,1 lot
-4608.447,tool,STG907,process completed,907,STG907,Lot238,,
-4608.447,tool,VFP702,batch dispatched,908,VFP702,Lot236;Lot237;Lot238,,3 lots
-4621.437,tool,STG907,in process,907,STG907,Lot239,,1 lot
-4622.437,tool,STG907,process completed,907,STG907,Lot239,,
-4644.55,tool,STG907,in process,907,STG907,Lot240,,1 lot
-4645.411,tool,STG907,in process,907,STG907,Lot241,,1 lot
-4645.55,tool,STG907,process completed,907,STG907,Lot240,,
-4646.411,tool,STG907,process completed,907,STG907,Lot241,,
-4646.411,tool,VFP701,batch dispatched,908,VFP701,Lot239;Lot240;Lot241,,3 lots
-4663.003,tool,STG907,in process,907,STG907,Lot242,,1 lot
-4664.003,tool,STG907,process completed,907,STG907,Lot242,,
-4682.67,tool,STG907,in process,907,STG907,Lot243,,1 lot
-4683.67,tool,STG907,process completed,907,STG907,Lot243,,
-4690.169,tool,STG907,in process,907,STG907,Lot244,,1 lot
-4691.169,tool,STG907,process completed,907,STG907,Lot244,,
-4691.169,tool,VFP702,batch dispatched,908,VFP702,Lot242;Lot243;Lot244,,3 lots
-4694.315,tool,STG907,in process,907,STG907,Lot245,,1 lot
-4695.315,tool,STG907,process completed,907,STG907,Lot245,,
-4777.142,tool,STG907,in process,907,STG907,Lot246,,1 lot
-4778.142,tool,STG907,process completed,907,STG907,Lot246,,
-4783.88,tool,VFP701,process completed,908,VFP701,Lot162;Lot163,,
-4783.88,tool,VFP701,in process,908,VFP701,Lot167;Lot168;Lot169,,
-4802.831,tool,STG907,in process,907,STG907,Lot247,,1 lot
-4803.831,tool,STG907,process completed,907,STG907,Lot247,,
-4803.831,tool,VFP701,batch dispatched,908,VFP701,Lot245;Lot246;Lot247,,3 lots
-4811.276,tool,STG907,in process,907,STG907,Lot248,,1 lot
-4812.276,tool,STG907,process completed,907,STG907,Lot248,,
-4841.054,tool,VFP702,process completed,908,VFP702,Lot164;Lot165;Lot166,,
-4841.054,tool,VFP702,in process,908,VFP702,Lot170;Lot171;Lot172,,
-4844.775,tool,STG907,in process,907,STG907,Lot249,,1 lot
-4845.775,tool,STG907,process completed,907,STG907,Lot249,,
-4875.775,tool,VFP702,batch dispatched,908,VFP702,Lot248;Lot249,,2 lots
-4905.92,tool,STG907,in process,907,STG907,Lot250,,1 lot
-4906.677,tool,STG907,in process,907,STG907,Lot251,,1 lot
-4906.92,tool,STG907,process completed,907,STG907,Lot250,,
-4907.326,tool,STG907,in process,907,STG907,Lot252,,1 lot
-4907.677,tool,STG907,process completed,907,STG907,Lot251,,
-4908.326,tool,STG907,process completed,907,STG907,Lot252,,
-4908.326,tool,VFP701,batch dispatched,908,VFP701,Lot250;Lot251;Lot252,,3 lots
-4913.027,tool,STG907,in process,907,STG907,Lot253,,1 lot
-4914.027,tool,STG907,process completed,907,STG907,Lot253,,
-4958.705,tool,STG907,in process,907,STG907,Lot254,,1 lot
-4959.705,tool,STG907,process completed,907,STG907,Lot254,,
-4964.991,tool,STG907,in process,907,STG907,Lot255,,1 lot
-4965.991,tool,STG907,process completed,907,STG907,Lot255,,
-4965.991,tool,VFP702,batch dispatched,908,VFP702,Lot253;Lot254;Lot255,,3 lots
-5008.891,tool,STG907,in process,907,STG907,Lot256,,1 lot
-5009.891,tool,STG907,process completed,907,STG907,Lot256,,
-5049.706,tool,STG907,in process,907,STG907,Lot257,,1 lot
-5050.706,tool,STG907,process completed,907,STG907,Lot257,,
-5078.031,tool,STG907,in process,907,STG907,Lot258,,1 lot
-5079.031,tool,STG907,process completed,907,STG907,Lot258,,
-5079.031,tool,VFP701,batch dispatched,908,VFP701,Lot256;Lot257;Lot258,,3 lots
-5087.004,tool,STG907,in process,907,STG907,Lot259,,1 lot
-5088.004,tool,STG907,process completed,907,STG907,Lot259,,
-5143.88,tool,VFP701,process completed,908,VFP701,Lot167;Lot168;Lot169,,
-5143.88,tool,VFP701,in process,908,VFP701,Lot173;Lot174,,
-5201.054,tool,VFP702,process completed,908,VFP702,Lot170;Lot171;Lot172,,
-5201.054,tool,VFP702,in process,908,VFP702,Lot175;Lot176;Lot177,,
-5220.67,tool,STG907,in process,907,STG907,Lot260,,1 lot
-5221.67,tool,STG907,process completed,907,STG907,Lot260,,
-5251.67,tool,VFP702,batch dispatched,908,VFP702,Lot259;Lot260,,2 lots
-5278.217,tool,STG907,in process,907,STG907,Lot261,,1 lot
-5279.217,tool,STG907,process completed,907,STG907,Lot261,,
-5304.386,tool,STG907,in process,907,STG907,Lot262,,1 lot
-5305.386,tool,STG907,process completed,907,STG907,Lot262,,
-5313.479,tool,STG907,in process,907,STG907,Lot263,,1 lot
-5314.479,tool,STG907,process completed,907,STG907,Lot263,,
-5314.479,tool,VFP701,batch dispatched,908,VFP701,Lot261;Lot262;Lot263,,3 lots
-5351.119,tool,STG907,in process,907,STG907,Lot264,,1 lot
-5352.119,tool,STG907,process completed,907,STG907,Lot264,,
-5369.204,tool,STG907,in process,907,STG907,Lot265,,1 lot
-5370.204,tool,STG907,process completed,907,STG907,Lot265,,
-5400.08,tool,STG907,in process,907,STG907,Lot266,,1 lot
-5400.204,tool,VFP702,batch dispatched,908,VFP702,Lot264;Lot265,,2 lots
-5401.08,tool,STG907,process completed,907,STG907,Lot266,,
-5414.029,tool,STG907,in process,907,STG907,Lot267,,1 lot
-5415.029,tool,STG907,process completed,907,STG907,Lot267,,
-5445.029,tool,VFP701,batch dispatched,908,VFP701,Lot266;Lot267,,2 lots
-5449.915,tool,STG907,in process,907,STG907,Lot268,,1 lot
-5450.915,tool,STG907,process completed,907,STG907,Lot268,,
-5452.096,tool,STG907,in process,907,STG907,Lot269,,1 lot
-5453.096,tool,STG907,process completed,907,STG907,Lot269,,
-5464.865,tool,STG907,in process,907,STG907,Lot270,,1 lot
-5465.865,tool,STG907,process completed,907,STG907,Lot270,,
-5465.865,tool,VFP702,batch dispatched,908,VFP702,Lot268;Lot269;Lot270,,3 lots
-5503.88,tool,VFP701,process completed,908,VFP701,Lot173;Lot174,,
-5503.88,tool,VFP701,in process,908,VFP701,Lot178;Lot179,,
-5561.054,tool,VFP702,process completed,908,VFP702,Lot175;Lot176;Lot177,,
-5561.054,tool,VFP702,in process,908,VFP702,Lot180;Lot181;Lot182,,
-5588.669,tool,STG907,in process,907,STG907,Lot271,,1 lot
-5589.669,tool,STG907,process completed,907,STG907,Lot271,,
-5663.683,tool,STG907,in process,907,STG907,Lot272,,1 lot
-5664.683,tool,STG907,process completed,907,STG907,Lot272,,
-5676.853,tool,STG907,in process,907,STG907,Lot273,,1 lot
-5677.853,tool,STG907,process completed,907,STG907,Lot273,,
-5677.853,tool,VFP701,batch dispatched,908,VFP701,Lot271;Lot272;Lot273,,3 lots
-5747.253,tool,STG907,in process,907,STG907,Lot274,,1 lot
-5748.253,tool,STG907,process completed,907,STG907,Lot274,,
-5760.63,tool,STG907,in process,907,STG907,Lot275,,1 lot
-5761.63,tool,STG907,process completed,907,STG907,Lot275,,
-5791.63,tool,VFP702,batch dispatched,908,VFP702,Lot274;Lot275,,2 lots
-5861.489,tool,STG907,in process,907,STG907,Lot276,,1 lot
-5862.489,tool,STG907,process completed,907,STG907,Lot276,,
-5863.88,tool,VFP701,process completed,908,VFP701,Lot178;Lot179,,
-5863.88,tool,VFP701,in process,908,VFP701,Lot183;Lot184;Lot185,,
-5910.519,tool,STG907,in process,907,STG907,Lot277,,1 lot
-5911.519,tool,STG907,process completed,907,STG907,Lot277,,
-5921.054,tool,VFP702,process completed,908,VFP702,Lot180;Lot181;Lot182,,
-5921.054,tool,VFP702,in process,908,VFP702,Lot186;Lot187;Lot188,,
-5929.893,tool,STG907,in process,907,STG907,Lot278,,1 lot
-5930.893,tool,STG907,process completed,907,STG907,Lot278,,
-5930.893,tool,VFP701,batch dispatched,908,VFP701,Lot276;Lot277;Lot278,,3 lots
-5940.363,tool,STG907,in process,907,STG907,Lot279,,1 lot
-5940.669,tool,STG907,in process,907,STG907,Lot280,,1 lot
-5941.363,tool,STG907,process completed,907,STG907,Lot279,,
-5941.669,tool,STG907,process completed,907,STG907,Lot280,,
-5971.669,tool,VFP702,batch dispatched,908,VFP702,Lot279;Lot280,,2 lots
-6016.616,tool,STG907,in process,907,STG907,Lot281,,1 lot
-6017.616,tool,STG907,process completed,907,STG907,Lot281,,
-6018.008,tool,STG907,in process,907,STG907,Lot282,,1 lot
-6019.008,tool,STG907,process completed,907,STG907,Lot282,,
-6049.008,tool,VFP701,batch dispatched,908,VFP701,Lot281;Lot282,,2 lots
-6079.623,tool,STG907,in process,907,STG907,Lot283,,1 lot
-6080.623,tool,STG907,process completed,907,STG907,Lot283,,
-6197.54,tool,STG907,in process,907,STG907,Lot284,,1 lot
-6198.54,tool,STG907,process completed,907,STG907,Lot284,,
-6223.88,tool,VFP701,process completed,908,VFP701,Lot183;Lot184;Lot185,,
-6223.88,tool,VFP701,in process,908,VFP701,Lot189;Lot190,,
-6227.947,tool,STG907,in process,907,STG907,Lot285,,1 lot
-6228.54,tool,VFP702,batch dispatched,908,VFP702,Lot283;Lot284,,2 lots
-6228.947,tool,STG907,process completed,907,STG907,Lot285,,
-6234.721,tool,STG907,in process,907,STG907,Lot286,,1 lot
-6235.721,tool,STG907,process completed,907,STG907,Lot286,,
-6265.721,tool,VFP701,batch dispatched,908,VFP701,Lot285;Lot286,,2 lots
-6281.054,tool,VFP702,process completed,908,VFP702,Lot186;Lot187;Lot188,,
-6281.054,tool,VFP702,in process,908,VFP702,Lot191;Lot192,,
-6307.559,tool,STG907,in process,907,STG907,Lot287,,1 lot
-6308.559,tool,STG907,process completed,907,STG907,Lot287,,
-6438.637,tool,STG907,in process,907,STG907,Lot288,,1 lot
-6439.637,tool,STG907,process completed,907,STG907,Lot288,,
-6469.637,tool,VFP702,batch dispatched,908,VFP702,Lot287;Lot288,,2 lots
-6482.466,tool,STG907,in process,907,STG907,Lot289,,1 lot
-6483.466,tool,STG907,process completed,907,STG907,Lot289,,
-6508.064,tool,STG907,in process,907,STG907,Lot290,,1 lot
-6509.064,tool,STG907,process completed,907,STG907,Lot290,,
-6525.156,tool,STG907,in process,907,STG907,Lot291,,1 lot
-6526.156,tool,STG907,process completed,907,STG907,Lot291,,
-6526.156,tool,VFP701,batch dispatched,908,VFP701,Lot289;Lot290;Lot291,,3 lots
-6540.494,tool,STG907,in process,907,STG907,Lot292,,1 lot
-6541.494,tool,STG907,process completed,907,STG907,Lot292,,
-6548.788,tool,STG907,in process,907,STG907,Lot293,,1 lot
-6549.788,tool,STG907,process completed,907,STG907,Lot293,,
-6579.788,tool,VFP702,batch dispatched,908,VFP702,Lot292;Lot293,,2 lots
-6583.88,tool,VFP701,process completed,908,VFP701,Lot189;Lot190,,
-6583.88,tool,VFP701,in process,908,VFP701,Lot193;Lot194,,
-6589.155,tool,STG907,in process,907,STG907,Lot294,,1 lot
-6590.155,tool,STG907,process completed,907,STG907,Lot294,,
-6609.579,tool,STG907,in process,907,STG907,Lot295,,1 lot
-6610.579,tool,STG907,process completed,907,STG907,Lot295,,
-6617.348,tool,STG907,in process,907,STG907,Lot296,,1 lot
-6618.348,tool,STG907,process completed,907,STG907,Lot296,,
-6618.348,tool,VFP701,batch dispatched,908,VFP701,Lot294;Lot295;Lot296,,3 lots
-6621.318,tool,STG907,in process,907,STG907,Lot297,,1 lot
-6622.318,tool,STG907,process completed,907,STG907,Lot297,,
-6641.054,tool,VFP702,process completed,908,VFP702,Lot191;Lot192,,
-6641.054,tool,VFP702,in process,908,VFP702,Lot195;Lot196,,
-6660.792,tool,STG907,in process,907,STG907,Lot298,,1 lot
-6661.792,tool,STG907,process completed,907,STG907,Lot298,,
-6673.431,tool,STG907,in process,907,STG907,Lot299,,1 lot
-6674.431,tool,STG907,process completed,907,STG907,Lot299,,
-6674.431,tool,VFP702,batch dispatched,908,VFP702,Lot297;Lot298;Lot299,,3 lots
-6698.37,tool,STG907,in process,907,STG907,Lot300,,1 lot
-6699.37,tool,STG907,process completed,907,STG907,Lot300,,
-6712.538,tool,STG907,in process,907,STG907,Lot301,,1 lot
-6713.538,tool,STG907,process completed,907,STG907,Lot301,,
-6743.538,tool,VFP701,batch dispatched,908,VFP701,Lot300;Lot301,,2 lots
-6786.437,tool,STG907,in process,907,STG907,Lot302,,1 lot
-6787.437,tool,STG907,process completed,907,STG907,Lot302,,
-6869.215,tool,STG907,in process,907,STG907,Lot303,,1 lot
-6869.872,tool,STG907,in process,907,STG907,Lot304,,1 lot
-6870.215,tool,STG907,process completed,907,STG907,Lot303,,
-6870.872,tool,STG907,process completed,907,STG907,Lot304,,
-6870.872,tool,VFP702,batch dispatched,908,VFP702,Lot302;Lot303;Lot304,,3 lots
-6877.944,tool,STG907,in process,907,STG907,Lot305,,1 lot
-6878.944,tool,STG907,process completed,907,STG907,Lot305,,
-6892.24,tool,STG907,in process,907,STG907,Lot306,,1 lot
-6893.24,tool,STG907,process completed,907,STG907,Lot306,,
-6923.24,tool,VFP701,batch dispatched,908,VFP701,Lot305;Lot306,,2 lots
-6943.88,tool,VFP701,process completed,908,VFP701,Lot193;Lot194,,
-6943.88,tool,VFP701,in process,908,VFP701,Lot197;Lot198;Lot199,,
-7001.054,tool,VFP702,process completed,908,VFP702,Lot195;Lot196,,
-7001.054,tool,VFP702,in process,908,VFP702,Lot200;Lot201,,
-7048.719,tool,STG907,in process,907,STG907,Lot307,,1 lot
-7049.719,tool,STG907,process completed,907,STG907,Lot307,,
-7103.672,tool,STG907,in process,907,STG907,Lot308,,1 lot
-7104.672,tool,STG907,process completed,907,STG907,Lot308,,
-7118.581,tool,STG907,in process,907,STG907,Lot309,,1 lot
-7119.581,tool,STG907,process completed,907,STG907,Lot309,,
-7119.581,tool,VFP702,batch dispatched,908,VFP702,Lot307;Lot308;Lot309,,3 lots
-7127.206,tool,STG907,in process,907,STG907,Lot310,,1 lot
-7128.206,tool,STG907,process completed,907,STG907,Lot310,,
-7167.607,tool,STG907,in process,907,STG907,Lot311,,1 lot
-7168.607,tool,STG907,process completed,907,STG907,Lot311,,
-7198.607,tool,VFP701,batch dispatched,908,VFP701,Lot310;Lot311,,2 lots
-7233.066,tool,STG907,in process,907,STG907,Lot312,,1 lot
-7234.066,tool,STG907,process completed,907,STG907,Lot312,,
-7303.88,tool,VFP701,process completed,908,VFP701,Lot197;Lot198;Lot199,,
-7303.88,tool,VFP701,PM started,,VFP701,,,trigger: run count
-7329.942,tool,STG907,in process,907,STG907,Lot313,,1 lot
-7330.942,tool,STG907,process completed,907,STG907,Lot313,,
-7345.112,tool,STG907,in process,907,STG907,Lot314,,1 lot
-7346.112,tool,STG907,process completed,907,STG907,Lot314,,
-7346.112,tool,VFP702,batch dispatched,908,VFP702,Lot312;Lot313;Lot314,,3 lots
-7361.054,tool,VFP702,process completed,908,VFP702,Lot200;Lot201,,
-7361.054,tool,VFP702,PM started,,VFP702,,,trigger: run count
-7422.166,tool,STG907,in process,907,STG907,Lot315,,1 lot
-7423.166,tool,STG907,process completed,907,STG907,Lot315,,
-7463.995,tool,STG907,in process,907,STG907,Lot316,,1 lot
-7464.995,tool,STG907,process completed,907,STG907,Lot316,,
-7487.849,tool,STG907,in process,907,STG907,Lot317,,1 lot
-7488.849,tool,STG907,process completed,907,STG907,Lot317,,
-7488.849,tool,VFP701,batch dispatched,908,VFP701,Lot315;Lot316;Lot317,,3 lots
-7640.279,tool,STG907,in process,907,STG907,Lot318,,1 lot
-7641.279,tool,STG907,process completed,907,STG907,Lot318,,
-7649.906,tool,STG907,in process,907,STG907,Lot319,,1 lot
-7650.906,tool,STG907,process completed,907,STG907,Lot319,,
-7680.906,tool,VFP702,batch dispatched,908,VFP702,Lot318;Lot319,,2 lots
-7696.442,tool,STG907,in process,907,STG907,Lot320,,1 lot
-7697.442,tool,STG907,process completed,907,STG907,Lot320,,
-7699.628,tool,STG907,in process,907,STG907,Lot321,,1 lot
-7700.628,tool,STG907,process completed,907,STG907,Lot321,,
-7706.322,tool,STG907,in process,907,STG907,Lot322,,1 lot
-7707.322,tool,STG907,process completed,907,STG907,Lot322,,
-7707.322,tool,VFP701,batch dispatched,908,VFP701,Lot320;Lot321;Lot322,,3 lots
-7783.88,tool,VFP701,PM completed,,VFP701,,,trigger: run count
-7783.88,tool,VFP701,in process,908,VFP701,Lot202;Lot203;Lot204,,
-7793.406,tool,STG907,in process,907,STG907,Lot323,,1 lot
-7794.406,tool,STG907,process completed,907,STG907,Lot323,,
-7802.027,tool,STG907,in process,907,STG907,Lot324,,1 lot
-7803.027,tool,STG907,process completed,907,STG907,Lot324,,
-7833.027,tool,VFP702,batch dispatched,908,VFP702,Lot323;Lot324,,2 lots
-7841.054,tool,VFP702,PM completed,,VFP702,,,trigger: run count
-7841.054,tool,VFP702,in process,908,VFP702,Lot205;Lot206;Lot207,,
-7853.271,tool,STG907,in process,907,STG907,Lot325,,1 lot
-7854.271,tool,STG907,process completed,907,STG907,Lot325,,
-7886.276,tool,STG907,in process,907,STG907,Lot326,,1 lot
-7887.276,tool,STG907,process completed,907,STG907,Lot326,,
-7917.276,tool,VFP701,batch dispatched,908,VFP701,Lot325;Lot326,,2 lots
-7952.505,tool,STG907,in process,907,STG907,Lot327,,1 lot
-7953.505,tool,STG907,process completed,907,STG907,Lot327,,
-7969.03,tool,STG907,in process,907,STG907,Lot328,,1 lot
-7970.03,tool,STG907,process completed,907,STG907,Lot328,,
-7984.004,tool,STG907,in process,907,STG907,Lot329,,1 lot
-7985.004,tool,STG907,process completed,907,STG907,Lot329,,
-7985.004,tool,VFP702,batch dispatched,908,VFP702,Lot327;Lot328;Lot329,,3 lots
-7996.396,tool,STG907,in process,907,STG907,Lot330,,1 lot
-7997.396,tool,STG907,process completed,907,STG907,Lot330,,
-8069.136,tool,STG907,in process,907,STG907,Lot331,,1 lot
-8070.136,tool,STG907,process completed,907,STG907,Lot331,,
-8100.136,tool,VFP701,batch dispatched,908,VFP701,Lot330;Lot331,,2 lots
-8102.483,tool,STG907,in process,907,STG907,Lot332,,1 lot
-8103.483,tool,STG907,process completed,907,STG907,Lot332,,
-8143.88,tool,VFP701,process completed,908,VFP701,Lot202;Lot203;Lot204,,
-8143.88,tool,VFP701,in process,908,VFP701,Lot208;Lot209,,
-8201.054,tool,VFP702,process completed,908,VFP702,Lot205;Lot206;Lot207,,
-8201.054,tool,VFP702,in process,908,VFP702,Lot210;Lot211;Lot212,,
-8213.572,tool,STG907,in process,907,STG907,Lot333,,1 lot
-8214.572,tool,STG907,process completed,907,STG907,Lot333,,
-8244.572,tool,VFP702,batch dispatched,908,VFP702,Lot332;Lot333,,2 lots
-8292.15,tool,STG907,in process,907,STG907,Lot334,,1 lot
-8293.15,tool,STG907,process completed,907,STG907,Lot334,,
-8297.385,tool,STG907,in process,907,STG907,Lot335,,1 lot
-8298.385,tool,STG907,process completed,907,STG907,Lot335,,
-8326.225,tool,STG907,in process,907,STG907,Lot336,,1 lot
-8327.225,tool,STG907,process completed,907,STG907,Lot336,,
-8327.225,tool,VFP701,batch dispatched,908,VFP701,Lot334;Lot335;Lot336,,3 lots
-8330.19,tool,STG907,in process,907,STG907,Lot337,,1 lot
-8331.19,tool,STG907,process completed,907,STG907,Lot337,,
-8331.627,tool,STG907,in process,907,STG907,Lot338,,1 lot
-8332.627,tool,STG907,process completed,907,STG907,Lot338,,
-8334.363,tool,STG907,in process,907,STG907,Lot339,,1 lot
-8335.363,tool,STG907,process completed,907,STG907,Lot339,,
-8335.363,tool,VFP702,batch dispatched,908,VFP702,Lot337;Lot338;Lot339,,3 lots
-8406.766,tool,STG907,in process,907,STG907,Lot340,,1 lot
-8407.766,tool,STG907,process completed,907,STG907,Lot340,,
-8462.628,tool,STG907,in process,907,STG907,Lot341,,1 lot
-8463.628,tool,STG907,process completed,907,STG907,Lot341,,
-8493.628,tool,VFP701,batch dispatched,908,VFP701,Lot340;Lot341,,2 lots
-8503.88,tool,VFP701,process completed,908,VFP701,Lot208;Lot209,,
-8503.88,tool,VFP701,in process,908,VFP701,Lot213;Lot214;Lot215,,
-8526.103,tool,STG907,in process,907,STG907,Lot342,,1 lot
-8527.103,tool,STG907,process completed,907,STG907,Lot342,,
-8541.111,tool,STG907,in process,907,STG907,Lot343,,1 lot
-8542.111,tool,STG907,process completed,907,STG907,Lot343,,
-8561.054,tool,VFP702,process completed,908,VFP702,Lot210;Lot211;Lot212,,
-8561.054,tool,VFP702,in process,908,VFP702,Lot216;Lot217,,
-8572.111,tool,VFP702,batch dispatched,908,VFP702,Lot342;Lot343,,2 lots
-8575.49,tool,STG907,in process,907,STG907,Lot344,,1 lot
-8576.49,tool,STG907,process completed,907,STG907,Lot344,,
-8630.312,tool,STG907,in process,907,STG907,Lot345,,1 lot
-8631.312,tool,STG907,process completed,907,STG907,Lot345,,
-8647.407,tool,STG907,in process,907,STG907,Lot346,,1 lot
-8648.407,tool,STG907,process completed,907,STG907,Lot346,,
-8648.407,tool,VFP701,batch dispatched,908,VFP701,Lot344;Lot345;Lot346,,3 lots
-8677.856,tool,STG907,in process,907,STG907,Lot347,,1 lot
-8678.856,tool,STG907,process completed,907,STG907,Lot347,,
-8686.972,tool,STG907,in process,907,STG907,Lot348,,1 lot
-8687.972,tool,STG907,process completed,907,STG907,Lot348,,
-8690.042,tool,STG907,in process,907,STG907,Lot349,,1 lot
-8691.042,tool,STG907,process completed,907,STG907,Lot349,,
-8691.042,tool,VFP702,batch dispatched,908,VFP702,Lot347;Lot348;Lot349,,3 lots
-8701.211,tool,STG907,in process,907,STG907,Lot350,,1 lot
-8702.211,tool,STG907,process completed,907,STG907,Lot350,,
-8780.925,tool,STG907,in process,907,STG907,Lot351,,1 lot
-8781.925,tool,STG907,process completed,907,STG907,Lot351,,
-8810.846,tool,STG907,in process,907,STG907,Lot352,,1 lot
-8811.846,tool,STG907,process completed,907,STG907,Lot352,,
-8811.846,tool,VFP701,batch dispatched,908,VFP701,Lot350;Lot351;Lot352,,3 lots
-8863.88,tool,VFP701,process completed,908,VFP701,Lot213;Lot214;Lot215,,
-8863.88,tool,VFP701,in process,908,VFP701,Lot218;Lot219,,
-8904.128,tool,STG907,in process,907,STG907,Lot353,,1 lot
-8905.128,tool,STG907,process completed,907,STG907,Lot353,,
-8921.054,tool,VFP702,process completed,908,VFP702,Lot216;Lot217,,
-8921.054,tool,VFP702,in process,908,VFP702,Lot220;Lot221,,
-8926.162,tool,STG907,in process,907,STG907,Lot354,,1 lot
-8927.162,tool,STG907,process completed,907,STG907,Lot354,,
-8937.848,tool,STG907,in process,907,STG907,Lot355,,1 lot
-8938.848,tool,STG907,process completed,907,STG907,Lot355,,
-8938.848,tool,VFP702,batch dispatched,908,VFP702,Lot353;Lot354;Lot355,,3 lots
-8993.523,tool,STG907,in process,907,STG907,Lot356,,1 lot
-8994.523,tool,STG907,process completed,907,STG907,Lot356,,
-9056.844,tool,STG907,in process,907,STG907,Lot357,,1 lot
-9057.292,tool,STG907,in process,907,STG907,Lot358,,1 lot
-9057.844,tool,STG907,process completed,907,STG907,Lot357,,
-9058.292,tool,STG907,process completed,907,STG907,Lot358,,
-9058.292,tool,VFP701,batch dispatched,908,VFP701,Lot356;Lot357;Lot358,,3 lots
-9097.249,tool,STG907,in process,907,STG907,Lot359,,1 lot
-9098.249,tool,STG907,process completed,907,STG907,Lot359,,
-9100.711,tool,STG907,in process,907,STG907,Lot360,,1 lot
-9101.711,tool,STG907,process completed,907,STG907,Lot360,,
-9105.113,tool,STG907,in process,907,STG907,Lot361,,1 lot
-9106.113,tool,STG907,process completed,907,STG907,Lot361,,
-9106.113,tool,VFP702,batch dispatched,908,VFP702,Lot359;Lot360;Lot361,,3 lots
-9182.993,tool,STG907,in process,907,STG907,Lot362,,1 lot
-9183.993,tool,STG907,process completed,907,STG907,Lot362,,
-9184.464,tool,STG907,in process,907,STG907,Lot363,,1 lot
-9185.464,tool,STG907,process completed,907,STG907,Lot363,,
-9194.326,tool,STG907,in process,907,STG907,Lot364,,1 lot
-9195.326,tool,STG907,process completed,907,STG907,Lot364,,
-9195.326,tool,VFP701,batch dispatched,908,VFP701,Lot362;Lot363;Lot364,,3 lots
-9223.88,tool,VFP701,process completed,908,VFP701,Lot218;Lot219,,
-9223.88,tool,VFP701,in process,908,VFP701,Lot222;Lot223;Lot224,,
-9281.054,tool,VFP702,process completed,908,VFP702,Lot220;Lot221,,
-9281.054,tool,VFP702,in process,908,VFP702,Lot225;Lot226,,
-9354.028,tool,STG907,in process,907,STG907,Lot365,,1 lot
-9355.028,tool,STG907,process completed,907,STG907,Lot365,,
-9373.701,tool,STG907,in process,907,STG907,Lot366,,1 lot
-9374.701,tool,STG907,process completed,907,STG907,Lot366,,
-9378.121,tool,STG907,in process,907,STG907,Lot367,,1 lot
-9379.121,tool,STG907,process completed,907,STG907,Lot367,,
-9379.121,tool,VFP702,batch dispatched,908,VFP702,Lot365;Lot366;Lot367,,3 lots
-9384.716,tool,STG907,in process,907,STG907,Lot368,,1 lot
-9385.716,tool,STG907,process completed,907,STG907,Lot368,,
-9394.663,tool,STG907,in process,907,STG907,Lot369,,1 lot
-9395.663,tool,STG907,process completed,907,STG907,Lot369,,
-9425.663,tool,VFP701,batch dispatched,908,VFP701,Lot368;Lot369,,2 lots
-9443.717,tool,STG907,in process,907,STG907,Lot370,,1 lot
-9444.717,tool,STG907,process completed,907,STG907,Lot370,,
-9447.623,tool,STG907,in process,907,STG907,Lot371,,1 lot
-9448.623,tool,STG907,process completed,907,STG907,Lot371,,
-9478.623,tool,VFP702,batch dispatched,908,VFP702,Lot370;Lot371,,2 lots
-9534.616,tool,STG907,in process,907,STG907,Lot372,,1 lot
-9535.616,tool,STG907,process completed,907,STG907,Lot372,,
-9551.726,tool,STG907,in process,907,STG907,Lot373,,1 lot
-9552.726,tool,STG907,process completed,907,STG907,Lot373,,
-9582.726,tool,VFP701,batch dispatched,908,VFP701,Lot372;Lot373,,2 lots
-9583.88,tool,VFP701,process completed,908,VFP701,Lot222;Lot223;Lot224,,
-9583.88,tool,VFP701,in process,908,VFP701,Lot227;Lot228;Lot229,,
-9641.054,tool,VFP702,process completed,908,VFP702,Lot225;Lot226,,
-9641.054,tool,VFP702,in process,908,VFP702,Lot230;Lot231;Lot232,,
-9678.28,tool,STG907,in process,907,STG907,Lot374,,1 lot
-9679.28,tool,STG907,process completed,907,STG907,Lot374,,
-9764.657,tool,STG907,in process,907,STG907,Lot375,,1 lot
-9765.657,tool,STG907,process completed,907,STG907,Lot375,,
-9777.191,tool,STG907,in process,907,STG907,Lot376,,1 lot
-9778.191,tool,STG907,process completed,907,STG907,Lot376,,
-9778.191,tool,VFP702,batch dispatched,908,VFP702,Lot374;Lot375;Lot376,,3 lots
-9787.711,tool,STG907,in process,907,STG907,Lot377,,1 lot
-9788.711,tool,STG907,process completed,907,STG907,Lot377,,
-9811.046,tool,STG907,in process,907,STG907,Lot378,,1 lot
-9812.046,tool,STG907,process completed,907,STG907,Lot378,,
-9814.845,tool,STG907,in process,907,STG907,Lot379,,1 lot
-9815.845,tool,STG907,process completed,907,STG907,Lot379,,
-9815.845,tool,VFP701,batch dispatched,908,VFP701,Lot377;Lot378;Lot379,,3 lots
-9852.85,tool,STG907,in process,907,STG907,Lot380,,1 lot
-9853.85,tool,STG907,process completed,907,STG907,Lot380,,
-9854.305,tool,STG907,in process,907,STG907,Lot381,,1 lot
-9854.685,tool,STG907,in process,907,STG907,Lot382,,1 lot
-9855.305,tool,STG907,process completed,907,STG907,Lot381,,
-9855.685,tool,STG907,process completed,907,STG907,Lot382,,
-9855.685,tool,VFP702,batch dispatched,908,VFP702,Lot380;Lot381;Lot382,,3 lots
-9943.88,tool,VFP701,process completed,908,VFP701,Lot227;Lot228;Lot229,,
-9943.88,tool,VFP701,in process,908,VFP701,Lot233;Lot234;Lot235,,
-10000.498,tool,STG907,in process,907,STG907,Lot383,,1 lot
-10001.054,tool,VFP702,process completed,908,VFP702,Lot230;Lot231;Lot232,,
-10001.054,tool,VFP702,in process,908,VFP702,Lot236;Lot237;Lot238,,
-10001.498,tool,STG907,process completed,907,STG907,Lot383,,
-10013.11,tool,STG907,in process,907,STG907,Lot384,,1 lot
-10014.11,tool,STG907,process completed,907,STG907,Lot384,,
-10044.11,tool,VFP701,batch dispatched,908,VFP701,Lot383;Lot384,,2 lots
-10045.789,tool,STG907,in process,907,STG907,Lot385,,1 lot
-10046.789,tool,STG907,process completed,907,STG907,Lot385,,
-10067.301,tool,STG907,in process,907,STG907,Lot386,,1 lot
-10068.301,tool,STG907,process completed,907,STG907,Lot386,,
+226.958,tool,STG907,in process,907,STG907,Lot101,,1 lot
+226.958,tool,STG907,in process,907,STG907,Lot102,,1 lot
+226.958,tool,STG907,in process,907,STG907,Lot103,,1 lot
+227.958,tool,STG907,process completed,907,STG907,Lot101,,
+227.958,tool,STG907,process completed,907,STG907,Lot102,,
+227.958,tool,STG907,process completed,907,STG907,Lot103,,
+227.958,tool,VFP701,batch dispatched,908,VFP701,Lot101;Lot102;Lot103,,3 lots
+227.958,tool,VFP701,in process,908,VFP701,Lot101;Lot102;Lot103,,
+330.078,tool,STG907,in process,907,STG907,Lot104,,1 lot
+330.078,tool,STG907,in process,907,STG907,Lot105,,1 lot
+330.078,tool,STG907,in process,907,STG907,Lot106,,1 lot
+331.078,tool,STG907,process completed,907,STG907,Lot104,,
+331.078,tool,STG907,process completed,907,STG907,Lot105,,
+331.078,tool,STG907,process completed,907,STG907,Lot106,,
+331.078,tool,VFP702,batch dispatched,908,VFP702,Lot104;Lot105;Lot106,,3 lots
+331.078,tool,VFP702,in process,908,VFP702,Lot104;Lot105;Lot106,,
+507.298,tool,STG907,in process,907,STG907,Lot107,,1 lot
+507.298,tool,STG907,in process,907,STG907,Lot108,,1 lot
+507.298,tool,STG907,in process,907,STG907,Lot109,,1 lot
+508.298,tool,STG907,process completed,907,STG907,Lot107,,
+508.298,tool,STG907,process completed,907,STG907,Lot108,,
+508.298,tool,STG907,process completed,907,STG907,Lot109,,
+508.298,tool,VFP701,batch dispatched,908,VFP701,Lot107;Lot108;Lot109,,3 lots
+587.958,tool,VFP701,process completed,908,VFP701,Lot101;Lot102;Lot103,,
+587.958,tool,VFP701,in process,908,VFP701,Lot107;Lot108;Lot109,,
+664.533,tool,STG907,in process,907,STG907,Lot110,,1 lot
+664.533,tool,STG907,in process,907,STG907,Lot111,,1 lot
+664.533,tool,STG907,in process,907,STG907,Lot112,,1 lot
+665.533,tool,STG907,process completed,907,STG907,Lot110,,
+665.533,tool,STG907,process completed,907,STG907,Lot111,,
+665.533,tool,STG907,process completed,907,STG907,Lot112,,
+665.533,tool,VFP702,batch dispatched,908,VFP702,Lot110;Lot111;Lot112,,3 lots
+691.078,tool,VFP702,process completed,908,VFP702,Lot104;Lot105;Lot106,,
+691.078,tool,VFP702,in process,908,VFP702,Lot110;Lot111;Lot112,,
+797.291,tool,STG907,in process,907,STG907,Lot113,,1 lot
+797.291,tool,STG907,in process,907,STG907,Lot114,,1 lot
+797.291,tool,STG907,in process,907,STG907,Lot115,,1 lot
+798.291,tool,STG907,process completed,907,STG907,Lot113,,
+798.291,tool,STG907,process completed,907,STG907,Lot114,,
+798.291,tool,STG907,process completed,907,STG907,Lot115,,
+798.291,tool,VFP701,batch dispatched,908,VFP701,Lot113;Lot114;Lot115,,3 lots
+947.958,tool,VFP701,process completed,908,VFP701,Lot107;Lot108;Lot109,,
+947.958,tool,VFP701,in process,908,VFP701,Lot113;Lot114;Lot115,,
+1051.078,tool,VFP702,process completed,908,VFP702,Lot110;Lot111;Lot112,,
+1088.145,tool,STG907,in process,907,STG907,Lot116,,1 lot
+1088.145,tool,STG907,in process,907,STG907,Lot117,,1 lot
+1088.145,tool,STG907,in process,907,STG907,Lot118,,1 lot
+1089.145,tool,STG907,process completed,907,STG907,Lot116,,
+1089.145,tool,STG907,process completed,907,STG907,Lot117,,
+1089.145,tool,STG907,process completed,907,STG907,Lot118,,
+1089.145,tool,VFP702,batch dispatched,908,VFP702,Lot116;Lot117;Lot118,,3 lots
+1089.145,tool,VFP702,in process,908,VFP702,Lot116;Lot117;Lot118,,
+1243.521,tool,STG907,in process,907,STG907,Lot119,,1 lot
+1243.521,tool,STG907,in process,907,STG907,Lot120,,1 lot
+1243.521,tool,STG907,in process,907,STG907,Lot121,,1 lot
+1244.521,tool,STG907,process completed,907,STG907,Lot119,,
+1244.521,tool,STG907,process completed,907,STG907,Lot120,,
+1244.521,tool,STG907,process completed,907,STG907,Lot121,,
+1244.521,tool,VFP701,batch dispatched,908,VFP701,Lot119;Lot120;Lot121,,3 lots
+1307.958,tool,VFP701,process completed,908,VFP701,Lot113;Lot114;Lot115,,
+1307.958,tool,VFP701,in process,908,VFP701,Lot119;Lot120;Lot121,,
+1449.145,tool,VFP702,process completed,908,VFP702,Lot116;Lot117;Lot118,,
+1509.195,tool,STG907,in process,907,STG907,Lot122,,1 lot
+1509.195,tool,STG907,in process,907,STG907,Lot123,,1 lot
+1509.195,tool,STG907,in process,907,STG907,Lot124,,1 lot
+1510.195,tool,STG907,process completed,907,STG907,Lot122,,
+1510.195,tool,STG907,process completed,907,STG907,Lot123,,
+1510.195,tool,STG907,process completed,907,STG907,Lot124,,
+1510.195,tool,VFP702,batch dispatched,908,VFP702,Lot122;Lot123;Lot124,,3 lots
+1510.195,tool,VFP702,in process,908,VFP702,Lot122;Lot123;Lot124,,
+1562.997,tool,STG907,in process,907,STG907,Lot125,,1 lot
+1562.997,tool,STG907,in process,907,STG907,Lot126,,1 lot
+1562.997,tool,STG907,in process,907,STG907,Lot127,,1 lot
+1563.997,tool,STG907,process completed,907,STG907,Lot125,,
+1563.997,tool,STG907,process completed,907,STG907,Lot126,,
+1563.997,tool,STG907,process completed,907,STG907,Lot127,,
+1563.997,tool,VFP701,batch dispatched,908,VFP701,Lot125;Lot126;Lot127,,3 lots
+1661.931,tool,STG907,in process,907,STG907,Lot128,,1 lot
+1661.931,tool,STG907,in process,907,STG907,Lot129,,1 lot
+1661.931,tool,STG907,in process,907,STG907,Lot130,,1 lot
+1662.931,tool,STG907,process completed,907,STG907,Lot128,,
+1662.931,tool,STG907,process completed,907,STG907,Lot129,,
+1662.931,tool,STG907,process completed,907,STG907,Lot130,,
+1662.931,tool,VFP702,batch dispatched,908,VFP702,Lot128;Lot129;Lot130,,3 lots
+1667.958,tool,VFP701,process completed,908,VFP701,Lot119;Lot120;Lot121,,
+1667.958,tool,VFP701,in process,908,VFP701,Lot125;Lot126;Lot127,,
+1712.643,tool,STG907,in process,907,STG907,Lot131,,1 lot
+1712.643,tool,STG907,in process,907,STG907,Lot132,,1 lot
+1712.643,tool,STG907,in process,907,STG907,Lot133,,1 lot
+1713.643,tool,STG907,process completed,907,STG907,Lot131,,
+1713.643,tool,STG907,process completed,907,STG907,Lot132,,
+1713.643,tool,STG907,process completed,907,STG907,Lot133,,
+1713.643,tool,VFP701,batch dispatched,908,VFP701,Lot131;Lot132;Lot133,,3 lots
+1870.195,tool,VFP702,process completed,908,VFP702,Lot122;Lot123;Lot124,,
+1870.195,tool,VFP702,in process,908,VFP702,Lot128;Lot129;Lot130,,
+1870.195,tool,STG907,in process,907,STG907,Lot134,,1 lot
+1870.195,tool,STG907,in process,907,STG907,Lot135,,1 lot
+1870.195,tool,STG907,in process,907,STG907,Lot136,,1 lot
+1871.195,tool,STG907,process completed,907,STG907,Lot134,,
+1871.195,tool,STG907,process completed,907,STG907,Lot135,,
+1871.195,tool,STG907,process completed,907,STG907,Lot136,,
+1871.195,tool,VFP702,batch dispatched,908,VFP702,Lot134;Lot135;Lot136,,3 lots
+2027.958,tool,VFP701,process completed,908,VFP701,Lot125;Lot126;Lot127,,
+2027.958,tool,VFP701,in process,908,VFP701,Lot131;Lot132;Lot133,,
+2027.958,tool,STG907,in process,907,STG907,Lot137,,1 lot
+2027.958,tool,STG907,in process,907,STG907,Lot138,,1 lot
+2027.958,tool,STG907,in process,907,STG907,Lot139,,1 lot
+2028.958,tool,STG907,process completed,907,STG907,Lot137,,
+2028.958,tool,STG907,process completed,907,STG907,Lot138,,
+2028.958,tool,STG907,process completed,907,STG907,Lot139,,
+2028.958,tool,VFP701,batch dispatched,908,VFP701,Lot137;Lot138;Lot139,,3 lots
+2230.195,tool,VFP702,process completed,908,VFP702,Lot128;Lot129;Lot130,,
+2230.195,tool,VFP702,in process,908,VFP702,Lot134;Lot135;Lot136,,
+2387.958,tool,VFP701,process completed,908,VFP701,Lot131;Lot132;Lot133,,
+2387.958,tool,VFP701,in process,908,VFP701,Lot137;Lot138;Lot139,,
+2478.984,tool,STG907,in process,907,STG907,Lot140,,1 lot
+2478.984,tool,STG907,in process,907,STG907,Lot141,,1 lot
+2478.984,tool,STG907,in process,907,STG907,Lot142,,1 lot
+2479.984,tool,STG907,process completed,907,STG907,Lot140,,
+2479.984,tool,STG907,process completed,907,STG907,Lot141,,
+2479.984,tool,STG907,process completed,907,STG907,Lot142,,
+2479.984,tool,VFP702,batch dispatched,908,VFP702,Lot140;Lot141;Lot142,,3 lots
+2590.195,tool,VFP702,process completed,908,VFP702,Lot134;Lot135;Lot136,,
+2590.195,tool,VFP702,in process,908,VFP702,Lot140;Lot141;Lot142,,
+2597.563,tool,STG907,in process,907,STG907,Lot143,,1 lot
+2597.563,tool,STG907,in process,907,STG907,Lot144,,1 lot
+2597.563,tool,STG907,in process,907,STG907,Lot145,,1 lot
+2598.563,tool,STG907,process completed,907,STG907,Lot143,,
+2598.563,tool,STG907,process completed,907,STG907,Lot144,,
+2598.563,tool,STG907,process completed,907,STG907,Lot145,,
+2598.563,tool,VFP701,batch dispatched,908,VFP701,Lot143;Lot144;Lot145,,3 lots
+2747.958,tool,VFP701,process completed,908,VFP701,Lot137;Lot138;Lot139,,
+2747.958,tool,VFP701,in process,908,VFP701,Lot143;Lot144;Lot145,,
+2895.129,tool,STG907,in process,907,STG907,Lot146,,1 lot
+2895.129,tool,STG907,in process,907,STG907,Lot147,,1 lot
+2895.129,tool,STG907,in process,907,STG907,Lot148,,1 lot
+2896.129,tool,STG907,process completed,907,STG907,Lot146,,
+2896.129,tool,STG907,process completed,907,STG907,Lot147,,
+2896.129,tool,STG907,process completed,907,STG907,Lot148,,
+2896.129,tool,VFP702,batch dispatched,908,VFP702,Lot146;Lot147;Lot148,,3 lots
+2950.195,tool,VFP702,process completed,908,VFP702,Lot140;Lot141;Lot142,,
+2950.195,tool,VFP702,in process,908,VFP702,Lot146;Lot147;Lot148,,
+3107.415,tool,STG907,in process,907,STG907,Lot149,,1 lot
+3107.415,tool,STG907,in process,907,STG907,Lot150,,1 lot
+3107.415,tool,STG907,in process,907,STG907,Lot151,,1 lot
+3107.958,tool,VFP701,process completed,908,VFP701,Lot143;Lot144;Lot145,,
+3108.415,tool,STG907,process completed,907,STG907,Lot149,,
+3108.415,tool,STG907,process completed,907,STG907,Lot150,,
+3108.415,tool,STG907,process completed,907,STG907,Lot151,,
+3108.415,tool,VFP701,batch dispatched,908,VFP701,Lot149;Lot150;Lot151,,3 lots
+3108.415,tool,VFP701,in process,908,VFP701,Lot149;Lot150;Lot151,,
+3310.195,tool,VFP702,process completed,908,VFP702,Lot146;Lot147;Lot148,,
+3428.072,tool,STG907,in process,907,STG907,Lot152,,1 lot
+3428.072,tool,STG907,in process,907,STG907,Lot153,,1 lot
+3428.072,tool,STG907,in process,907,STG907,Lot154,,1 lot
+3429.072,tool,STG907,process completed,907,STG907,Lot152,,
+3429.072,tool,STG907,process completed,907,STG907,Lot153,,
+3429.072,tool,STG907,process completed,907,STG907,Lot154,,
+3429.072,tool,VFP702,batch dispatched,908,VFP702,Lot152;Lot153;Lot154,,3 lots
+3429.072,tool,VFP702,in process,908,VFP702,Lot152;Lot153;Lot154,,
+3468.415,tool,VFP701,process completed,908,VFP701,Lot149;Lot150;Lot151,,
+3534.637,tool,STG907,in process,907,STG907,Lot155,,1 lot
+3534.637,tool,STG907,in process,907,STG907,Lot156,,1 lot
+3534.637,tool,STG907,in process,907,STG907,Lot157,,1 lot
+3535.637,tool,STG907,process completed,907,STG907,Lot155,,
+3535.637,tool,STG907,process completed,907,STG907,Lot156,,
+3535.637,tool,STG907,process completed,907,STG907,Lot157,,
+3535.637,tool,VFP701,batch dispatched,908,VFP701,Lot155;Lot156;Lot157,,3 lots
+3535.637,tool,VFP701,in process,908,VFP701,Lot155;Lot156;Lot157,,
+3692.354,tool,STG907,in process,907,STG907,Lot158,,1 lot
+3692.354,tool,STG907,in process,907,STG907,Lot159,,1 lot
+3692.354,tool,STG907,in process,907,STG907,Lot160,,1 lot
+3693.354,tool,STG907,process completed,907,STG907,Lot158,,
+3693.354,tool,STG907,process completed,907,STG907,Lot159,,
+3693.354,tool,STG907,process completed,907,STG907,Lot160,,
+3693.354,tool,VFP702,batch dispatched,908,VFP702,Lot158;Lot159;Lot160,,3 lots
+3789.072,tool,VFP702,process completed,908,VFP702,Lot152;Lot153;Lot154,,
+3789.072,tool,VFP702,in process,908,VFP702,Lot158;Lot159;Lot160,,
+3836.352,tool,STG907,in process,907,STG907,Lot161,,1 lot
+3836.352,tool,STG907,in process,907,STG907,Lot162,,1 lot
+3836.352,tool,STG907,in process,907,STG907,Lot163,,1 lot
+3837.352,tool,STG907,process completed,907,STG907,Lot161,,
+3837.352,tool,STG907,process completed,907,STG907,Lot162,,
+3837.352,tool,STG907,process completed,907,STG907,Lot163,,
+3837.352,tool,VFP701,batch dispatched,908,VFP701,Lot161;Lot162;Lot163,,3 lots
+3895.637,tool,VFP701,process completed,908,VFP701,Lot155;Lot156;Lot157,,
+3895.637,tool,VFP701,in process,908,VFP701,Lot161;Lot162;Lot163,,
+3978.378,tool,STG907,in process,907,STG907,Lot164,,1 lot
+3978.378,tool,STG907,in process,907,STG907,Lot165,,1 lot
+3978.378,tool,STG907,in process,907,STG907,Lot166,,1 lot
+3979.378,tool,STG907,process completed,907,STG907,Lot164,,
+3979.378,tool,STG907,process completed,907,STG907,Lot165,,
+3979.378,tool,STG907,process completed,907,STG907,Lot166,,
+3979.378,tool,VFP702,batch dispatched,908,VFP702,Lot164;Lot165;Lot166,,3 lots
+4149.072,tool,VFP702,process completed,908,VFP702,Lot158;Lot159;Lot160,,
+4149.072,tool,VFP702,in process,908,VFP702,Lot164;Lot165;Lot166,,
+4171.674,tool,STG907,in process,907,STG907,Lot167,,1 lot
+4171.674,tool,STG907,in process,907,STG907,Lot168,,1 lot
+4171.674,tool,STG907,in process,907,STG907,Lot169,,1 lot
+4172.674,tool,STG907,process completed,907,STG907,Lot167,,
+4172.674,tool,STG907,process completed,907,STG907,Lot168,,
+4172.674,tool,STG907,process completed,907,STG907,Lot169,,
+4172.674,tool,VFP701,batch dispatched,908,VFP701,Lot167;Lot168;Lot169,,3 lots
+4250.378,tool,STG907,in process,907,STG907,Lot170,,1 lot
+4250.378,tool,STG907,in process,907,STG907,Lot171,,1 lot
+4250.378,tool,STG907,in process,907,STG907,Lot172,,1 lot
+4251.378,tool,STG907,process completed,907,STG907,Lot170,,
+4251.378,tool,STG907,process completed,907,STG907,Lot171,,
+4251.378,tool,STG907,process completed,907,STG907,Lot172,,
+4251.378,tool,VFP702,batch dispatched,908,VFP702,Lot170;Lot171;Lot172,,3 lots
+4255.637,tool,VFP701,process completed,908,VFP701,Lot161;Lot162;Lot163,,
+4255.637,tool,VFP701,in process,908,VFP701,Lot167;Lot168;Lot169,,
+4509.072,tool,VFP702,process completed,908,VFP702,Lot164;Lot165;Lot166,,
+4509.072,tool,VFP702,in process,908,VFP702,Lot170;Lot171;Lot172,,
+4600.26,tool,STG907,in process,907,STG907,Lot173,,1 lot
+4600.26,tool,STG907,in process,907,STG907,Lot174,,1 lot
+4600.26,tool,STG907,in process,907,STG907,Lot175,,1 lot
+4601.26,tool,STG907,process completed,907,STG907,Lot173,,
+4601.26,tool,STG907,process completed,907,STG907,Lot174,,
+4601.26,tool,STG907,process completed,907,STG907,Lot175,,
+4601.26,tool,VFP701,batch dispatched,908,VFP701,Lot173;Lot174;Lot175,,3 lots
+4615.637,tool,VFP701,process completed,908,VFP701,Lot167;Lot168;Lot169,,
+4615.637,tool,VFP701,in process,908,VFP701,Lot173;Lot174;Lot175,,
+4704.094,tool,STG907,in process,907,STG907,Lot176,,1 lot
+4704.094,tool,STG907,in process,907,STG907,Lot177,,1 lot
+4704.094,tool,STG907,in process,907,STG907,Lot178,,1 lot
+4705.094,tool,STG907,process completed,907,STG907,Lot176,,
+4705.094,tool,STG907,process completed,907,STG907,Lot177,,
+4705.094,tool,STG907,process completed,907,STG907,Lot178,,
+4705.094,tool,VFP702,batch dispatched,908,VFP702,Lot176;Lot177;Lot178,,3 lots
+4869.072,tool,VFP702,process completed,908,VFP702,Lot170;Lot171;Lot172,,
+4869.072,tool,VFP702,in process,908,VFP702,Lot176;Lot177;Lot178,,
+4975.637,tool,VFP701,process completed,908,VFP701,Lot173;Lot174;Lot175,,
+5109.339,tool,STG907,in process,907,STG907,Lot179,,1 lot
+5109.339,tool,STG907,in process,907,STG907,Lot180,,1 lot
+5109.339,tool,STG907,in process,907,STG907,Lot181,,1 lot
+5110.339,tool,STG907,process completed,907,STG907,Lot179,,
+5110.339,tool,STG907,process completed,907,STG907,Lot180,,
+5110.339,tool,STG907,process completed,907,STG907,Lot181,,
+5110.339,tool,VFP701,batch dispatched,908,VFP701,Lot179;Lot180;Lot181,,3 lots
+5110.339,tool,VFP701,in process,908,VFP701,Lot179;Lot180;Lot181,,
+5229.072,tool,VFP702,process completed,908,VFP702,Lot176;Lot177;Lot178,,
+5306.231,tool,STG907,in process,907,STG907,Lot182,,1 lot
+5306.231,tool,STG907,in process,907,STG907,Lot183,,1 lot
+5306.231,tool,STG907,in process,907,STG907,Lot184,,1 lot
+5307.231,tool,STG907,process completed,907,STG907,Lot182,,
+5307.231,tool,STG907,process completed,907,STG907,Lot183,,
+5307.231,tool,STG907,process completed,907,STG907,Lot184,,
+5307.231,tool,VFP702,batch dispatched,908,VFP702,Lot182;Lot183;Lot184,,3 lots
+5307.231,tool,VFP702,in process,908,VFP702,Lot182;Lot183;Lot184,,
+5470.339,tool,VFP701,process completed,908,VFP701,Lot179;Lot180;Lot181,,
+5609.265,tool,STG907,in process,907,STG907,Lot185,,1 lot
+5609.265,tool,STG907,in process,907,STG907,Lot186,,1 lot
+5609.265,tool,STG907,in process,907,STG907,Lot187,,1 lot
+5610.265,tool,STG907,process completed,907,STG907,Lot185,,
+5610.265,tool,STG907,process completed,907,STG907,Lot186,,
+5610.265,tool,STG907,process completed,907,STG907,Lot187,,
+5610.265,tool,VFP701,batch dispatched,908,VFP701,Lot185;Lot186;Lot187,,3 lots
+5610.265,tool,VFP701,in process,908,VFP701,Lot185;Lot186;Lot187,,
+5667.231,tool,VFP702,process completed,908,VFP702,Lot182;Lot183;Lot184,,
+5722.002,tool,STG907,in process,907,STG907,Lot188,,1 lot
+5722.002,tool,STG907,in process,907,STG907,Lot189,,1 lot
+5722.002,tool,STG907,in process,907,STG907,Lot190,,1 lot
+5723.002,tool,STG907,process completed,907,STG907,Lot188,,
+5723.002,tool,STG907,process completed,907,STG907,Lot189,,
+5723.002,tool,STG907,process completed,907,STG907,Lot190,,
+5723.002,tool,VFP702,batch dispatched,908,VFP702,Lot188;Lot189;Lot190,,3 lots
+5723.002,tool,VFP702,in process,908,VFP702,Lot188;Lot189;Lot190,,
+5970.265,tool,VFP701,process completed,908,VFP701,Lot185;Lot186;Lot187,,
+5970.265,tool,VFP701,PM started,,VFP701,,,trigger: run count
+6028.713,tool,STG907,in process,907,STG907,Lot191,,1 lot
+6028.713,tool,STG907,in process,907,STG907,Lot192,,1 lot
+6028.713,tool,STG907,in process,907,STG907,Lot193,,1 lot
+6029.713,tool,STG907,process completed,907,STG907,Lot191,,
+6029.713,tool,STG907,process completed,907,STG907,Lot192,,
+6029.713,tool,STG907,process completed,907,STG907,Lot193,,
+6029.713,tool,VFP702,batch dispatched,908,VFP702,Lot191;Lot192;Lot193,,3 lots
+6083.002,tool,VFP702,process completed,908,VFP702,Lot188;Lot189;Lot190,,
+6083.002,tool,VFP702,in process,908,VFP702,Lot191;Lot192;Lot193,,
+6371.672,tool,STG907,in process,907,STG907,Lot194,,1 lot
+6371.672,tool,STG907,in process,907,STG907,Lot195,,1 lot
+6371.672,tool,STG907,in process,907,STG907,Lot196,,1 lot
+6372.672,tool,STG907,process completed,907,STG907,Lot194,,
+6372.672,tool,STG907,process completed,907,STG907,Lot195,,
+6372.672,tool,STG907,process completed,907,STG907,Lot196,,
+6372.672,tool,VFP702,batch dispatched,908,VFP702,Lot194;Lot195;Lot196,,3 lots
+6443.002,tool,VFP702,process completed,908,VFP702,Lot191;Lot192;Lot193,,
+6443.002,tool,VFP702,in process,908,VFP702,Lot194;Lot195;Lot196,,
+6450.265,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+6581.879,tool,STG907,in process,907,STG907,Lot197,,1 lot
+6581.879,tool,STG907,in process,907,STG907,Lot198,,1 lot
+6581.879,tool,STG907,in process,907,STG907,Lot199,,1 lot
+6582.879,tool,STG907,process completed,907,STG907,Lot197,,
+6582.879,tool,STG907,process completed,907,STG907,Lot198,,
+6582.879,tool,STG907,process completed,907,STG907,Lot199,,
+6582.879,tool,VFP701,batch dispatched,908,VFP701,Lot197;Lot198;Lot199,,3 lots
+6582.879,tool,VFP701,in process,908,VFP701,Lot197;Lot198;Lot199,,
+6755.553,tool,STG907,in process,907,STG907,Lot200,,1 lot
+6755.553,tool,STG907,in process,907,STG907,Lot201,,1 lot
+6755.553,tool,STG907,in process,907,STG907,Lot202,,1 lot
+6756.553,tool,STG907,process completed,907,STG907,Lot200,,
+6756.553,tool,STG907,process completed,907,STG907,Lot201,,
+6756.553,tool,STG907,process completed,907,STG907,Lot202,,
+6756.553,tool,VFP702,batch dispatched,908,VFP702,Lot200;Lot201;Lot202,,3 lots
+6803.002,tool,VFP702,process completed,908,VFP702,Lot194;Lot195;Lot196,,
+6803.002,tool,VFP702,in process,908,VFP702,Lot200;Lot201;Lot202,,
+6871.377,tool,STG907,in process,907,STG907,Lot203,,1 lot
+6871.377,tool,STG907,in process,907,STG907,Lot204,,1 lot
+6871.377,tool,STG907,in process,907,STG907,Lot205,,1 lot
+6872.377,tool,STG907,process completed,907,STG907,Lot203,,
+6872.377,tool,STG907,process completed,907,STG907,Lot204,,
+6872.377,tool,STG907,process completed,907,STG907,Lot205,,
+6872.377,tool,VFP701,batch dispatched,908,VFP701,Lot203;Lot204;Lot205,,3 lots
+6942.879,tool,VFP701,process completed,908,VFP701,Lot197;Lot198;Lot199,,
+6942.879,tool,VFP701,in process,908,VFP701,Lot203;Lot204;Lot205,,
+6971.49,tool,STG907,in process,907,STG907,Lot206,,1 lot
+6971.49,tool,STG907,in process,907,STG907,Lot207,,1 lot
+6971.49,tool,STG907,in process,907,STG907,Lot208,,1 lot
+6972.49,tool,STG907,process completed,907,STG907,Lot206,,
+6972.49,tool,STG907,process completed,907,STG907,Lot207,,
+6972.49,tool,STG907,process completed,907,STG907,Lot208,,
+6972.49,tool,VFP702,batch dispatched,908,VFP702,Lot206;Lot207;Lot208,,3 lots
+7148.083,tool,STG907,in process,907,STG907,Lot209,,1 lot
+7148.083,tool,STG907,in process,907,STG907,Lot210,,1 lot
+7148.083,tool,STG907,in process,907,STG907,Lot211,,1 lot
+7149.083,tool,STG907,process completed,907,STG907,Lot209,,
+7149.083,tool,STG907,process completed,907,STG907,Lot210,,
+7149.083,tool,STG907,process completed,907,STG907,Lot211,,
+7149.083,tool,VFP701,batch dispatched,908,VFP701,Lot209;Lot210;Lot211,,3 lots
+7163.002,tool,VFP702,process completed,908,VFP702,Lot200;Lot201;Lot202,,
+7163.002,tool,VFP702,in process,908,VFP702,Lot206;Lot207;Lot208,,
+7207.122,tool,STG907,in process,907,STG907,Lot212,,1 lot
+7207.122,tool,STG907,in process,907,STG907,Lot213,,1 lot
+7207.122,tool,STG907,in process,907,STG907,Lot214,,1 lot
+7208.122,tool,STG907,process completed,907,STG907,Lot212,,
+7208.122,tool,STG907,process completed,907,STG907,Lot213,,
+7208.122,tool,STG907,process completed,907,STG907,Lot214,,
+7208.122,tool,VFP702,batch dispatched,908,VFP702,Lot212;Lot213;Lot214,,3 lots
+7302.879,tool,VFP701,process completed,908,VFP701,Lot203;Lot204;Lot205,,
+7302.879,tool,VFP701,in process,908,VFP701,Lot209;Lot210;Lot211,,
+7406.535,tool,STG907,in process,907,STG907,Lot215,,1 lot
+7406.535,tool,STG907,in process,907,STG907,Lot216,,1 lot
+7406.535,tool,STG907,in process,907,STG907,Lot217,,1 lot
+7407.535,tool,STG907,process completed,907,STG907,Lot215,,
+7407.535,tool,STG907,process completed,907,STG907,Lot216,,
+7407.535,tool,STG907,process completed,907,STG907,Lot217,,
+7407.535,tool,VFP701,batch dispatched,908,VFP701,Lot215;Lot216;Lot217,,3 lots
+7523.002,tool,VFP702,process completed,908,VFP702,Lot206;Lot207;Lot208,,
+7523.002,tool,VFP702,in process,908,VFP702,Lot212;Lot213;Lot214,,
+7662.879,tool,VFP701,process completed,908,VFP701,Lot209;Lot210;Lot211,,
+7662.879,tool,VFP701,in process,908,VFP701,Lot215;Lot216;Lot217,,
+7726.731,tool,STG907,in process,907,STG907,Lot218,,1 lot
+7726.731,tool,STG907,in process,907,STG907,Lot219,,1 lot
+7726.731,tool,STG907,in process,907,STG907,Lot220,,1 lot
+7727.731,tool,STG907,process completed,907,STG907,Lot218,,
+7727.731,tool,STG907,process completed,907,STG907,Lot219,,
+7727.731,tool,STG907,process completed,907,STG907,Lot220,,
+7727.731,tool,VFP701,batch dispatched,908,VFP701,Lot218;Lot219;Lot220,,3 lots
+7883.002,tool,VFP702,process completed,908,VFP702,Lot212;Lot213;Lot214,,
+7883.002,tool,VFP702,PM started,,VFP702,,,trigger: run count
+8022.879,tool,VFP701,process completed,908,VFP701,Lot215;Lot216;Lot217,,
+8022.879,tool,VFP701,in process,908,VFP701,Lot218;Lot219;Lot220,,
+8022.879,tool,STG907,in process,907,STG907,Lot221,,1 lot
+8022.879,tool,STG907,in process,907,STG907,Lot222,,1 lot
+8022.879,tool,STG907,in process,907,STG907,Lot223,,1 lot
+8023.879,tool,STG907,process completed,907,STG907,Lot221,,
+8023.879,tool,STG907,process completed,907,STG907,Lot222,,
+8023.879,tool,STG907,process completed,907,STG907,Lot223,,
+8023.879,tool,VFP701,batch dispatched,908,VFP701,Lot221;Lot222;Lot223,,3 lots
+8363.002,tool,VFP702,PM completed,,VFP702,,,trigger: run count
+8363.002,tool,STG907,in process,907,STG907,Lot224,,1 lot
+8363.002,tool,STG907,in process,907,STG907,Lot225,,1 lot
+8363.002,tool,STG907,in process,907,STG907,Lot226,,1 lot
+8363.002,tool,STG907,in process,907,STG907,Lot227,,1 lot
+8363.002,tool,STG907,in process,907,STG907,Lot228,,1 lot
+8363.002,tool,STG907,in process,907,STG907,Lot229,,1 lot
+8364.002,tool,STG907,process completed,907,STG907,Lot224,,
+8364.002,tool,STG907,process completed,907,STG907,Lot225,,
+8364.002,tool,STG907,process completed,907,STG907,Lot226,,
+8364.002,tool,STG907,process completed,907,STG907,Lot227,,
+8364.002,tool,STG907,process completed,907,STG907,Lot228,,
+8364.002,tool,STG907,process completed,907,STG907,Lot229,,
+8364.002,tool,VFP702,batch dispatched,908,VFP702,Lot224;Lot225;Lot226,,3 lots
+8364.002,tool,VFP702,in process,908,VFP702,Lot224;Lot225;Lot226,,
+8364.002,tool,VFP702,batch dispatched,908,VFP702,Lot227;Lot228;Lot229,,3 lots
+8382.879,tool,VFP701,process completed,908,VFP701,Lot218;Lot219;Lot220,,
+8382.879,tool,VFP701,in process,908,VFP701,Lot221;Lot222;Lot223,,
+8382.879,tool,STG907,in process,907,STG907,Lot230,,1 lot
+8382.879,tool,STG907,in process,907,STG907,Lot231,,1 lot
+8382.879,tool,STG907,in process,907,STG907,Lot232,,1 lot
+8383.879,tool,STG907,process completed,907,STG907,Lot230,,
+8383.879,tool,STG907,process completed,907,STG907,Lot231,,
+8383.879,tool,STG907,process completed,907,STG907,Lot232,,
+8383.879,tool,VFP701,batch dispatched,908,VFP701,Lot230;Lot231;Lot232,,3 lots
+8724.002,tool,VFP702,process completed,908,VFP702,Lot224;Lot225;Lot226,,
+8724.002,tool,VFP702,in process,908,VFP702,Lot227;Lot228;Lot229,,
+8724.002,tool,STG907,in process,907,STG907,Lot233,,1 lot
+8724.002,tool,STG907,in process,907,STG907,Lot234,,1 lot
+8724.002,tool,STG907,in process,907,STG907,Lot235,,1 lot
+8725.002,tool,STG907,process completed,907,STG907,Lot233,,
+8725.002,tool,STG907,process completed,907,STG907,Lot234,,
+8725.002,tool,STG907,process completed,907,STG907,Lot235,,
+8725.002,tool,VFP702,batch dispatched,908,VFP702,Lot233;Lot234;Lot235,,3 lots
+8742.879,tool,VFP701,process completed,908,VFP701,Lot221;Lot222;Lot223,,
+8742.879,tool,VFP701,in process,908,VFP701,Lot230;Lot231;Lot232,,
+8742.879,tool,STG907,in process,907,STG907,Lot236,,1 lot
+8742.879,tool,STG907,in process,907,STG907,Lot237,,1 lot
+8742.879,tool,STG907,in process,907,STG907,Lot238,,1 lot
+8743.879,tool,STG907,process completed,907,STG907,Lot236,,
+8743.879,tool,STG907,process completed,907,STG907,Lot237,,
+8743.879,tool,STG907,process completed,907,STG907,Lot238,,
+8743.879,tool,VFP701,batch dispatched,908,VFP701,Lot236;Lot237;Lot238,,3 lots
+9084.002,tool,VFP702,process completed,908,VFP702,Lot227;Lot228;Lot229,,
+9084.002,tool,VFP702,in process,908,VFP702,Lot233;Lot234;Lot235,,
+9084.002,tool,STG907,in process,907,STG907,Lot239,,1 lot
+9084.002,tool,STG907,in process,907,STG907,Lot240,,1 lot
+9084.002,tool,STG907,in process,907,STG907,Lot241,,1 lot
+9085.002,tool,STG907,process completed,907,STG907,Lot239,,
+9085.002,tool,STG907,process completed,907,STG907,Lot240,,
+9085.002,tool,STG907,process completed,907,STG907,Lot241,,
+9085.002,tool,VFP702,batch dispatched,908,VFP702,Lot239;Lot240;Lot241,,3 lots
+9102.879,tool,VFP701,process completed,908,VFP701,Lot230;Lot231;Lot232,,
+9102.879,tool,VFP701,in process,908,VFP701,Lot236;Lot237;Lot238,,
+9102.879,tool,STG907,in process,907,STG907,Lot242,,1 lot
+9102.879,tool,STG907,in process,907,STG907,Lot243,,1 lot
+9102.879,tool,STG907,in process,907,STG907,Lot244,,1 lot
+9103.879,tool,STG907,process completed,907,STG907,Lot242,,
+9103.879,tool,STG907,process completed,907,STG907,Lot243,,
+9103.879,tool,STG907,process completed,907,STG907,Lot244,,
+9103.879,tool,VFP701,batch dispatched,908,VFP701,Lot242;Lot243;Lot244,,3 lots
+9444.002,tool,VFP702,process completed,908,VFP702,Lot233;Lot234;Lot235,,
+9444.002,tool,VFP702,in process,908,VFP702,Lot239;Lot240;Lot241,,
+9444.002,tool,STG907,in process,907,STG907,Lot245,,1 lot
+9444.002,tool,STG907,in process,907,STG907,Lot246,,1 lot
+9444.002,tool,STG907,in process,907,STG907,Lot247,,1 lot
+9445.002,tool,STG907,process completed,907,STG907,Lot245,,
+9445.002,tool,STG907,process completed,907,STG907,Lot246,,
+9445.002,tool,STG907,process completed,907,STG907,Lot247,,
+9445.002,tool,VFP702,batch dispatched,908,VFP702,Lot245;Lot246;Lot247,,3 lots
+9462.879,tool,VFP701,process completed,908,VFP701,Lot236;Lot237;Lot238,,
+9462.879,tool,VFP701,in process,908,VFP701,Lot242;Lot243;Lot244,,
+9462.879,tool,STG907,in process,907,STG907,Lot248,,1 lot
+9462.879,tool,STG907,in process,907,STG907,Lot249,,1 lot
+9462.879,tool,STG907,in process,907,STG907,Lot250,,1 lot
+9463.879,tool,STG907,process completed,907,STG907,Lot248,,
+9463.879,tool,STG907,process completed,907,STG907,Lot249,,
+9463.879,tool,STG907,process completed,907,STG907,Lot250,,
+9463.879,tool,VFP701,batch dispatched,908,VFP701,Lot248;Lot249;Lot250,,3 lots
+9804.002,tool,VFP702,process completed,908,VFP702,Lot239;Lot240;Lot241,,
+9804.002,tool,VFP702,in process,908,VFP702,Lot245;Lot246;Lot247,,
+9804.002,tool,STG907,in process,907,STG907,Lot251,,1 lot
+9804.002,tool,STG907,in process,907,STG907,Lot252,,1 lot
+9804.002,tool,STG907,in process,907,STG907,Lot253,,1 lot
+9805.002,tool,STG907,process completed,907,STG907,Lot251,,
+9805.002,tool,STG907,process completed,907,STG907,Lot252,,
+9805.002,tool,STG907,process completed,907,STG907,Lot253,,
+9805.002,tool,VFP702,batch dispatched,908,VFP702,Lot251;Lot252;Lot253,,3 lots
+9822.879,tool,VFP701,process completed,908,VFP701,Lot242;Lot243;Lot244,,
+9822.879,tool,VFP701,in process,908,VFP701,Lot248;Lot249;Lot250,,
+9822.879,tool,STG907,in process,907,STG907,Lot254,,1 lot
+9822.879,tool,STG907,in process,907,STG907,Lot255,,1 lot
+9822.879,tool,STG907,in process,907,STG907,Lot256,,1 lot
+9823.879,tool,STG907,process completed,907,STG907,Lot254,,
+9823.879,tool,STG907,process completed,907,STG907,Lot255,,
+9823.879,tool,STG907,process completed,907,STG907,Lot256,,
+9823.879,tool,VFP701,batch dispatched,908,VFP701,Lot254;Lot255;Lot256,,3 lots
+10164.002,tool,VFP702,process completed,908,VFP702,Lot245;Lot246;Lot247,,
+10164.002,tool,VFP702,in process,908,VFP702,Lot251;Lot252;Lot253,,
+10164.002,tool,STG907,in process,907,STG907,Lot257,,1 lot
+10164.002,tool,STG907,in process,907,STG907,Lot258,,1 lot
+10164.002,tool,STG907,in process,907,STG907,Lot259,,1 lot
+10165.002,tool,STG907,process completed,907,STG907,Lot257,,
+10165.002,tool,STG907,process completed,907,STG907,Lot258,,
+10165.002,tool,STG907,process completed,907,STG907,Lot259,,
+10165.002,tool,VFP702,batch dispatched,908,VFP702,Lot257;Lot258;Lot259,,3 lots
+10182.879,tool,VFP701,process completed,908,VFP701,Lot248;Lot249;Lot250,,
+10182.879,tool,VFP701,in process,908,VFP701,Lot254;Lot255;Lot256,,
+10182.879,tool,STG907,in process,907,STG907,Lot260,,1 lot
+10182.879,tool,STG907,in process,907,STG907,Lot261,,1 lot
+10182.879,tool,STG907,in process,907,STG907,Lot262,,1 lot
+10183.879,tool,STG907,process completed,907,STG907,Lot260,,
+10183.879,tool,STG907,process completed,907,STG907,Lot261,,
+10183.879,tool,STG907,process completed,907,STG907,Lot262,,
+10183.879,tool,VFP701,batch dispatched,908,VFP701,Lot260;Lot261;Lot262,,3 lots
+10524.002,tool,VFP702,process completed,908,VFP702,Lot251;Lot252;Lot253,,
+10524.002,tool,VFP702,in process,908,VFP702,Lot257;Lot258;Lot259,,
+10524.002,tool,STG907,in process,907,STG907,Lot263,,1 lot
+10524.002,tool,STG907,in process,907,STG907,Lot264,,1 lot
+10524.002,tool,STG907,in process,907,STG907,Lot265,,1 lot
+10525.002,tool,STG907,process completed,907,STG907,Lot263,,
+10525.002,tool,STG907,process completed,907,STG907,Lot264,,
+10525.002,tool,STG907,process completed,907,STG907,Lot265,,
+10525.002,tool,VFP702,batch dispatched,908,VFP702,Lot263;Lot264;Lot265,,3 lots
+10542.879,tool,VFP701,process completed,908,VFP701,Lot254;Lot255;Lot256,,
+10542.879,tool,VFP701,in process,908,VFP701,Lot260;Lot261;Lot262,,
+10542.879,tool,STG907,in process,907,STG907,Lot266,,1 lot
+10542.879,tool,STG907,in process,907,STG907,Lot267,,1 lot
+10542.879,tool,STG907,in process,907,STG907,Lot268,,1 lot
+10543.879,tool,STG907,process completed,907,STG907,Lot266,,
+10543.879,tool,STG907,process completed,907,STG907,Lot267,,
+10543.879,tool,STG907,process completed,907,STG907,Lot268,,
+10543.879,tool,VFP701,batch dispatched,908,VFP701,Lot266;Lot267;Lot268,,3 lots
+10884.002,tool,VFP702,process completed,908,VFP702,Lot257;Lot258;Lot259,,
+10884.002,tool,VFP702,in process,908,VFP702,Lot263;Lot264;Lot265,,
+10884.002,tool,STG907,in process,907,STG907,Lot269,,1 lot
+10884.002,tool,STG907,in process,907,STG907,Lot270,,1 lot
+10884.002,tool,STG907,in process,907,STG907,Lot271,,1 lot
+10885.002,tool,STG907,process completed,907,STG907,Lot269,,
+10885.002,tool,STG907,process completed,907,STG907,Lot270,,
+10885.002,tool,STG907,process completed,907,STG907,Lot271,,
+10885.002,tool,VFP702,batch dispatched,908,VFP702,Lot269;Lot270;Lot271,,3 lots
+10902.879,tool,VFP701,process completed,908,VFP701,Lot260;Lot261;Lot262,,
+10902.879,tool,VFP701,in process,908,VFP701,Lot266;Lot267;Lot268,,
+10902.879,tool,STG907,in process,907,STG907,Lot272,,1 lot
+10902.879,tool,STG907,in process,907,STG907,Lot273,,1 lot
+10902.879,tool,STG907,in process,907,STG907,Lot274,,1 lot
+10903.879,tool,STG907,process completed,907,STG907,Lot272,,
+10903.879,tool,STG907,process completed,907,STG907,Lot273,,
+10903.879,tool,STG907,process completed,907,STG907,Lot274,,
+10903.879,tool,VFP701,batch dispatched,908,VFP701,Lot272;Lot273;Lot274,,3 lots
+11244.002,tool,VFP702,process completed,908,VFP702,Lot263;Lot264;Lot265,,
+11244.002,tool,VFP702,in process,908,VFP702,Lot269;Lot270;Lot271,,
+11244.002,tool,STG907,in process,907,STG907,Lot275,,1 lot
+11244.002,tool,STG907,in process,907,STG907,Lot276,,1 lot
+11244.002,tool,STG907,in process,907,STG907,Lot277,,1 lot
+11245.002,tool,STG907,process completed,907,STG907,Lot275,,
+11245.002,tool,STG907,process completed,907,STG907,Lot276,,
+11245.002,tool,STG907,process completed,907,STG907,Lot277,,
+11245.002,tool,VFP702,batch dispatched,908,VFP702,Lot275;Lot276;Lot277,,3 lots
+11262.879,tool,VFP701,process completed,908,VFP701,Lot266;Lot267;Lot268,,
+11262.879,tool,VFP701,in process,908,VFP701,Lot272;Lot273;Lot274,,
+11262.879,tool,STG907,in process,907,STG907,Lot278,,1 lot
+11262.879,tool,STG907,in process,907,STG907,Lot279,,1 lot
+11262.879,tool,STG907,in process,907,STG907,Lot280,,1 lot
+11263.879,tool,STG907,process completed,907,STG907,Lot278,,
+11263.879,tool,STG907,process completed,907,STG907,Lot279,,
+11263.879,tool,STG907,process completed,907,STG907,Lot280,,
+11263.879,tool,VFP701,batch dispatched,908,VFP701,Lot278;Lot279;Lot280,,3 lots
+11604.002,tool,VFP702,process completed,908,VFP702,Lot269;Lot270;Lot271,,
+11604.002,tool,VFP702,in process,908,VFP702,Lot275;Lot276;Lot277,,
+11604.002,tool,STG907,in process,907,STG907,Lot281,,1 lot
+11604.002,tool,STG907,in process,907,STG907,Lot282,,1 lot
+11604.002,tool,STG907,in process,907,STG907,Lot283,,1 lot
+11605.002,tool,STG907,process completed,907,STG907,Lot281,,
+11605.002,tool,STG907,process completed,907,STG907,Lot282,,
+11605.002,tool,STG907,process completed,907,STG907,Lot283,,
+11605.002,tool,VFP702,batch dispatched,908,VFP702,Lot281;Lot282;Lot283,,3 lots
+11622.879,tool,VFP701,process completed,908,VFP701,Lot272;Lot273;Lot274,,
+11622.879,tool,VFP701,in process,908,VFP701,Lot278;Lot279;Lot280,,
+11964.002,tool,VFP702,process completed,908,VFP702,Lot275;Lot276;Lot277,,
+11964.002,tool,VFP702,in process,908,VFP702,Lot281;Lot282;Lot283,,
+11964.002,tool,STG907,in process,907,STG907,Lot284,,1 lot
+11964.002,tool,STG907,in process,907,STG907,Lot285,,1 lot
+11964.002,tool,STG907,in process,907,STG907,Lot286,,1 lot
+11965.002,tool,STG907,process completed,907,STG907,Lot284,,
+11965.002,tool,STG907,process completed,907,STG907,Lot285,,
+11965.002,tool,STG907,process completed,907,STG907,Lot286,,
+11965.002,tool,VFP702,batch dispatched,908,VFP702,Lot284;Lot285;Lot286,,3 lots
+11982.879,tool,VFP701,process completed,908,VFP701,Lot278;Lot279;Lot280,,
+11982.879,tool,VFP701,PM started,,VFP701,,,trigger: run count
+12324.002,tool,VFP702,process completed,908,VFP702,Lot281;Lot282;Lot283,,
+12324.002,tool,VFP702,in process,908,VFP702,Lot284;Lot285;Lot286,,
+12324.002,tool,STG907,in process,907,STG907,Lot287,,1 lot
+12324.002,tool,STG907,in process,907,STG907,Lot288,,1 lot
+12324.002,tool,STG907,in process,907,STG907,Lot289,,1 lot
+12325.002,tool,STG907,process completed,907,STG907,Lot287,,
+12325.002,tool,STG907,process completed,907,STG907,Lot288,,
+12325.002,tool,STG907,process completed,907,STG907,Lot289,,
+12325.002,tool,VFP702,batch dispatched,908,VFP702,Lot287;Lot288;Lot289,,3 lots
+12462.879,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+12462.879,tool,STG907,in process,907,STG907,Lot290,,1 lot
+12462.879,tool,STG907,in process,907,STG907,Lot291,,1 lot
+12462.879,tool,STG907,in process,907,STG907,Lot292,,1 lot
+12462.879,tool,STG907,in process,907,STG907,Lot293,,1 lot
+12462.879,tool,STG907,in process,907,STG907,Lot294,,1 lot
+12462.879,tool,STG907,in process,907,STG907,Lot295,,1 lot
+12463.879,tool,STG907,process completed,907,STG907,Lot290,,
+12463.879,tool,STG907,process completed,907,STG907,Lot291,,
+12463.879,tool,STG907,process completed,907,STG907,Lot292,,
+12463.879,tool,STG907,process completed,907,STG907,Lot293,,
+12463.879,tool,STG907,process completed,907,STG907,Lot294,,
+12463.879,tool,STG907,process completed,907,STG907,Lot295,,
+12463.879,tool,VFP701,batch dispatched,908,VFP701,Lot290;Lot291;Lot292,,3 lots
+12463.879,tool,VFP701,in process,908,VFP701,Lot290;Lot291;Lot292,,
+12463.879,tool,VFP701,batch dispatched,908,VFP701,Lot293;Lot294;Lot295,,3 lots
+12684.002,tool,VFP702,process completed,908,VFP702,Lot284;Lot285;Lot286,,
+12684.002,tool,VFP702,in process,908,VFP702,Lot287;Lot288;Lot289,,
+12684.002,tool,STG907,in process,907,STG907,Lot296,,1 lot
+12684.002,tool,STG907,in process,907,STG907,Lot297,,1 lot
+12684.002,tool,STG907,in process,907,STG907,Lot298,,1 lot
+12685.002,tool,STG907,process completed,907,STG907,Lot296,,
+12685.002,tool,STG907,process completed,907,STG907,Lot297,,
+12685.002,tool,STG907,process completed,907,STG907,Lot298,,
+12685.002,tool,VFP702,batch dispatched,908,VFP702,Lot296;Lot297;Lot298,,3 lots
+12823.879,tool,VFP701,process completed,908,VFP701,Lot290;Lot291;Lot292,,
+12823.879,tool,VFP701,in process,908,VFP701,Lot293;Lot294;Lot295,,
+12823.879,tool,STG907,in process,907,STG907,Lot299,,1 lot
+12823.879,tool,STG907,in process,907,STG907,Lot300,,1 lot
+12823.879,tool,STG907,in process,907,STG907,Lot301,,1 lot
+12824.879,tool,STG907,process completed,907,STG907,Lot299,,
+12824.879,tool,STG907,process completed,907,STG907,Lot300,,
+12824.879,tool,STG907,process completed,907,STG907,Lot301,,
+12824.879,tool,VFP701,batch dispatched,908,VFP701,Lot299;Lot300;Lot301,,3 lots
+13044.002,tool,VFP702,process completed,908,VFP702,Lot287;Lot288;Lot289,,
+13044.002,tool,VFP702,in process,908,VFP702,Lot296;Lot297;Lot298,,
+13044.002,tool,STG907,in process,907,STG907,Lot302,,1 lot
+13044.002,tool,STG907,in process,907,STG907,Lot303,,1 lot
+13044.002,tool,STG907,in process,907,STG907,Lot304,,1 lot
+13045.002,tool,STG907,process completed,907,STG907,Lot302,,
+13045.002,tool,STG907,process completed,907,STG907,Lot303,,
+13045.002,tool,STG907,process completed,907,STG907,Lot304,,
+13045.002,tool,VFP702,batch dispatched,908,VFP702,Lot302;Lot303;Lot304,,3 lots
+13183.879,tool,VFP701,process completed,908,VFP701,Lot293;Lot294;Lot295,,
+13183.879,tool,VFP701,in process,908,VFP701,Lot299;Lot300;Lot301,,
+13183.879,tool,STG907,in process,907,STG907,Lot305,,1 lot
+13183.879,tool,STG907,in process,907,STG907,Lot306,,1 lot
+13183.879,tool,STG907,in process,907,STG907,Lot307,,1 lot
+13184.879,tool,STG907,process completed,907,STG907,Lot305,,
+13184.879,tool,STG907,process completed,907,STG907,Lot306,,
+13184.879,tool,STG907,process completed,907,STG907,Lot307,,
+13184.879,tool,VFP701,batch dispatched,908,VFP701,Lot305;Lot306;Lot307,,3 lots
+13404.002,tool,VFP702,process completed,908,VFP702,Lot296;Lot297;Lot298,,
+13404.002,tool,VFP702,in process,908,VFP702,Lot302;Lot303;Lot304,,
+13404.002,tool,STG907,in process,907,STG907,Lot308,,1 lot
+13404.002,tool,STG907,in process,907,STG907,Lot309,,1 lot
+13404.002,tool,STG907,in process,907,STG907,Lot310,,1 lot
+13405.002,tool,STG907,process completed,907,STG907,Lot308,,
+13405.002,tool,STG907,process completed,907,STG907,Lot309,,
+13405.002,tool,STG907,process completed,907,STG907,Lot310,,
+13405.002,tool,VFP702,batch dispatched,908,VFP702,Lot308;Lot309;Lot310,,3 lots
+13543.879,tool,VFP701,process completed,908,VFP701,Lot299;Lot300;Lot301,,
+13543.879,tool,VFP701,in process,908,VFP701,Lot305;Lot306;Lot307,,
+13543.879,tool,STG907,in process,907,STG907,Lot311,,1 lot
+13543.879,tool,STG907,in process,907,STG907,Lot312,,1 lot
+13543.879,tool,STG907,in process,907,STG907,Lot313,,1 lot
+13544.879,tool,STG907,process completed,907,STG907,Lot311,,
+13544.879,tool,STG907,process completed,907,STG907,Lot312,,
+13544.879,tool,STG907,process completed,907,STG907,Lot313,,
+13544.879,tool,VFP701,batch dispatched,908,VFP701,Lot311;Lot312;Lot313,,3 lots
+13764.002,tool,VFP702,process completed,908,VFP702,Lot302;Lot303;Lot304,,
+13764.002,tool,VFP702,in process,908,VFP702,Lot308;Lot309;Lot310,,
+13764.002,tool,STG907,in process,907,STG907,Lot314,,1 lot
+13764.002,tool,STG907,in process,907,STG907,Lot315,,1 lot
+13764.002,tool,STG907,in process,907,STG907,Lot316,,1 lot
+13765.002,tool,STG907,process completed,907,STG907,Lot314,,
+13765.002,tool,STG907,process completed,907,STG907,Lot315,,
+13765.002,tool,STG907,process completed,907,STG907,Lot316,,
+13765.002,tool,VFP702,batch dispatched,908,VFP702,Lot314;Lot315;Lot316,,3 lots
+13903.879,tool,VFP701,process completed,908,VFP701,Lot305;Lot306;Lot307,,
+13903.879,tool,VFP701,in process,908,VFP701,Lot311;Lot312;Lot313,,
+13908.92,tool,STG907,in process,907,STG907,Lot317,,1 lot
+13908.92,tool,STG907,in process,907,STG907,Lot318,,1 lot
+13908.92,tool,STG907,in process,907,STG907,Lot319,,1 lot
+13909.92,tool,STG907,process completed,907,STG907,Lot317,,
+13909.92,tool,STG907,process completed,907,STG907,Lot318,,
+13909.92,tool,STG907,process completed,907,STG907,Lot319,,
+13909.92,tool,VFP701,batch dispatched,908,VFP701,Lot317;Lot318;Lot319,,3 lots
+14124.002,tool,VFP702,process completed,908,VFP702,Lot308;Lot309;Lot310,,
+14124.002,tool,VFP702,in process,908,VFP702,Lot314;Lot315;Lot316,,
+14124.002,tool,STG907,in process,907,STG907,Lot320,,1 lot
+14124.002,tool,STG907,in process,907,STG907,Lot321,,1 lot
+14124.002,tool,STG907,in process,907,STG907,Lot322,,1 lot
+14125.002,tool,STG907,process completed,907,STG907,Lot320,,
+14125.002,tool,STG907,process completed,907,STG907,Lot321,,
+14125.002,tool,STG907,process completed,907,STG907,Lot322,,
+14125.002,tool,VFP702,batch dispatched,908,VFP702,Lot320;Lot321;Lot322,,3 lots
+14263.879,tool,VFP701,process completed,908,VFP701,Lot311;Lot312;Lot313,,
+14263.879,tool,VFP701,in process,908,VFP701,Lot317;Lot318;Lot319,,
+14278.675,tool,STG907,in process,907,STG907,Lot323,,1 lot
+14278.675,tool,STG907,in process,907,STG907,Lot324,,1 lot
+14278.675,tool,STG907,in process,907,STG907,Lot325,,1 lot
+14279.675,tool,STG907,process completed,907,STG907,Lot323,,
+14279.675,tool,STG907,process completed,907,STG907,Lot324,,
+14279.675,tool,STG907,process completed,907,STG907,Lot325,,
+14279.675,tool,VFP701,batch dispatched,908,VFP701,Lot323;Lot324;Lot325,,3 lots
+14484.002,tool,VFP702,process completed,908,VFP702,Lot314;Lot315;Lot316,,
+14484.002,tool,VFP702,in process,908,VFP702,Lot320;Lot321;Lot322,,
+14489.146,tool,STG907,in process,907,STG907,Lot326,,1 lot
+14489.146,tool,STG907,in process,907,STG907,Lot327,,1 lot
+14489.146,tool,STG907,in process,907,STG907,Lot328,,1 lot
+14490.146,tool,STG907,process completed,907,STG907,Lot326,,
+14490.146,tool,STG907,process completed,907,STG907,Lot327,,
+14490.146,tool,STG907,process completed,907,STG907,Lot328,,
+14490.146,tool,VFP702,batch dispatched,908,VFP702,Lot326;Lot327;Lot328,,3 lots
+14623.879,tool,VFP701,process completed,908,VFP701,Lot317;Lot318;Lot319,,
+14623.879,tool,VFP701,in process,908,VFP701,Lot323;Lot324;Lot325,,
+14671.157,tool,STG907,in process,907,STG907,Lot329,,1 lot
+14671.157,tool,STG907,in process,907,STG907,Lot330,,1 lot
+14671.157,tool,STG907,in process,907,STG907,Lot331,,1 lot
+14672.157,tool,STG907,process completed,907,STG907,Lot329,,
+14672.157,tool,STG907,process completed,907,STG907,Lot330,,
+14672.157,tool,STG907,process completed,907,STG907,Lot331,,
+14672.157,tool,VFP701,batch dispatched,908,VFP701,Lot329;Lot330;Lot331,,3 lots
+14844.002,tool,VFP702,process completed,908,VFP702,Lot320;Lot321;Lot322,,
+14844.002,tool,VFP702,in process,908,VFP702,Lot326;Lot327;Lot328,,
+14983.879,tool,VFP701,process completed,908,VFP701,Lot323;Lot324;Lot325,,
+14983.879,tool,VFP701,in process,908,VFP701,Lot329;Lot330;Lot331,,
+15076.637,tool,STG907,in process,907,STG907,Lot332,,1 lot
+15076.637,tool,STG907,in process,907,STG907,Lot333,,1 lot
+15076.637,tool,STG907,in process,907,STG907,Lot334,,1 lot
+15077.637,tool,STG907,process completed,907,STG907,Lot332,,
+15077.637,tool,STG907,process completed,907,STG907,Lot333,,
+15077.637,tool,STG907,process completed,907,STG907,Lot334,,
+15077.637,tool,VFP702,batch dispatched,908,VFP702,Lot332;Lot333;Lot334,,3 lots
+15145.8,tool,STG907,in process,907,STG907,Lot335,,1 lot
+15145.8,tool,STG907,in process,907,STG907,Lot336,,1 lot
+15145.8,tool,STG907,in process,907,STG907,Lot337,,1 lot
+15146.8,tool,STG907,process completed,907,STG907,Lot335,,
+15146.8,tool,STG907,process completed,907,STG907,Lot336,,
+15146.8,tool,STG907,process completed,907,STG907,Lot337,,
+15146.8,tool,VFP701,batch dispatched,908,VFP701,Lot335;Lot336;Lot337,,3 lots
+15204.002,tool,VFP702,process completed,908,VFP702,Lot326;Lot327;Lot328,,
+15204.002,tool,VFP702,in process,908,VFP702,Lot332;Lot333;Lot334,,
+15343.879,tool,VFP701,process completed,908,VFP701,Lot329;Lot330;Lot331,,
+15343.879,tool,VFP701,in process,908,VFP701,Lot335;Lot336;Lot337,,
+15343.879,tool,STG907,in process,907,STG907,Lot338,,1 lot
+15343.879,tool,STG907,in process,907,STG907,Lot339,,1 lot
+15343.879,tool,STG907,in process,907,STG907,Lot340,,1 lot
+15344.879,tool,STG907,process completed,907,STG907,Lot338,,
+15344.879,tool,STG907,process completed,907,STG907,Lot339,,
+15344.879,tool,STG907,process completed,907,STG907,Lot340,,
+15344.879,tool,VFP701,batch dispatched,908,VFP701,Lot338;Lot339;Lot340,,3 lots
+15564.002,tool,VFP702,process completed,908,VFP702,Lot332;Lot333;Lot334,,
+15564.002,tool,VFP702,PM started,,VFP702,,,trigger: run count
+15703.879,tool,VFP701,process completed,908,VFP701,Lot335;Lot336;Lot337,,
+15703.879,tool,VFP701,in process,908,VFP701,Lot338;Lot339;Lot340,,
+15703.879,tool,STG907,in process,907,STG907,Lot341,,1 lot
+15703.879,tool,STG907,in process,907,STG907,Lot342,,1 lot
+15703.879,tool,STG907,in process,907,STG907,Lot343,,1 lot
+15704.879,tool,STG907,process completed,907,STG907,Lot341,,
+15704.879,tool,STG907,process completed,907,STG907,Lot342,,
+15704.879,tool,STG907,process completed,907,STG907,Lot343,,
+15704.879,tool,VFP701,batch dispatched,908,VFP701,Lot341;Lot342;Lot343,,3 lots
+16044.002,tool,VFP702,PM completed,,VFP702,,,trigger: run count
+16044.002,tool,STG907,in process,907,STG907,Lot344,,1 lot
+16044.002,tool,STG907,in process,907,STG907,Lot345,,1 lot
+16044.002,tool,STG907,in process,907,STG907,Lot346,,1 lot
+16044.002,tool,STG907,in process,907,STG907,Lot347,,1 lot
+16044.002,tool,STG907,in process,907,STG907,Lot348,,1 lot
+16044.002,tool,STG907,in process,907,STG907,Lot349,,1 lot
+16045.002,tool,STG907,process completed,907,STG907,Lot344,,
+16045.002,tool,STG907,process completed,907,STG907,Lot345,,
+16045.002,tool,STG907,process completed,907,STG907,Lot346,,
+16045.002,tool,STG907,process completed,907,STG907,Lot347,,
+16045.002,tool,STG907,process completed,907,STG907,Lot348,,
+16045.002,tool,STG907,process completed,907,STG907,Lot349,,
+16045.002,tool,VFP702,batch dispatched,908,VFP702,Lot344;Lot345;Lot346,,3 lots
+16045.002,tool,VFP702,in process,908,VFP702,Lot344;Lot345;Lot346,,
+16045.002,tool,VFP702,batch dispatched,908,VFP702,Lot347;Lot348;Lot349,,3 lots
+16063.879,tool,VFP701,process completed,908,VFP701,Lot338;Lot339;Lot340,,
+16063.879,tool,VFP701,in process,908,VFP701,Lot341;Lot342;Lot343,,
+16063.879,tool,STG907,in process,907,STG907,Lot350,,1 lot
+16063.879,tool,STG907,in process,907,STG907,Lot351,,1 lot
+16063.879,tool,STG907,in process,907,STG907,Lot352,,1 lot
+16064.879,tool,STG907,process completed,907,STG907,Lot350,,
+16064.879,tool,STG907,process completed,907,STG907,Lot351,,
+16064.879,tool,STG907,process completed,907,STG907,Lot352,,
+16064.879,tool,VFP701,batch dispatched,908,VFP701,Lot350;Lot351;Lot352,,3 lots
+16405.002,tool,VFP702,process completed,908,VFP702,Lot344;Lot345;Lot346,,
+16405.002,tool,VFP702,in process,908,VFP702,Lot347;Lot348;Lot349,,
+16405.002,tool,STG907,in process,907,STG907,Lot353,,1 lot
+16405.002,tool,STG907,in process,907,STG907,Lot354,,1 lot
+16405.002,tool,STG907,in process,907,STG907,Lot355,,1 lot
+16406.002,tool,STG907,process completed,907,STG907,Lot353,,
+16406.002,tool,STG907,process completed,907,STG907,Lot354,,
+16406.002,tool,STG907,process completed,907,STG907,Lot355,,
+16406.002,tool,VFP702,batch dispatched,908,VFP702,Lot353;Lot354;Lot355,,3 lots
+16423.879,tool,VFP701,process completed,908,VFP701,Lot341;Lot342;Lot343,,
+16423.879,tool,VFP701,in process,908,VFP701,Lot350;Lot351;Lot352,,
+16467.804,tool,STG907,in process,907,STG907,Lot356,,1 lot
+16467.804,tool,STG907,in process,907,STG907,Lot357,,1 lot
+16467.804,tool,STG907,in process,907,STG907,Lot358,,1 lot
+16468.804,tool,STG907,process completed,907,STG907,Lot356,,
+16468.804,tool,STG907,process completed,907,STG907,Lot357,,
+16468.804,tool,STG907,process completed,907,STG907,Lot358,,
+16468.804,tool,VFP701,batch dispatched,908,VFP701,Lot356;Lot357;Lot358,,3 lots
+16765.002,tool,VFP702,process completed,908,VFP702,Lot347;Lot348;Lot349,,
+16765.002,tool,VFP702,in process,908,VFP702,Lot353;Lot354;Lot355,,
+16765.002,tool,STG907,in process,907,STG907,Lot359,,1 lot
+16765.002,tool,STG907,in process,907,STG907,Lot360,,1 lot
+16765.002,tool,STG907,in process,907,STG907,Lot361,,1 lot
+16766.002,tool,STG907,process completed,907,STG907,Lot359,,
+16766.002,tool,STG907,process completed,907,STG907,Lot360,,
+16766.002,tool,STG907,process completed,907,STG907,Lot361,,
+16766.002,tool,VFP702,batch dispatched,908,VFP702,Lot359;Lot360;Lot361,,3 lots
+16783.879,tool,VFP701,process completed,908,VFP701,Lot350;Lot351;Lot352,,
+16783.879,tool,VFP701,in process,908,VFP701,Lot356;Lot357;Lot358,,
+16783.879,tool,STG907,in process,907,STG907,Lot362,,1 lot
+16783.879,tool,STG907,in process,907,STG907,Lot363,,1 lot
+16783.879,tool,STG907,in process,907,STG907,Lot364,,1 lot
+16784.879,tool,STG907,process completed,907,STG907,Lot362,,
+16784.879,tool,STG907,process completed,907,STG907,Lot363,,
+16784.879,tool,STG907,process completed,907,STG907,Lot364,,
+16784.879,tool,VFP701,batch dispatched,908,VFP701,Lot362;Lot363;Lot364,,3 lots
+17125.002,tool,VFP702,process completed,908,VFP702,Lot353;Lot354;Lot355,,
+17125.002,tool,VFP702,in process,908,VFP702,Lot359;Lot360;Lot361,,
+17125.002,tool,STG907,in process,907,STG907,Lot365,,1 lot
+17125.002,tool,STG907,in process,907,STG907,Lot366,,1 lot
+17125.002,tool,STG907,in process,907,STG907,Lot367,,1 lot
+17126.002,tool,STG907,process completed,907,STG907,Lot365,,
+17126.002,tool,STG907,process completed,907,STG907,Lot366,,
+17126.002,tool,STG907,process completed,907,STG907,Lot367,,
+17126.002,tool,VFP702,batch dispatched,908,VFP702,Lot365;Lot366;Lot367,,3 lots
+17143.879,tool,VFP701,process completed,908,VFP701,Lot356;Lot357;Lot358,,
+17143.879,tool,VFP701,in process,908,VFP701,Lot362;Lot363;Lot364,,
+17170.394,tool,STG907,in process,907,STG907,Lot368,,1 lot
+17170.394,tool,STG907,in process,907,STG907,Lot369,,1 lot
+17170.394,tool,STG907,in process,907,STG907,Lot370,,1 lot
+17171.394,tool,STG907,process completed,907,STG907,Lot368,,
+17171.394,tool,STG907,process completed,907,STG907,Lot369,,
+17171.394,tool,STG907,process completed,907,STG907,Lot370,,
+17171.394,tool,VFP701,batch dispatched,908,VFP701,Lot368;Lot369;Lot370,,3 lots
+17485.002,tool,VFP702,process completed,908,VFP702,Lot359;Lot360;Lot361,,
+17485.002,tool,VFP702,in process,908,VFP702,Lot365;Lot366;Lot367,,
+17485.002,tool,STG907,in process,907,STG907,Lot371,,1 lot
+17485.002,tool,STG907,in process,907,STG907,Lot372,,1 lot
+17485.002,tool,STG907,in process,907,STG907,Lot373,,1 lot
+17486.002,tool,STG907,process completed,907,STG907,Lot371,,
+17486.002,tool,STG907,process completed,907,STG907,Lot372,,
+17486.002,tool,STG907,process completed,907,STG907,Lot373,,
+17486.002,tool,VFP702,batch dispatched,908,VFP702,Lot371;Lot372;Lot373,,3 lots
+17503.879,tool,VFP701,process completed,908,VFP701,Lot362;Lot363;Lot364,,
+17503.879,tool,VFP701,in process,908,VFP701,Lot368;Lot369;Lot370,,
+17845.002,tool,VFP702,process completed,908,VFP702,Lot365;Lot366;Lot367,,
+17845.002,tool,VFP702,in process,908,VFP702,Lot371;Lot372;Lot373,,
+17845.002,tool,STG907,in process,907,STG907,Lot374,,1 lot
+17845.002,tool,STG907,in process,907,STG907,Lot375,,1 lot
+17845.002,tool,STG907,in process,907,STG907,Lot376,,1 lot
+17846.002,tool,STG907,process completed,907,STG907,Lot374,,
+17846.002,tool,STG907,process completed,907,STG907,Lot375,,
+17846.002,tool,STG907,process completed,907,STG907,Lot376,,
+17846.002,tool,VFP702,batch dispatched,908,VFP702,Lot374;Lot375;Lot376,,3 lots
+17863.879,tool,VFP701,process completed,908,VFP701,Lot368;Lot369;Lot370,,
+17863.879,tool,VFP701,PM started,,VFP701,,,trigger: run count
+18205.002,tool,VFP702,process completed,908,VFP702,Lot371;Lot372;Lot373,,
+18205.002,tool,VFP702,in process,908,VFP702,Lot374;Lot375;Lot376,,
+18205.002,tool,STG907,in process,907,STG907,Lot377,,1 lot
+18205.002,tool,STG907,in process,907,STG907,Lot378,,1 lot
+18205.002,tool,STG907,in process,907,STG907,Lot379,,1 lot
+18206.002,tool,STG907,process completed,907,STG907,Lot377,,
+18206.002,tool,STG907,process completed,907,STG907,Lot378,,
+18206.002,tool,STG907,process completed,907,STG907,Lot379,,
+18206.002,tool,VFP702,batch dispatched,908,VFP702,Lot377;Lot378;Lot379,,3 lots
+18343.879,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+18343.879,tool,STG907,in process,907,STG907,Lot380,,1 lot
+18343.879,tool,STG907,in process,907,STG907,Lot381,,1 lot
+18343.879,tool,STG907,in process,907,STG907,Lot382,,1 lot
+18343.879,tool,STG907,in process,907,STG907,Lot383,,1 lot
+18343.879,tool,STG907,in process,907,STG907,Lot384,,1 lot
+18343.879,tool,STG907,in process,907,STG907,Lot385,,1 lot
+18344.879,tool,STG907,process completed,907,STG907,Lot380,,
+18344.879,tool,STG907,process completed,907,STG907,Lot381,,
+18344.879,tool,STG907,process completed,907,STG907,Lot382,,
+18344.879,tool,STG907,process completed,907,STG907,Lot383,,
+18344.879,tool,STG907,process completed,907,STG907,Lot384,,
+18344.879,tool,STG907,process completed,907,STG907,Lot385,,
+18344.879,tool,VFP701,batch dispatched,908,VFP701,Lot380;Lot381;Lot382,,3 lots
+18344.879,tool,VFP701,in process,908,VFP701,Lot380;Lot381;Lot382,,
+18344.879,tool,VFP701,batch dispatched,908,VFP701,Lot383;Lot384;Lot385,,3 lots
+18565.002,tool,VFP702,process completed,908,VFP702,Lot374;Lot375;Lot376,,
+18565.002,tool,VFP702,in process,908,VFP702,Lot377;Lot378;Lot379,,
+18565.002,tool,STG907,in process,907,STG907,Lot386,,1 lot
+18565.002,tool,STG907,in process,907,STG907,Lot387,,1 lot
+18565.002,tool,STG907,in process,907,STG907,Lot388,,1 lot
+18566.002,tool,STG907,process completed,907,STG907,Lot386,,
+18566.002,tool,STG907,process completed,907,STG907,Lot387,,
+18566.002,tool,STG907,process completed,907,STG907,Lot388,,
+18566.002,tool,VFP702,batch dispatched,908,VFP702,Lot386;Lot387;Lot388,,3 lots
+18704.879,tool,VFP701,process completed,908,VFP701,Lot380;Lot381;Lot382,,
+18704.879,tool,VFP701,in process,908,VFP701,Lot383;Lot384;Lot385,,
+18925.002,tool,VFP702,process completed,908,VFP702,Lot377;Lot378;Lot379,,
+18925.002,tool,VFP702,in process,908,VFP702,Lot386;Lot387;Lot388,,
+18951.357,tool,STG907,in process,907,STG907,Lot389,,1 lot
+18951.357,tool,STG907,in process,907,STG907,Lot390,,1 lot
+18951.357,tool,STG907,in process,907,STG907,Lot391,,1 lot
+18952.357,tool,STG907,process completed,907,STG907,Lot389,,
+18952.357,tool,STG907,process completed,907,STG907,Lot390,,
+18952.357,tool,STG907,process completed,907,STG907,Lot391,,
+18952.357,tool,VFP701,batch dispatched,908,VFP701,Lot389;Lot390;Lot391,,3 lots
+19037.902,tool,STG907,in process,907,STG907,Lot392,,1 lot
+19037.902,tool,STG907,in process,907,STG907,Lot393,,1 lot
+19037.902,tool,STG907,in process,907,STG907,Lot394,,1 lot
+19038.902,tool,STG907,process completed,907,STG907,Lot392,,
+19038.902,tool,STG907,process completed,907,STG907,Lot393,,
+19038.902,tool,STG907,process completed,907,STG907,Lot394,,
+19038.902,tool,VFP702,batch dispatched,908,VFP702,Lot392;Lot393;Lot394,,3 lots
+19064.879,tool,VFP701,process completed,908,VFP701,Lot383;Lot384;Lot385,,
+19064.879,tool,VFP701,in process,908,VFP701,Lot389;Lot390;Lot391,,
+19285.002,tool,VFP702,process completed,908,VFP702,Lot386;Lot387;Lot388,,
+19285.002,tool,VFP702,in process,908,VFP702,Lot392;Lot393;Lot394,,
+19421.329,tool,STG907,in process,907,STG907,Lot395,,1 lot
+19421.329,tool,STG907,in process,907,STG907,Lot396,,1 lot
+19421.329,tool,STG907,in process,907,STG907,Lot397,,1 lot
+19422.329,tool,STG907,process completed,907,STG907,Lot395,,
+19422.329,tool,STG907,process completed,907,STG907,Lot396,,
+19422.329,tool,STG907,process completed,907,STG907,Lot397,,
+19422.329,tool,VFP701,batch dispatched,908,VFP701,Lot395;Lot396;Lot397,,3 lots
+19424.879,tool,VFP701,process completed,908,VFP701,Lot389;Lot390;Lot391,,
+19424.879,tool,VFP701,in process,908,VFP701,Lot395;Lot396;Lot397,,
+19562.98,tool,STG907,in process,907,STG907,Lot398,,1 lot
+19562.98,tool,STG907,in process,907,STG907,Lot399,,1 lot
+19562.98,tool,STG907,in process,907,STG907,Lot400,,1 lot
+19563.98,tool,STG907,process completed,907,STG907,Lot398,,
+19563.98,tool,STG907,process completed,907,STG907,Lot399,,
+19563.98,tool,STG907,process completed,907,STG907,Lot400,,
+19563.98,tool,VFP702,batch dispatched,908,VFP702,Lot398;Lot399;Lot400,,3 lots
+19611.084,tool,STG907,in process,907,STG907,Lot401,,1 lot
+19611.084,tool,STG907,in process,907,STG907,Lot402,,1 lot
+19611.084,tool,STG907,in process,907,STG907,Lot403,,1 lot
+19612.084,tool,STG907,process completed,907,STG907,Lot401,,
+19612.084,tool,STG907,process completed,907,STG907,Lot402,,
+19612.084,tool,STG907,process completed,907,STG907,Lot403,,
+19612.084,tool,VFP701,batch dispatched,908,VFP701,Lot401;Lot402;Lot403,,3 lots
+19645.002,tool,VFP702,process completed,908,VFP702,Lot392;Lot393;Lot394,,
+19645.002,tool,VFP702,in process,908,VFP702,Lot398;Lot399;Lot400,,
+19784.879,tool,VFP701,process completed,908,VFP701,Lot395;Lot396;Lot397,,
+19784.879,tool,VFP701,in process,908,VFP701,Lot401;Lot402;Lot403,,
+19939.704,tool,STG907,in process,907,STG907,Lot404,,1 lot
+19939.704,tool,STG907,in process,907,STG907,Lot405,,1 lot
+19939.704,tool,STG907,in process,907,STG907,Lot406,,1 lot
+19940.704,tool,STG907,process completed,907,STG907,Lot404,,
+19940.704,tool,STG907,process completed,907,STG907,Lot405,,
+19940.704,tool,STG907,process completed,907,STG907,Lot406,,
+19940.704,tool,VFP702,batch dispatched,908,VFP702,Lot404;Lot405;Lot406,,3 lots
+20005.002,tool,VFP702,process completed,908,VFP702,Lot398;Lot399;Lot400,,
+20005.002,tool,VFP702,in process,908,VFP702,Lot404;Lot405;Lot406,,
+20144.879,tool,VFP701,process completed,908,VFP701,Lot401;Lot402;Lot403,,
+20261.258,tool,STG907,in process,907,STG907,Lot407,,1 lot
+20261.258,tool,STG907,in process,907,STG907,Lot408,,1 lot
+20261.258,tool,STG907,in process,907,STG907,Lot409,,1 lot
+20262.258,tool,STG907,process completed,907,STG907,Lot407,,
+20262.258,tool,STG907,process completed,907,STG907,Lot408,,
+20262.258,tool,STG907,process completed,907,STG907,Lot409,,
+20262.258,tool,VFP701,batch dispatched,908,VFP701,Lot407;Lot408;Lot409,,3 lots
+20262.258,tool,VFP701,in process,908,VFP701,Lot407;Lot408;Lot409,,
+20343.591,tool,STG907,in process,907,STG907,Lot410,,1 lot
+20343.591,tool,STG907,in process,907,STG907,Lot411,,1 lot
+20343.591,tool,STG907,in process,907,STG907,Lot412,,1 lot
+20344.591,tool,STG907,process completed,907,STG907,Lot410,,
+20344.591,tool,STG907,process completed,907,STG907,Lot411,,
+20344.591,tool,STG907,process completed,907,STG907,Lot412,,
+20344.591,tool,VFP702,batch dispatched,908,VFP702,Lot410;Lot411;Lot412,,3 lots
+20365.002,tool,VFP702,process completed,908,VFP702,Lot404;Lot405;Lot406,,
+20365.002,tool,VFP702,in process,908,VFP702,Lot410;Lot411;Lot412,,
+20622.258,tool,VFP701,process completed,908,VFP701,Lot407;Lot408;Lot409,,
+20638.05,tool,STG907,in process,907,STG907,Lot413,,1 lot
+20638.05,tool,STG907,in process,907,STG907,Lot414,,1 lot
+20638.05,tool,STG907,in process,907,STG907,Lot415,,1 lot
+20639.05,tool,STG907,process completed,907,STG907,Lot413,,
+20639.05,tool,STG907,process completed,907,STG907,Lot414,,
+20639.05,tool,STG907,process completed,907,STG907,Lot415,,
+20639.05,tool,VFP701,batch dispatched,908,VFP701,Lot413;Lot414;Lot415,,3 lots
+20639.05,tool,VFP701,in process,908,VFP701,Lot413;Lot414;Lot415,,
+20725.002,tool,VFP702,process completed,908,VFP702,Lot410;Lot411;Lot412,,
+20739.729,tool,STG907,in process,907,STG907,Lot416,,1 lot
+20739.729,tool,STG907,in process,907,STG907,Lot417,,1 lot
+20739.729,tool,STG907,in process,907,STG907,Lot418,,1 lot
+20740.729,tool,STG907,process completed,907,STG907,Lot416,,
+20740.729,tool,STG907,process completed,907,STG907,Lot417,,
+20740.729,tool,STG907,process completed,907,STG907,Lot418,,
+20740.729,tool,VFP702,batch dispatched,908,VFP702,Lot416;Lot417;Lot418,,3 lots
+20740.729,tool,VFP702,in process,908,VFP702,Lot416;Lot417;Lot418,,
+20874.075,tool,STG907,in process,907,STG907,Lot419,,1 lot
+20874.075,tool,STG907,in process,907,STG907,Lot420,,1 lot
+20874.075,tool,STG907,in process,907,STG907,Lot421,,1 lot
+20875.075,tool,STG907,process completed,907,STG907,Lot419,,
+20875.075,tool,STG907,process completed,907,STG907,Lot420,,
+20875.075,tool,STG907,process completed,907,STG907,Lot421,,
+20875.075,tool,VFP701,batch dispatched,908,VFP701,Lot419;Lot420;Lot421,,3 lots
+20898.624,tool,STG907,in process,907,STG907,Lot422,,1 lot
+20898.624,tool,STG907,in process,907,STG907,Lot423,,1 lot
+20898.624,tool,STG907,in process,907,STG907,Lot424,,1 lot
+20899.624,tool,STG907,process completed,907,STG907,Lot422,,
+20899.624,tool,STG907,process completed,907,STG907,Lot423,,
+20899.624,tool,STG907,process completed,907,STG907,Lot424,,
+20899.624,tool,VFP702,batch dispatched,908,VFP702,Lot422;Lot423;Lot424,,3 lots
+20999.05,tool,VFP701,process completed,908,VFP701,Lot413;Lot414;Lot415,,
+20999.05,tool,VFP701,in process,908,VFP701,Lot419;Lot420;Lot421,,
+20999.05,tool,STG907,in process,907,STG907,Lot425,,1 lot
+20999.05,tool,STG907,in process,907,STG907,Lot426,,1 lot
+20999.05,tool,STG907,in process,907,STG907,Lot427,,1 lot
+21000.05,tool,STG907,process completed,907,STG907,Lot425,,
+21000.05,tool,STG907,process completed,907,STG907,Lot426,,
+21000.05,tool,STG907,process completed,907,STG907,Lot427,,
+21000.05,tool,VFP701,batch dispatched,908,VFP701,Lot425;Lot426;Lot427,,3 lots
+21100.729,tool,VFP702,process completed,908,VFP702,Lot416;Lot417;Lot418,,
+21100.729,tool,VFP702,in process,908,VFP702,Lot422;Lot423;Lot424,,
+21152.359,tool,STG907,in process,907,STG907,Lot428,,1 lot
+21152.359,tool,STG907,in process,907,STG907,Lot429,,1 lot
+21152.359,tool,STG907,in process,907,STG907,Lot430,,1 lot
+21153.359,tool,STG907,process completed,907,STG907,Lot428,,
+21153.359,tool,STG907,process completed,907,STG907,Lot429,,
+21153.359,tool,STG907,process completed,907,STG907,Lot430,,
+21153.359,tool,VFP702,batch dispatched,908,VFP702,Lot428;Lot429;Lot430,,3 lots
+21359.05,tool,VFP701,process completed,908,VFP701,Lot419;Lot420;Lot421,,
+21359.05,tool,VFP701,in process,908,VFP701,Lot425;Lot426;Lot427,,
+21359.05,tool,STG907,in process,907,STG907,Lot431,,1 lot
+21359.05,tool,STG907,in process,907,STG907,Lot432,,1 lot
+21359.05,tool,STG907,in process,907,STG907,Lot433,,1 lot
+21360.05,tool,STG907,process completed,907,STG907,Lot431,,
+21360.05,tool,STG907,process completed,907,STG907,Lot432,,
+21360.05,tool,STG907,process completed,907,STG907,Lot433,,
+21360.05,tool,VFP701,batch dispatched,908,VFP701,Lot431;Lot432;Lot433,,3 lots
+21460.729,tool,VFP702,process completed,908,VFP702,Lot422;Lot423;Lot424,,
+21460.729,tool,VFP702,in process,908,VFP702,Lot428;Lot429;Lot430,,
+21492.286,tool,STG907,in process,907,STG907,Lot434,,1 lot
+21492.286,tool,STG907,in process,907,STG907,Lot435,,1 lot
+21492.286,tool,STG907,in process,907,STG907,Lot436,,1 lot
+21493.286,tool,STG907,process completed,907,STG907,Lot434,,
+21493.286,tool,STG907,process completed,907,STG907,Lot435,,
+21493.286,tool,STG907,process completed,907,STG907,Lot436,,
+21493.286,tool,VFP702,batch dispatched,908,VFP702,Lot434;Lot435;Lot436,,3 lots
+21719.05,tool,VFP701,process completed,908,VFP701,Lot425;Lot426;Lot427,,
+21719.05,tool,VFP701,in process,908,VFP701,Lot431;Lot432;Lot433,,
+21797.808,tool,STG907,in process,907,STG907,Lot437,,1 lot
+21797.808,tool,STG907,in process,907,STG907,Lot438,,1 lot
+21797.808,tool,STG907,in process,907,STG907,Lot439,,1 lot
+21798.808,tool,STG907,process completed,907,STG907,Lot437,,
+21798.808,tool,STG907,process completed,907,STG907,Lot438,,
+21798.808,tool,STG907,process completed,907,STG907,Lot439,,
+21798.808,tool,VFP701,batch dispatched,908,VFP701,Lot437;Lot438;Lot439,,3 lots
+21820.729,tool,VFP702,process completed,908,VFP702,Lot428;Lot429;Lot430,,
+21820.729,tool,VFP702,in process,908,VFP702,Lot434;Lot435;Lot436,,
+22079.05,tool,VFP701,process completed,908,VFP701,Lot431;Lot432;Lot433,,
+22079.05,tool,VFP701,in process,908,VFP701,Lot437;Lot438;Lot439,,
+22180.729,tool,VFP702,process completed,908,VFP702,Lot434;Lot435;Lot436,,
+22210.275,tool,STG907,in process,907,STG907,Lot440,,1 lot
+22210.275,tool,STG907,in process,907,STG907,Lot441,,1 lot
+22210.275,tool,STG907,in process,907,STG907,Lot442,,1 lot
+22211.275,tool,STG907,process completed,907,STG907,Lot440,,
+22211.275,tool,STG907,process completed,907,STG907,Lot441,,
+22211.275,tool,STG907,process completed,907,STG907,Lot442,,
+22211.275,tool,VFP702,batch dispatched,908,VFP702,Lot440;Lot441;Lot442,,3 lots
+22211.275,tool,VFP702,in process,908,VFP702,Lot440;Lot441;Lot442,,
+22429.747,tool,STG907,in process,907,STG907,Lot443,,1 lot
+22429.747,tool,STG907,in process,907,STG907,Lot444,,1 lot
+22429.747,tool,STG907,in process,907,STG907,Lot445,,1 lot
+22430.747,tool,STG907,process completed,907,STG907,Lot443,,
+22430.747,tool,STG907,process completed,907,STG907,Lot444,,
+22430.747,tool,STG907,process completed,907,STG907,Lot445,,
+22430.747,tool,VFP701,batch dispatched,908,VFP701,Lot443;Lot444;Lot445,,3 lots
+22439.05,tool,VFP701,process completed,908,VFP701,Lot437;Lot438;Lot439,,
+22439.05,tool,VFP701,in process,908,VFP701,Lot443;Lot444;Lot445,,
+22571.275,tool,VFP702,process completed,908,VFP702,Lot440;Lot441;Lot442,,
+22609.239,tool,STG907,in process,907,STG907,Lot446,,1 lot
+22609.239,tool,STG907,in process,907,STG907,Lot447,,1 lot
+22609.239,tool,STG907,in process,907,STG907,Lot448,,1 lot
+22610.239,tool,STG907,process completed,907,STG907,Lot446,,
+22610.239,tool,STG907,process completed,907,STG907,Lot447,,
+22610.239,tool,STG907,process completed,907,STG907,Lot448,,
+22610.239,tool,VFP702,batch dispatched,908,VFP702,Lot446;Lot447;Lot448,,3 lots
+22610.239,tool,VFP702,in process,908,VFP702,Lot446;Lot447;Lot448,,
+22794.18,tool,STG907,in process,907,STG907,Lot449,,1 lot
+22794.18,tool,STG907,in process,907,STG907,Lot450,,1 lot
+22794.18,tool,STG907,in process,907,STG907,Lot451,,1 lot
+22795.18,tool,STG907,process completed,907,STG907,Lot449,,
+22795.18,tool,STG907,process completed,907,STG907,Lot450,,
+22795.18,tool,STG907,process completed,907,STG907,Lot451,,
+22795.18,tool,VFP702,batch dispatched,908,VFP702,Lot449;Lot450;Lot451,,3 lots
+22799.05,tool,VFP701,process completed,908,VFP701,Lot443;Lot444;Lot445,,
+22970.239,tool,VFP702,process completed,908,VFP702,Lot446;Lot447;Lot448,,
+22970.239,tool,VFP702,in process,908,VFP702,Lot449;Lot450;Lot451,,
+23209.14,tool,STG907,in process,907,STG907,Lot452,,1 lot
+23209.14,tool,STG907,in process,907,STG907,Lot453,,1 lot
+23209.14,tool,STG907,in process,907,STG907,Lot454,,1 lot
+23210.14,tool,STG907,process completed,907,STG907,Lot452,,
+23210.14,tool,STG907,process completed,907,STG907,Lot453,,
+23210.14,tool,STG907,process completed,907,STG907,Lot454,,
+23210.14,tool,VFP701,batch dispatched,908,VFP701,Lot452;Lot453;Lot454,,3 lots
+23210.14,tool,VFP701,in process,908,VFP701,Lot452;Lot453;Lot454,,
+23330.239,tool,VFP702,process completed,908,VFP702,Lot449;Lot450;Lot451,,
+23330.239,tool,VFP702,PM started,,VFP702,,,trigger: run count
+23495.707,tool,STG907,in process,907,STG907,Lot455,,1 lot
+23495.707,tool,STG907,in process,907,STG907,Lot456,,1 lot
+23495.707,tool,STG907,in process,907,STG907,Lot457,,1 lot
+23496.707,tool,STG907,process completed,907,STG907,Lot455,,
+23496.707,tool,STG907,process completed,907,STG907,Lot456,,
+23496.707,tool,STG907,process completed,907,STG907,Lot457,,
+23496.707,tool,VFP701,batch dispatched,908,VFP701,Lot455;Lot456;Lot457,,3 lots
+23570.14,tool,VFP701,process completed,908,VFP701,Lot452;Lot453;Lot454,,
+23570.14,tool,VFP701,in process,908,VFP701,Lot455;Lot456;Lot457,,
+23570.14,tool,STG907,in process,907,STG907,Lot458,,1 lot
+23570.14,tool,STG907,in process,907,STG907,Lot459,,1 lot
+23570.14,tool,STG907,in process,907,STG907,Lot460,,1 lot
+23571.14,tool,STG907,process completed,907,STG907,Lot458,,
+23571.14,tool,STG907,process completed,907,STG907,Lot459,,
+23571.14,tool,STG907,process completed,907,STG907,Lot460,,
+23571.14,tool,VFP701,batch dispatched,908,VFP701,Lot458;Lot459;Lot460,,3 lots
+23810.239,tool,VFP702,PM completed,,VFP702,,,trigger: run count
+23810.239,tool,STG907,in process,907,STG907,Lot461,,1 lot
+23810.239,tool,STG907,in process,907,STG907,Lot462,,1 lot
+23810.239,tool,STG907,in process,907,STG907,Lot463,,1 lot
+23811.239,tool,STG907,process completed,907,STG907,Lot461,,
+23811.239,tool,STG907,process completed,907,STG907,Lot462,,
+23811.239,tool,STG907,process completed,907,STG907,Lot463,,
+23811.239,tool,VFP702,batch dispatched,908,VFP702,Lot461;Lot462;Lot463,,3 lots
+23811.239,tool,VFP702,in process,908,VFP702,Lot461;Lot462;Lot463,,
+23930.14,tool,VFP701,process completed,908,VFP701,Lot455;Lot456;Lot457,,
+23930.14,tool,VFP701,in process,908,VFP701,Lot458;Lot459;Lot460,,
+24059.142,tool,STG907,in process,907,STG907,Lot464,,1 lot
+24059.142,tool,STG907,in process,907,STG907,Lot465,,1 lot
+24059.142,tool,STG907,in process,907,STG907,Lot466,,1 lot
+24060.142,tool,STG907,process completed,907,STG907,Lot464,,
+24060.142,tool,STG907,process completed,907,STG907,Lot465,,
+24060.142,tool,STG907,process completed,907,STG907,Lot466,,
+24060.142,tool,VFP702,batch dispatched,908,VFP702,Lot464;Lot465;Lot466,,3 lots
+24171.239,tool,VFP702,process completed,908,VFP702,Lot461;Lot462;Lot463,,
+24171.239,tool,VFP702,in process,908,VFP702,Lot464;Lot465;Lot466,,
+24287.067,tool,STG907,in process,907,STG907,Lot467,,1 lot
+24287.067,tool,STG907,in process,907,STG907,Lot468,,1 lot
+24287.067,tool,STG907,in process,907,STG907,Lot469,,1 lot
+24288.067,tool,STG907,process completed,907,STG907,Lot467,,
+24288.067,tool,STG907,process completed,907,STG907,Lot468,,
+24288.067,tool,STG907,process completed,907,STG907,Lot469,,
+24288.067,tool,VFP702,batch dispatched,908,VFP702,Lot467;Lot468;Lot469,,3 lots
+24290.14,tool,VFP701,process completed,908,VFP701,Lot458;Lot459;Lot460,,
+24290.14,tool,VFP701,PM started,,VFP701,,,trigger: run count
+24531.239,tool,VFP702,process completed,908,VFP702,Lot464;Lot465;Lot466,,
+24531.239,tool,VFP702,in process,908,VFP702,Lot467;Lot468;Lot469,,
+24531.239,tool,STG907,in process,907,STG907,Lot470,,1 lot
+24531.239,tool,STG907,in process,907,STG907,Lot471,,1 lot
+24531.239,tool,STG907,in process,907,STG907,Lot472,,1 lot
+24532.239,tool,STG907,process completed,907,STG907,Lot470,,
+24532.239,tool,STG907,process completed,907,STG907,Lot471,,
+24532.239,tool,STG907,process completed,907,STG907,Lot472,,
+24532.239,tool,VFP702,batch dispatched,908,VFP702,Lot470;Lot471;Lot472,,3 lots
+24770.14,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+24770.14,tool,STG907,in process,907,STG907,Lot473,,1 lot
+24770.14,tool,STG907,in process,907,STG907,Lot474,,1 lot
+24770.14,tool,STG907,in process,907,STG907,Lot475,,1 lot
+24770.14,tool,STG907,in process,907,STG907,Lot476,,1 lot
+24770.14,tool,STG907,in process,907,STG907,Lot477,,1 lot
+24770.14,tool,STG907,in process,907,STG907,Lot478,,1 lot
+24771.14,tool,STG907,process completed,907,STG907,Lot473,,
+24771.14,tool,STG907,process completed,907,STG907,Lot474,,
+24771.14,tool,STG907,process completed,907,STG907,Lot475,,
+24771.14,tool,STG907,process completed,907,STG907,Lot476,,
+24771.14,tool,STG907,process completed,907,STG907,Lot477,,
+24771.14,tool,STG907,process completed,907,STG907,Lot478,,
+24771.14,tool,VFP701,batch dispatched,908,VFP701,Lot473;Lot474;Lot475,,3 lots
+24771.14,tool,VFP701,in process,908,VFP701,Lot473;Lot474;Lot475,,
+24771.14,tool,VFP701,batch dispatched,908,VFP701,Lot476;Lot477;Lot478,,3 lots
+24891.239,tool,VFP702,process completed,908,VFP702,Lot467;Lot468;Lot469,,
+24891.239,tool,VFP702,in process,908,VFP702,Lot470;Lot471;Lot472,,
+24891.239,tool,STG907,in process,907,STG907,Lot479,,1 lot
+24891.239,tool,STG907,in process,907,STG907,Lot480,,1 lot
+24891.239,tool,STG907,in process,907,STG907,Lot481,,1 lot
+24892.239,tool,STG907,process completed,907,STG907,Lot479,,
+24892.239,tool,STG907,process completed,907,STG907,Lot480,,
+24892.239,tool,STG907,process completed,907,STG907,Lot481,,
+24892.239,tool,VFP702,batch dispatched,908,VFP702,Lot479;Lot480;Lot481,,3 lots
+25131.14,tool,VFP701,process completed,908,VFP701,Lot473;Lot474;Lot475,,
+25131.14,tool,VFP701,in process,908,VFP701,Lot476;Lot477;Lot478,,
+25131.14,tool,STG907,in process,907,STG907,Lot482,,1 lot
+25131.14,tool,STG907,in process,907,STG907,Lot483,,1 lot
+25131.14,tool,STG907,in process,907,STG907,Lot484,,1 lot
+25132.14,tool,STG907,process completed,907,STG907,Lot482,,
+25132.14,tool,STG907,process completed,907,STG907,Lot483,,
+25132.14,tool,STG907,process completed,907,STG907,Lot484,,
+25132.14,tool,VFP701,batch dispatched,908,VFP701,Lot482;Lot483;Lot484,,3 lots
+25251.239,tool,VFP702,process completed,908,VFP702,Lot470;Lot471;Lot472,,
+25251.239,tool,VFP702,in process,908,VFP702,Lot479;Lot480;Lot481,,
+25251.239,tool,STG907,in process,907,STG907,Lot485,,1 lot
+25251.239,tool,STG907,in process,907,STG907,Lot486,,1 lot
+25251.239,tool,STG907,in process,907,STG907,Lot487,,1 lot
+25252.239,tool,STG907,process completed,907,STG907,Lot485,,
+25252.239,tool,STG907,process completed,907,STG907,Lot486,,
+25252.239,tool,STG907,process completed,907,STG907,Lot487,,
+25252.239,tool,VFP702,batch dispatched,908,VFP702,Lot485;Lot486;Lot487,,3 lots
+25491.14,tool,VFP701,process completed,908,VFP701,Lot476;Lot477;Lot478,,
+25491.14,tool,VFP701,in process,908,VFP701,Lot482;Lot483;Lot484,,
+25491.14,tool,STG907,in process,907,STG907,Lot488,,1 lot
+25491.14,tool,STG907,in process,907,STG907,Lot489,,1 lot
+25491.14,tool,STG907,in process,907,STG907,Lot490,,1 lot
+25492.14,tool,STG907,process completed,907,STG907,Lot488,,
+25492.14,tool,STG907,process completed,907,STG907,Lot489,,
+25492.14,tool,STG907,process completed,907,STG907,Lot490,,
+25492.14,tool,VFP701,batch dispatched,908,VFP701,Lot488;Lot489;Lot490,,3 lots
+25611.239,tool,VFP702,process completed,908,VFP702,Lot479;Lot480;Lot481,,
+25611.239,tool,VFP702,in process,908,VFP702,Lot485;Lot486;Lot487,,
+25611.239,tool,STG907,in process,907,STG907,Lot491,,1 lot
+25611.239,tool,STG907,in process,907,STG907,Lot492,,1 lot
+25611.239,tool,STG907,in process,907,STG907,Lot493,,1 lot
+25612.239,tool,STG907,process completed,907,STG907,Lot491,,
+25612.239,tool,STG907,process completed,907,STG907,Lot492,,
+25612.239,tool,STG907,process completed,907,STG907,Lot493,,
+25612.239,tool,VFP702,batch dispatched,908,VFP702,Lot491;Lot492;Lot493,,3 lots
+25851.14,tool,VFP701,process completed,908,VFP701,Lot482;Lot483;Lot484,,
+25851.14,tool,VFP701,in process,908,VFP701,Lot488;Lot489;Lot490,,
+25851.14,tool,STG907,in process,907,STG907,Lot494,,1 lot
+25851.14,tool,STG907,in process,907,STG907,Lot495,,1 lot
+25851.14,tool,STG907,in process,907,STG907,Lot496,,1 lot
+25852.14,tool,STG907,process completed,907,STG907,Lot494,,
+25852.14,tool,STG907,process completed,907,STG907,Lot495,,
+25852.14,tool,STG907,process completed,907,STG907,Lot496,,
+25852.14,tool,VFP701,batch dispatched,908,VFP701,Lot494;Lot495;Lot496,,3 lots
+25971.239,tool,VFP702,process completed,908,VFP702,Lot485;Lot486;Lot487,,
+25971.239,tool,VFP702,in process,908,VFP702,Lot491;Lot492;Lot493,,
+25971.239,tool,STG907,in process,907,STG907,Lot497,,1 lot
+25971.239,tool,STG907,in process,907,STG907,Lot498,,1 lot
+25971.239,tool,STG907,in process,907,STG907,Lot499,,1 lot
+25972.239,tool,STG907,process completed,907,STG907,Lot497,,
+25972.239,tool,STG907,process completed,907,STG907,Lot498,,
+25972.239,tool,STG907,process completed,907,STG907,Lot499,,
+25972.239,tool,VFP702,batch dispatched,908,VFP702,Lot497;Lot498;Lot499,,3 lots
+26211.14,tool,VFP701,process completed,908,VFP701,Lot488;Lot489;Lot490,,
+26211.14,tool,VFP701,in process,908,VFP701,Lot494;Lot495;Lot496,,
+26211.14,tool,STG907,in process,907,STG907,Lot500,,1 lot
+26211.14,tool,STG907,in process,907,STG907,Lot501,,1 lot
+26211.14,tool,STG907,in process,907,STG907,Lot502,,1 lot
+26212.14,tool,STG907,process completed,907,STG907,Lot500,,
+26212.14,tool,STG907,process completed,907,STG907,Lot501,,
+26212.14,tool,STG907,process completed,907,STG907,Lot502,,
+26212.14,tool,VFP701,batch dispatched,908,VFP701,Lot500;Lot501;Lot502,,3 lots
+26331.239,tool,VFP702,process completed,908,VFP702,Lot491;Lot492;Lot493,,
+26331.239,tool,VFP702,in process,908,VFP702,Lot497;Lot498;Lot499,,
+26331.239,tool,STG907,in process,907,STG907,Lot503,,1 lot
+26331.239,tool,STG907,in process,907,STG907,Lot504,,1 lot
+26331.239,tool,STG907,in process,907,STG907,Lot505,,1 lot
+26332.239,tool,STG907,process completed,907,STG907,Lot503,,
+26332.239,tool,STG907,process completed,907,STG907,Lot504,,
+26332.239,tool,STG907,process completed,907,STG907,Lot505,,
+26332.239,tool,VFP702,batch dispatched,908,VFP702,Lot503;Lot504;Lot505,,3 lots
+26571.14,tool,VFP701,process completed,908,VFP701,Lot494;Lot495;Lot496,,
+26571.14,tool,VFP701,in process,908,VFP701,Lot500;Lot501;Lot502,,
+26571.14,tool,STG907,in process,907,STG907,Lot506,,1 lot
+26571.14,tool,STG907,in process,907,STG907,Lot507,,1 lot
+26571.14,tool,STG907,in process,907,STG907,Lot508,,1 lot
+26572.14,tool,STG907,process completed,907,STG907,Lot506,,
+26572.14,tool,STG907,process completed,907,STG907,Lot507,,
+26572.14,tool,STG907,process completed,907,STG907,Lot508,,
+26572.14,tool,VFP701,batch dispatched,908,VFP701,Lot506;Lot507;Lot508,,3 lots
+26691.239,tool,VFP702,process completed,908,VFP702,Lot497;Lot498;Lot499,,
+26691.239,tool,VFP702,in process,908,VFP702,Lot503;Lot504;Lot505,,
+26691.239,tool,STG907,in process,907,STG907,Lot509,,1 lot
+26691.239,tool,STG907,in process,907,STG907,Lot510,,1 lot
+26691.239,tool,STG907,in process,907,STG907,Lot511,,1 lot
+26692.239,tool,STG907,process completed,907,STG907,Lot509,,
+26692.239,tool,STG907,process completed,907,STG907,Lot510,,
+26692.239,tool,STG907,process completed,907,STG907,Lot511,,
+26692.239,tool,VFP702,batch dispatched,908,VFP702,Lot509;Lot510;Lot511,,3 lots
+26931.14,tool,VFP701,process completed,908,VFP701,Lot500;Lot501;Lot502,,
+26931.14,tool,VFP701,in process,908,VFP701,Lot506;Lot507;Lot508,,
+26931.14,tool,STG907,in process,907,STG907,Lot512,,1 lot
+26931.14,tool,STG907,in process,907,STG907,Lot513,,1 lot
+26931.14,tool,STG907,in process,907,STG907,Lot514,,1 lot
+26932.14,tool,STG907,process completed,907,STG907,Lot512,,
+26932.14,tool,STG907,process completed,907,STG907,Lot513,,
+26932.14,tool,STG907,process completed,907,STG907,Lot514,,
+26932.14,tool,VFP701,batch dispatched,908,VFP701,Lot512;Lot513;Lot514,,3 lots
+27051.239,tool,VFP702,process completed,908,VFP702,Lot503;Lot504;Lot505,,
+27051.239,tool,VFP702,in process,908,VFP702,Lot509;Lot510;Lot511,,
+27051.239,tool,STG907,in process,907,STG907,Lot515,,1 lot
+27051.239,tool,STG907,in process,907,STG907,Lot516,,1 lot
+27051.239,tool,STG907,in process,907,STG907,Lot517,,1 lot
+27052.239,tool,STG907,process completed,907,STG907,Lot515,,
+27052.239,tool,STG907,process completed,907,STG907,Lot516,,
+27052.239,tool,STG907,process completed,907,STG907,Lot517,,
+27052.239,tool,VFP702,batch dispatched,908,VFP702,Lot515;Lot516;Lot517,,3 lots
+27291.14,tool,VFP701,process completed,908,VFP701,Lot506;Lot507;Lot508,,
+27291.14,tool,VFP701,in process,908,VFP701,Lot512;Lot513;Lot514,,
+27291.14,tool,STG907,in process,907,STG907,Lot518,,1 lot
+27291.14,tool,STG907,in process,907,STG907,Lot519,,1 lot
+27291.14,tool,STG907,in process,907,STG907,Lot520,,1 lot
+27292.14,tool,STG907,process completed,907,STG907,Lot518,,
+27292.14,tool,STG907,process completed,907,STG907,Lot519,,
+27292.14,tool,STG907,process completed,907,STG907,Lot520,,
+27292.14,tool,VFP701,batch dispatched,908,VFP701,Lot518;Lot519;Lot520,,3 lots
+27411.239,tool,VFP702,process completed,908,VFP702,Lot509;Lot510;Lot511,,
+27411.239,tool,VFP702,in process,908,VFP702,Lot515;Lot516;Lot517,,
+27411.239,tool,STG907,in process,907,STG907,Lot521,,1 lot
+27411.239,tool,STG907,in process,907,STG907,Lot522,,1 lot
+27411.239,tool,STG907,in process,907,STG907,Lot523,,1 lot
+27412.239,tool,STG907,process completed,907,STG907,Lot521,,
+27412.239,tool,STG907,process completed,907,STG907,Lot522,,
+27412.239,tool,STG907,process completed,907,STG907,Lot523,,
+27412.239,tool,VFP702,batch dispatched,908,VFP702,Lot521;Lot522;Lot523,,3 lots
+27651.14,tool,VFP701,process completed,908,VFP701,Lot512;Lot513;Lot514,,
+27651.14,tool,VFP701,in process,908,VFP701,Lot518;Lot519;Lot520,,
+27651.14,tool,STG907,in process,907,STG907,Lot524,,1 lot
+27651.14,tool,STG907,in process,907,STG907,Lot525,,1 lot
+27651.14,tool,STG907,in process,907,STG907,Lot526,,1 lot
+27652.14,tool,STG907,process completed,907,STG907,Lot524,,
+27652.14,tool,STG907,process completed,907,STG907,Lot525,,
+27652.14,tool,STG907,process completed,907,STG907,Lot526,,
+27652.14,tool,VFP701,batch dispatched,908,VFP701,Lot524;Lot525;Lot526,,3 lots
+27771.239,tool,VFP702,process completed,908,VFP702,Lot515;Lot516;Lot517,,
+27771.239,tool,VFP702,in process,908,VFP702,Lot521;Lot522;Lot523,,
+27771.239,tool,STG907,in process,907,STG907,Lot527,,1 lot
+27771.239,tool,STG907,in process,907,STG907,Lot528,,1 lot
+27771.239,tool,STG907,in process,907,STG907,Lot529,,1 lot
+27772.239,tool,STG907,process completed,907,STG907,Lot527,,
+27772.239,tool,STG907,process completed,907,STG907,Lot528,,
+27772.239,tool,STG907,process completed,907,STG907,Lot529,,
+27772.239,tool,VFP702,batch dispatched,908,VFP702,Lot527;Lot528;Lot529,,3 lots
+28011.14,tool,VFP701,process completed,908,VFP701,Lot518;Lot519;Lot520,,
+28011.14,tool,VFP701,in process,908,VFP701,Lot524;Lot525;Lot526,,
+28011.14,tool,STG907,in process,907,STG907,Lot530,,1 lot
+28011.14,tool,STG907,in process,907,STG907,Lot531,,1 lot
+28011.14,tool,STG907,in process,907,STG907,Lot532,,1 lot
+28012.14,tool,STG907,process completed,907,STG907,Lot530,,
+28012.14,tool,STG907,process completed,907,STG907,Lot531,,
+28012.14,tool,STG907,process completed,907,STG907,Lot532,,
+28012.14,tool,VFP701,batch dispatched,908,VFP701,Lot530;Lot531;Lot532,,3 lots
+28131.239,tool,VFP702,process completed,908,VFP702,Lot521;Lot522;Lot523,,
+28131.239,tool,VFP702,in process,908,VFP702,Lot527;Lot528;Lot529,,
+28131.239,tool,STG907,in process,907,STG907,Lot533,,1 lot
+28131.239,tool,STG907,in process,907,STG907,Lot534,,1 lot
+28131.239,tool,STG907,in process,907,STG907,Lot535,,1 lot
+28132.239,tool,STG907,process completed,907,STG907,Lot533,,
+28132.239,tool,STG907,process completed,907,STG907,Lot534,,
+28132.239,tool,STG907,process completed,907,STG907,Lot535,,
+28132.239,tool,VFP702,batch dispatched,908,VFP702,Lot533;Lot534;Lot535,,3 lots
+28371.14,tool,VFP701,process completed,908,VFP701,Lot524;Lot525;Lot526,,
+28371.14,tool,VFP701,in process,908,VFP701,Lot530;Lot531;Lot532,,
+28371.14,tool,STG907,in process,907,STG907,Lot536,,1 lot
+28371.14,tool,STG907,in process,907,STG907,Lot537,,1 lot
+28371.14,tool,STG907,in process,907,STG907,Lot538,,1 lot
+28372.14,tool,STG907,process completed,907,STG907,Lot536,,
+28372.14,tool,STG907,process completed,907,STG907,Lot537,,
+28372.14,tool,STG907,process completed,907,STG907,Lot538,,
+28372.14,tool,VFP701,batch dispatched,908,VFP701,Lot536;Lot537;Lot538,,3 lots
+28491.239,tool,VFP702,process completed,908,VFP702,Lot527;Lot528;Lot529,,
+28491.239,tool,VFP702,in process,908,VFP702,Lot533;Lot534;Lot535,,
+28698.597,tool,STG907,in process,907,STG907,Lot539,,1 lot
+28698.597,tool,STG907,in process,907,STG907,Lot540,,1 lot
+28698.597,tool,STG907,in process,907,STG907,Lot541,,1 lot
+28699.597,tool,STG907,process completed,907,STG907,Lot539,,
+28699.597,tool,STG907,process completed,907,STG907,Lot540,,
+28699.597,tool,STG907,process completed,907,STG907,Lot541,,
+28699.597,tool,VFP702,batch dispatched,908,VFP702,Lot539;Lot540;Lot541,,3 lots
+28731.14,tool,VFP701,process completed,908,VFP701,Lot530;Lot531;Lot532,,
+28731.14,tool,VFP701,in process,908,VFP701,Lot536;Lot537;Lot538,,
+28851.239,tool,VFP702,process completed,908,VFP702,Lot533;Lot534;Lot535,,
+28851.239,tool,VFP702,in process,908,VFP702,Lot539;Lot540;Lot541,,
+28927.004,tool,STG907,in process,907,STG907,Lot542,,1 lot
+28927.004,tool,STG907,in process,907,STG907,Lot543,,1 lot
+28927.004,tool,STG907,in process,907,STG907,Lot544,,1 lot
+28928.004,tool,STG907,process completed,907,STG907,Lot542,,
+28928.004,tool,STG907,process completed,907,STG907,Lot543,,
+28928.004,tool,STG907,process completed,907,STG907,Lot544,,
+28928.004,tool,VFP701,batch dispatched,908,VFP701,Lot542;Lot543;Lot544,,3 lots
+29091.14,tool,VFP701,process completed,908,VFP701,Lot536;Lot537;Lot538,,
+29091.14,tool,VFP701,in process,908,VFP701,Lot542;Lot543;Lot544,,
+29115.003,tool,STG907,in process,907,STG907,Lot545,,1 lot
+29115.003,tool,STG907,in process,907,STG907,Lot546,,1 lot
+29115.003,tool,STG907,in process,907,STG907,Lot547,,1 lot
+29116.003,tool,STG907,process completed,907,STG907,Lot545,,
+29116.003,tool,STG907,process completed,907,STG907,Lot546,,
+29116.003,tool,STG907,process completed,907,STG907,Lot547,,
+29116.003,tool,VFP702,batch dispatched,908,VFP702,Lot545;Lot546;Lot547,,3 lots
+29211.239,tool,VFP702,process completed,908,VFP702,Lot539;Lot540;Lot541,,
+29211.239,tool,VFP702,in process,908,VFP702,Lot545;Lot546;Lot547,,
+29451.14,tool,VFP701,process completed,908,VFP701,Lot542;Lot543;Lot544,,
+29547.694,tool,STG907,in process,907,STG907,Lot548,,1 lot
+29547.694,tool,STG907,in process,907,STG907,Lot549,,1 lot
+29547.694,tool,STG907,in process,907,STG907,Lot550,,1 lot
+29548.694,tool,STG907,process completed,907,STG907,Lot548,,
+29548.694,tool,STG907,process completed,907,STG907,Lot549,,
+29548.694,tool,STG907,process completed,907,STG907,Lot550,,
+29548.694,tool,VFP701,batch dispatched,908,VFP701,Lot548;Lot549;Lot550,,3 lots
+29548.694,tool,VFP701,in process,908,VFP701,Lot548;Lot549;Lot550,,
+29571.239,tool,VFP702,process completed,908,VFP702,Lot545;Lot546;Lot547,,
+29702.846,tool,STG907,in process,907,STG907,Lot551,,1 lot
+29702.846,tool,STG907,in process,907,STG907,Lot552,,1 lot
+29702.846,tool,STG907,in process,907,STG907,Lot553,,1 lot
+29703.846,tool,STG907,process completed,907,STG907,Lot551,,
+29703.846,tool,STG907,process completed,907,STG907,Lot552,,
+29703.846,tool,STG907,process completed,907,STG907,Lot553,,
+29703.846,tool,VFP702,batch dispatched,908,VFP702,Lot551;Lot552;Lot553,,3 lots
+29703.846,tool,VFP702,in process,908,VFP702,Lot551;Lot552;Lot553,,
+29894.263,tool,STG907,in process,907,STG907,Lot554,,1 lot
+29894.263,tool,STG907,in process,907,STG907,Lot555,,1 lot
+29894.263,tool,STG907,in process,907,STG907,Lot556,,1 lot
+29895.263,tool,STG907,process completed,907,STG907,Lot554,,
+29895.263,tool,STG907,process completed,907,STG907,Lot555,,
+29895.263,tool,STG907,process completed,907,STG907,Lot556,,
+29895.263,tool,VFP701,batch dispatched,908,VFP701,Lot554;Lot555;Lot556,,3 lots
+29908.694,tool,VFP701,process completed,908,VFP701,Lot548;Lot549;Lot550,,
+29908.694,tool,VFP701,in process,908,VFP701,Lot554;Lot555;Lot556,,
+30063.846,tool,VFP702,process completed,908,VFP702,Lot551;Lot552;Lot553,,
+30172.41,tool,STG907,in process,907,STG907,Lot557,,1 lot
+30172.41,tool,STG907,in process,907,STG907,Lot558,,1 lot
+30172.41,tool,STG907,in process,907,STG907,Lot559,,1 lot
+30173.41,tool,STG907,process completed,907,STG907,Lot557,,
+30173.41,tool,STG907,process completed,907,STG907,Lot558,,
+30173.41,tool,STG907,process completed,907,STG907,Lot559,,
+30173.41,tool,VFP702,batch dispatched,908,VFP702,Lot557;Lot558;Lot559,,3 lots
+30173.41,tool,VFP702,in process,908,VFP702,Lot557;Lot558;Lot559,,
+30237.899,tool,STG907,in process,907,STG907,Lot560,,1 lot
+30237.899,tool,STG907,in process,907,STG907,Lot561,,1 lot
+30237.899,tool,STG907,in process,907,STG907,Lot562,,1 lot
+30238.899,tool,STG907,process completed,907,STG907,Lot560,,
+30238.899,tool,STG907,process completed,907,STG907,Lot561,,
+30238.899,tool,STG907,process completed,907,STG907,Lot562,,
+30238.899,tool,VFP702,batch dispatched,908,VFP702,Lot560;Lot561;Lot562,,3 lots
+30268.694,tool,VFP701,process completed,908,VFP701,Lot554;Lot555;Lot556,,
+30268.694,tool,VFP701,PM started,,VFP701,,,trigger: run count
+30533.41,tool,VFP702,process completed,908,VFP702,Lot557;Lot558;Lot559,,
+30533.41,tool,VFP702,in process,908,VFP702,Lot560;Lot561;Lot562,,
+30533.41,tool,STG907,in process,907,STG907,Lot563,,1 lot
+30533.41,tool,STG907,in process,907,STG907,Lot564,,1 lot
+30533.41,tool,STG907,in process,907,STG907,Lot565,,1 lot
+30534.41,tool,STG907,process completed,907,STG907,Lot563,,
+30534.41,tool,STG907,process completed,907,STG907,Lot564,,
+30534.41,tool,STG907,process completed,907,STG907,Lot565,,
+30534.41,tool,VFP702,batch dispatched,908,VFP702,Lot563;Lot564;Lot565,,3 lots
+30748.694,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+30748.694,tool,STG907,in process,907,STG907,Lot566,,1 lot
+30748.694,tool,STG907,in process,907,STG907,Lot567,,1 lot
+30748.694,tool,STG907,in process,907,STG907,Lot568,,1 lot
+30748.694,tool,STG907,in process,907,STG907,Lot569,,1 lot
+30748.694,tool,STG907,in process,907,STG907,Lot570,,1 lot
+30748.694,tool,STG907,in process,907,STG907,Lot571,,1 lot
+30749.694,tool,STG907,process completed,907,STG907,Lot566,,
+30749.694,tool,STG907,process completed,907,STG907,Lot567,,
+30749.694,tool,STG907,process completed,907,STG907,Lot568,,
+30749.694,tool,STG907,process completed,907,STG907,Lot569,,
+30749.694,tool,STG907,process completed,907,STG907,Lot570,,
+30749.694,tool,STG907,process completed,907,STG907,Lot571,,
+30749.694,tool,VFP701,batch dispatched,908,VFP701,Lot566;Lot567;Lot568,,3 lots
+30749.694,tool,VFP701,in process,908,VFP701,Lot566;Lot567;Lot568,,
+30749.694,tool,VFP701,batch dispatched,908,VFP701,Lot569;Lot570;Lot571,,3 lots
+30893.41,tool,VFP702,process completed,908,VFP702,Lot560;Lot561;Lot562,,
+30893.41,tool,VFP702,in process,908,VFP702,Lot563;Lot564;Lot565,,
+31109.694,tool,VFP701,process completed,908,VFP701,Lot566;Lot567;Lot568,,
+31109.694,tool,VFP701,in process,908,VFP701,Lot569;Lot570;Lot571,,
+31109.694,tool,STG907,in process,907,STG907,Lot572,,1 lot
+31109.694,tool,STG907,in process,907,STG907,Lot573,,1 lot
+31109.694,tool,STG907,in process,907,STG907,Lot574,,1 lot
+31110.694,tool,STG907,process completed,907,STG907,Lot572,,
+31110.694,tool,STG907,process completed,907,STG907,Lot573,,
+31110.694,tool,STG907,process completed,907,STG907,Lot574,,
+31110.694,tool,VFP701,batch dispatched,908,VFP701,Lot572;Lot573;Lot574,,3 lots
+31253.41,tool,VFP702,process completed,908,VFP702,Lot563;Lot564;Lot565,,
+31253.41,tool,VFP702,PM started,,VFP702,,,trigger: run count
+31469.694,tool,VFP701,process completed,908,VFP701,Lot569;Lot570;Lot571,,
+31469.694,tool,VFP701,in process,908,VFP701,Lot572;Lot573;Lot574,,
+31469.694,tool,STG907,in process,907,STG907,Lot575,,1 lot
+31469.694,tool,STG907,in process,907,STG907,Lot576,,1 lot
+31469.694,tool,STG907,in process,907,STG907,Lot577,,1 lot
+31470.694,tool,STG907,process completed,907,STG907,Lot575,,
+31470.694,tool,STG907,process completed,907,STG907,Lot576,,
+31470.694,tool,STG907,process completed,907,STG907,Lot577,,
+31470.694,tool,VFP701,batch dispatched,908,VFP701,Lot575;Lot576;Lot577,,3 lots
+31733.41,tool,VFP702,PM completed,,VFP702,,,trigger: run count
+31733.41,tool,STG907,in process,907,STG907,Lot578,,1 lot
+31733.41,tool,STG907,in process,907,STG907,Lot579,,1 lot
+31733.41,tool,STG907,in process,907,STG907,Lot580,,1 lot
+31733.41,tool,STG907,in process,907,STG907,Lot581,,1 lot
+31733.41,tool,STG907,in process,907,STG907,Lot582,,1 lot
+31733.41,tool,STG907,in process,907,STG907,Lot583,,1 lot
+31734.41,tool,STG907,process completed,907,STG907,Lot578,,
+31734.41,tool,STG907,process completed,907,STG907,Lot579,,
+31734.41,tool,STG907,process completed,907,STG907,Lot580,,
+31734.41,tool,STG907,process completed,907,STG907,Lot581,,
+31734.41,tool,STG907,process completed,907,STG907,Lot582,,
+31734.41,tool,STG907,process completed,907,STG907,Lot583,,
+31734.41,tool,VFP702,batch dispatched,908,VFP702,Lot578;Lot579;Lot580,,3 lots
+31734.41,tool,VFP702,in process,908,VFP702,Lot578;Lot579;Lot580,,
+31734.41,tool,VFP702,batch dispatched,908,VFP702,Lot581;Lot582;Lot583,,3 lots
+31829.694,tool,VFP701,process completed,908,VFP701,Lot572;Lot573;Lot574,,
+31829.694,tool,VFP701,in process,908,VFP701,Lot575;Lot576;Lot577,,
+31829.694,tool,STG907,in process,907,STG907,Lot584,,1 lot
+31829.694,tool,STG907,in process,907,STG907,Lot585,,1 lot
+31829.694,tool,STG907,in process,907,STG907,Lot586,,1 lot
+31830.694,tool,STG907,process completed,907,STG907,Lot584,,
+31830.694,tool,STG907,process completed,907,STG907,Lot585,,
+31830.694,tool,STG907,process completed,907,STG907,Lot586,,
+31830.694,tool,VFP701,batch dispatched,908,VFP701,Lot584;Lot585;Lot586,,3 lots
+32094.41,tool,VFP702,process completed,908,VFP702,Lot578;Lot579;Lot580,,
+32094.41,tool,VFP702,in process,908,VFP702,Lot581;Lot582;Lot583,,
+32094.41,tool,STG907,in process,907,STG907,Lot587,,1 lot
+32094.41,tool,STG907,in process,907,STG907,Lot588,,1 lot
+32094.41,tool,STG907,in process,907,STG907,Lot589,,1 lot
+32095.41,tool,STG907,process completed,907,STG907,Lot587,,
+32095.41,tool,STG907,process completed,907,STG907,Lot588,,
+32095.41,tool,STG907,process completed,907,STG907,Lot589,,
+32095.41,tool,VFP702,batch dispatched,908,VFP702,Lot587;Lot588;Lot589,,3 lots
+32189.694,tool,VFP701,process completed,908,VFP701,Lot575;Lot576;Lot577,,
+32189.694,tool,VFP701,in process,908,VFP701,Lot584;Lot585;Lot586,,
+32189.694,tool,STG907,in process,907,STG907,Lot590,,1 lot
+32189.694,tool,STG907,in process,907,STG907,Lot591,,1 lot
+32189.694,tool,STG907,in process,907,STG907,Lot592,,1 lot
+32190.694,tool,STG907,process completed,907,STG907,Lot590,,
+32190.694,tool,STG907,process completed,907,STG907,Lot591,,
+32190.694,tool,STG907,process completed,907,STG907,Lot592,,
+32190.694,tool,VFP701,batch dispatched,908,VFP701,Lot590;Lot591;Lot592,,3 lots
+32454.41,tool,VFP702,process completed,908,VFP702,Lot581;Lot582;Lot583,,
+32454.41,tool,VFP702,in process,908,VFP702,Lot587;Lot588;Lot589,,
+32454.41,tool,STG907,in process,907,STG907,Lot593,,1 lot
+32454.41,tool,STG907,in process,907,STG907,Lot594,,1 lot
+32454.41,tool,STG907,in process,907,STG907,Lot595,,1 lot
+32455.41,tool,STG907,process completed,907,STG907,Lot593,,
+32455.41,tool,STG907,process completed,907,STG907,Lot594,,
+32455.41,tool,STG907,process completed,907,STG907,Lot595,,
+32455.41,tool,VFP702,batch dispatched,908,VFP702,Lot593;Lot594;Lot595,,3 lots
+32549.694,tool,VFP701,process completed,908,VFP701,Lot584;Lot585;Lot586,,
+32549.694,tool,VFP701,in process,908,VFP701,Lot590;Lot591;Lot592,,
+32651.939,tool,STG907,in process,907,STG907,Lot596,,1 lot
+32651.939,tool,STG907,in process,907,STG907,Lot597,,1 lot
+32651.939,tool,STG907,in process,907,STG907,Lot598,,1 lot
+32652.939,tool,STG907,process completed,907,STG907,Lot596,,
+32652.939,tool,STG907,process completed,907,STG907,Lot597,,
+32652.939,tool,STG907,process completed,907,STG907,Lot598,,
+32652.939,tool,VFP701,batch dispatched,908,VFP701,Lot596;Lot597;Lot598,,3 lots
+32814.41,tool,VFP702,process completed,908,VFP702,Lot587;Lot588;Lot589,,
+32814.41,tool,VFP702,in process,908,VFP702,Lot593;Lot594;Lot595,,
+32814.41,tool,STG907,in process,907,STG907,Lot599,,1 lot
+32814.41,tool,STG907,in process,907,STG907,Lot600,,1 lot
+32814.41,tool,STG907,in process,907,STG907,Lot601,,1 lot
+32815.41,tool,STG907,process completed,907,STG907,Lot599,,
+32815.41,tool,STG907,process completed,907,STG907,Lot600,,
+32815.41,tool,STG907,process completed,907,STG907,Lot601,,
+32815.41,tool,VFP702,batch dispatched,908,VFP702,Lot599;Lot600;Lot601,,3 lots
+32909.694,tool,VFP701,process completed,908,VFP701,Lot590;Lot591;Lot592,,
+32909.694,tool,VFP701,in process,908,VFP701,Lot596;Lot597;Lot598,,
+32909.694,tool,STG907,in process,907,STG907,Lot602,,1 lot
+32909.694,tool,STG907,in process,907,STG907,Lot603,,1 lot
+32909.694,tool,STG907,in process,907,STG907,Lot604,,1 lot
+32910.694,tool,STG907,process completed,907,STG907,Lot602,,
+32910.694,tool,STG907,process completed,907,STG907,Lot603,,
+32910.694,tool,STG907,process completed,907,STG907,Lot604,,
+32910.694,tool,VFP701,batch dispatched,908,VFP701,Lot602;Lot603;Lot604,,3 lots
+33174.41,tool,VFP702,process completed,908,VFP702,Lot593;Lot594;Lot595,,
+33174.41,tool,VFP702,in process,908,VFP702,Lot599;Lot600;Lot601,,
+33174.41,tool,STG907,in process,907,STG907,Lot605,,1 lot
+33174.41,tool,STG907,in process,907,STG907,Lot606,,1 lot
+33174.41,tool,STG907,in process,907,STG907,Lot607,,1 lot
+33175.41,tool,STG907,process completed,907,STG907,Lot605,,
+33175.41,tool,STG907,process completed,907,STG907,Lot606,,
+33175.41,tool,STG907,process completed,907,STG907,Lot607,,
+33175.41,tool,VFP702,batch dispatched,908,VFP702,Lot605;Lot606;Lot607,,3 lots
+33269.694,tool,VFP701,process completed,908,VFP701,Lot596;Lot597;Lot598,,
+33269.694,tool,VFP701,in process,908,VFP701,Lot602;Lot603;Lot604,,
+33269.694,tool,STG907,in process,907,STG907,Lot608,,1 lot
+33269.694,tool,STG907,in process,907,STG907,Lot609,,1 lot
+33269.694,tool,STG907,in process,907,STG907,Lot610,,1 lot
+33270.694,tool,STG907,process completed,907,STG907,Lot608,,
+33270.694,tool,STG907,process completed,907,STG907,Lot609,,
+33270.694,tool,STG907,process completed,907,STG907,Lot610,,
+33270.694,tool,VFP701,batch dispatched,908,VFP701,Lot608;Lot609;Lot610,,3 lots
+33534.41,tool,VFP702,process completed,908,VFP702,Lot599;Lot600;Lot601,,
+33534.41,tool,VFP702,in process,908,VFP702,Lot605;Lot606;Lot607,,
+33534.41,tool,STG907,in process,907,STG907,Lot611,,1 lot
+33534.41,tool,STG907,in process,907,STG907,Lot612,,1 lot
+33534.41,tool,STG907,in process,907,STG907,Lot613,,1 lot
+33535.41,tool,STG907,process completed,907,STG907,Lot611,,
+33535.41,tool,STG907,process completed,907,STG907,Lot612,,
+33535.41,tool,STG907,process completed,907,STG907,Lot613,,
+33535.41,tool,VFP702,batch dispatched,908,VFP702,Lot611;Lot612;Lot613,,3 lots
+33629.694,tool,VFP701,process completed,908,VFP701,Lot602;Lot603;Lot604,,
+33629.694,tool,VFP701,in process,908,VFP701,Lot608;Lot609;Lot610,,
+33629.694,tool,STG907,in process,907,STG907,Lot614,,1 lot
+33629.694,tool,STG907,in process,907,STG907,Lot615,,1 lot
+33629.694,tool,STG907,in process,907,STG907,Lot616,,1 lot
+33630.694,tool,STG907,process completed,907,STG907,Lot614,,
+33630.694,tool,STG907,process completed,907,STG907,Lot615,,
+33630.694,tool,STG907,process completed,907,STG907,Lot616,,
+33630.694,tool,VFP701,batch dispatched,908,VFP701,Lot614;Lot615;Lot616,,3 lots
+33894.41,tool,VFP702,process completed,908,VFP702,Lot605;Lot606;Lot607,,
+33894.41,tool,VFP702,in process,908,VFP702,Lot611;Lot612;Lot613,,
+33894.41,tool,STG907,in process,907,STG907,Lot617,,1 lot
+33894.41,tool,STG907,in process,907,STG907,Lot618,,1 lot
+33894.41,tool,STG907,in process,907,STG907,Lot619,,1 lot
+33895.41,tool,STG907,process completed,907,STG907,Lot617,,
+33895.41,tool,STG907,process completed,907,STG907,Lot618,,
+33895.41,tool,STG907,process completed,907,STG907,Lot619,,
+33895.41,tool,VFP702,batch dispatched,908,VFP702,Lot617;Lot618;Lot619,,3 lots
+33989.694,tool,VFP701,process completed,908,VFP701,Lot608;Lot609;Lot610,,
+33989.694,tool,VFP701,in process,908,VFP701,Lot614;Lot615;Lot616,,
+34032.642,tool,STG907,in process,907,STG907,Lot620,,1 lot
+34032.642,tool,STG907,in process,907,STG907,Lot621,,1 lot
+34032.642,tool,STG907,in process,907,STG907,Lot622,,1 lot
+34033.642,tool,STG907,process completed,907,STG907,Lot620,,
+34033.642,tool,STG907,process completed,907,STG907,Lot621,,
+34033.642,tool,STG907,process completed,907,STG907,Lot622,,
+34033.642,tool,VFP701,batch dispatched,908,VFP701,Lot620;Lot621;Lot622,,3 lots
+34254.41,tool,VFP702,process completed,908,VFP702,Lot611;Lot612;Lot613,,
+34254.41,tool,VFP702,in process,908,VFP702,Lot617;Lot618;Lot619,,
+34274.187,tool,STG907,in process,907,STG907,Lot623,,1 lot
+34274.187,tool,STG907,in process,907,STG907,Lot624,,1 lot
+34274.187,tool,STG907,in process,907,STG907,Lot625,,1 lot
+34275.187,tool,STG907,process completed,907,STG907,Lot623,,
+34275.187,tool,STG907,process completed,907,STG907,Lot624,,
+34275.187,tool,STG907,process completed,907,STG907,Lot625,,
+34275.187,tool,VFP702,batch dispatched,908,VFP702,Lot623;Lot624;Lot625,,3 lots
+34349.694,tool,VFP701,process completed,908,VFP701,Lot614;Lot615;Lot616,,
+34349.694,tool,VFP701,in process,908,VFP701,Lot620;Lot621;Lot622,,
+34597.56,tool,STG907,in process,907,STG907,Lot626,,1 lot
+34597.56,tool,STG907,in process,907,STG907,Lot627,,1 lot
+34597.56,tool,STG907,in process,907,STG907,Lot628,,1 lot
+34598.56,tool,STG907,process completed,907,STG907,Lot626,,
+34598.56,tool,STG907,process completed,907,STG907,Lot627,,
+34598.56,tool,STG907,process completed,907,STG907,Lot628,,
+34598.56,tool,VFP701,batch dispatched,908,VFP701,Lot626;Lot627;Lot628,,3 lots
+34614.41,tool,VFP702,process completed,908,VFP702,Lot617;Lot618;Lot619,,
+34614.41,tool,VFP702,in process,908,VFP702,Lot623;Lot624;Lot625,,
+34709.694,tool,VFP701,process completed,908,VFP701,Lot620;Lot621;Lot622,,
+34709.694,tool,VFP701,in process,908,VFP701,Lot626;Lot627;Lot628,,
+34739.604,tool,STG907,in process,907,STG907,Lot629,,1 lot
+34739.604,tool,STG907,in process,907,STG907,Lot630,,1 lot
+34739.604,tool,STG907,in process,907,STG907,Lot631,,1 lot
+34740.604,tool,STG907,process completed,907,STG907,Lot629,,
+34740.604,tool,STG907,process completed,907,STG907,Lot630,,
+34740.604,tool,STG907,process completed,907,STG907,Lot631,,
+34740.604,tool,VFP702,batch dispatched,908,VFP702,Lot629;Lot630;Lot631,,3 lots
+34808.42,tool,STG907,in process,907,STG907,Lot632,,1 lot
+34808.42,tool,STG907,in process,907,STG907,Lot633,,1 lot
+34808.42,tool,STG907,in process,907,STG907,Lot634,,1 lot
+34809.42,tool,STG907,process completed,907,STG907,Lot632,,
+34809.42,tool,STG907,process completed,907,STG907,Lot633,,
+34809.42,tool,STG907,process completed,907,STG907,Lot634,,
+34809.42,tool,VFP701,batch dispatched,908,VFP701,Lot632;Lot633;Lot634,,3 lots
+34974.41,tool,VFP702,process completed,908,VFP702,Lot623;Lot624;Lot625,,
+34974.41,tool,VFP702,in process,908,VFP702,Lot629;Lot630;Lot631,,
+35029.182,tool,STG907,in process,907,STG907,Lot635,,1 lot
+35029.182,tool,STG907,in process,907,STG907,Lot636,,1 lot
+35029.182,tool,STG907,in process,907,STG907,Lot637,,1 lot
+35030.182,tool,STG907,process completed,907,STG907,Lot635,,
+35030.182,tool,STG907,process completed,907,STG907,Lot636,,
+35030.182,tool,STG907,process completed,907,STG907,Lot637,,
+35030.182,tool,VFP702,batch dispatched,908,VFP702,Lot635;Lot636;Lot637,,3 lots
+35069.694,tool,VFP701,process completed,908,VFP701,Lot626;Lot627;Lot628,,
+35069.694,tool,VFP701,in process,908,VFP701,Lot632;Lot633;Lot634,,
+35334.41,tool,VFP702,process completed,908,VFP702,Lot629;Lot630;Lot631,,
+35334.41,tool,VFP702,in process,908,VFP702,Lot635;Lot636;Lot637,,
+35355.599,tool,STG907,in process,907,STG907,Lot638,,1 lot
+35355.599,tool,STG907,in process,907,STG907,Lot639,,1 lot
+35355.599,tool,STG907,in process,907,STG907,Lot640,,1 lot
+35356.599,tool,STG907,process completed,907,STG907,Lot638,,
+35356.599,tool,STG907,process completed,907,STG907,Lot639,,
+35356.599,tool,STG907,process completed,907,STG907,Lot640,,
+35356.599,tool,VFP701,batch dispatched,908,VFP701,Lot638;Lot639;Lot640,,3 lots
+35429.694,tool,VFP701,process completed,908,VFP701,Lot632;Lot633;Lot634,,
+35429.694,tool,VFP701,in process,908,VFP701,Lot638;Lot639;Lot640,,
+35556.597,tool,STG907,in process,907,STG907,Lot641,,1 lot
+35556.597,tool,STG907,in process,907,STG907,Lot642,,1 lot
+35556.597,tool,STG907,in process,907,STG907,Lot643,,1 lot
+35557.597,tool,STG907,process completed,907,STG907,Lot641,,
+35557.597,tool,STG907,process completed,907,STG907,Lot642,,
+35557.597,tool,STG907,process completed,907,STG907,Lot643,,
+35557.597,tool,VFP702,batch dispatched,908,VFP702,Lot641;Lot642;Lot643,,3 lots
+35694.41,tool,VFP702,process completed,908,VFP702,Lot635;Lot636;Lot637,,
+35694.41,tool,VFP702,in process,908,VFP702,Lot641;Lot642;Lot643,,
+35724.303,tool,STG907,in process,907,STG907,Lot644,,1 lot
+35724.303,tool,STG907,in process,907,STG907,Lot645,,1 lot
+35724.303,tool,STG907,in process,907,STG907,Lot646,,1 lot
+35725.303,tool,STG907,process completed,907,STG907,Lot644,,
+35725.303,tool,STG907,process completed,907,STG907,Lot645,,
+35725.303,tool,STG907,process completed,907,STG907,Lot646,,
+35725.303,tool,VFP701,batch dispatched,908,VFP701,Lot644;Lot645;Lot646,,3 lots
+35789.694,tool,VFP701,process completed,908,VFP701,Lot638;Lot639;Lot640,,
+35789.694,tool,VFP701,in process,908,VFP701,Lot644;Lot645;Lot646,,
+36036.073,tool,STG907,in process,907,STG907,Lot647,,1 lot
+36036.073,tool,STG907,in process,907,STG907,Lot648,,1 lot
+36036.073,tool,STG907,in process,907,STG907,Lot649,,1 lot
+36037.073,tool,STG907,process completed,907,STG907,Lot647,,
+36037.073,tool,STG907,process completed,907,STG907,Lot648,,
+36037.073,tool,STG907,process completed,907,STG907,Lot649,,
+36037.073,tool,VFP702,batch dispatched,908,VFP702,Lot647;Lot648;Lot649,,3 lots
+36054.41,tool,VFP702,process completed,908,VFP702,Lot641;Lot642;Lot643,,
+36054.41,tool,VFP702,in process,908,VFP702,Lot647;Lot648;Lot649,,
+36149.694,tool,VFP701,process completed,908,VFP701,Lot644;Lot645;Lot646,,
+36149.694,tool,VFP701,PM started,,VFP701,,,trigger: run count
+36353.975,tool,STG907,in process,907,STG907,Lot650,,1 lot
+36353.975,tool,STG907,in process,907,STG907,Lot651,,1 lot
+36353.975,tool,STG907,in process,907,STG907,Lot652,,1 lot
+36354.975,tool,STG907,process completed,907,STG907,Lot650,,
+36354.975,tool,STG907,process completed,907,STG907,Lot651,,
+36354.975,tool,STG907,process completed,907,STG907,Lot652,,
+36354.975,tool,VFP702,batch dispatched,908,VFP702,Lot650;Lot651;Lot652,,3 lots
+36414.41,tool,VFP702,process completed,908,VFP702,Lot647;Lot648;Lot649,,
+36414.41,tool,VFP702,in process,908,VFP702,Lot650;Lot651;Lot652,,
+36553.555,tool,STG907,in process,907,STG907,Lot653,,1 lot
+36553.555,tool,STG907,in process,907,STG907,Lot654,,1 lot
+36553.555,tool,STG907,in process,907,STG907,Lot655,,1 lot
+36554.555,tool,STG907,process completed,907,STG907,Lot653,,
+36554.555,tool,STG907,process completed,907,STG907,Lot654,,
+36554.555,tool,STG907,process completed,907,STG907,Lot655,,
+36554.555,tool,VFP702,batch dispatched,908,VFP702,Lot653;Lot654;Lot655,,3 lots
+36629.694,tool,VFP701,PM completed,,VFP701,,,trigger: run count
+36774.41,tool,VFP702,process completed,908,VFP702,Lot650;Lot651;Lot652,,
+36774.41,tool,VFP702,in process,908,VFP702,Lot653;Lot654;Lot655,,
+36789.807,tool,STG907,in process,907,STG907,Lot656,,1 lot
+36789.807,tool,STG907,in process,907,STG907,Lot657,,1 lot
+36789.807,tool,STG907,in process,907,STG907,Lot658,,1 lot
+36790.807,tool,STG907,process completed,907,STG907,Lot656,,
+36790.807,tool,STG907,process completed,907,STG907,Lot657,,
+36790.807,tool,STG907,process completed,907,STG907,Lot658,,
+36790.807,tool,VFP701,batch dispatched,908,VFP701,Lot656;Lot657;Lot658,,3 lots
+36790.807,tool,VFP701,in process,908,VFP701,Lot656;Lot657;Lot658,,
+36969.177,tool,STG907,in process,907,STG907,Lot659,,1 lot
+36969.177,tool,STG907,in process,907,STG907,Lot660,,1 lot
+36969.177,tool,STG907,in process,907,STG907,Lot661,,1 lot
+36970.177,tool,STG907,process completed,907,STG907,Lot659,,
+36970.177,tool,STG907,process completed,907,STG907,Lot660,,
+36970.177,tool,STG907,process completed,907,STG907,Lot661,,
+36970.177,tool,VFP702,batch dispatched,908,VFP702,Lot659;Lot660;Lot661,,3 lots
+37056.793,tool,STG907,in process,907,STG907,Lot662,,1 lot
+37056.793,tool,STG907,in process,907,STG907,Lot663,,1 lot
+37056.793,tool,STG907,in process,907,STG907,Lot664,,1 lot
+37057.793,tool,STG907,process completed,907,STG907,Lot662,,
+37057.793,tool,STG907,process completed,907,STG907,Lot663,,
+37057.793,tool,STG907,process completed,907,STG907,Lot664,,
+37057.793,tool,VFP701,batch dispatched,908,VFP701,Lot662;Lot663;Lot664,,3 lots
+37134.41,tool,VFP702,process completed,908,VFP702,Lot653;Lot654;Lot655,,
+37134.41,tool,VFP702,in process,908,VFP702,Lot659;Lot660;Lot661,,
+37150.807,tool,VFP701,process completed,908,VFP701,Lot656;Lot657;Lot658,,
+37150.807,tool,VFP701,in process,908,VFP701,Lot662;Lot663;Lot664,,
+37228.85,tool,STG907,in process,907,STG907,Lot665,,1 lot
+37228.85,tool,STG907,in process,907,STG907,Lot666,,1 lot
+37228.85,tool,STG907,in process,907,STG907,Lot667,,1 lot
+37229.85,tool,STG907,process completed,907,STG907,Lot665,,
+37229.85,tool,STG907,process completed,907,STG907,Lot666,,
+37229.85,tool,STG907,process completed,907,STG907,Lot667,,
+37229.85,tool,VFP702,batch dispatched,908,VFP702,Lot665;Lot666;Lot667,,3 lots
+37328.883,tool,STG907,in process,907,STG907,Lot668,,1 lot
+37328.883,tool,STG907,in process,907,STG907,Lot669,,1 lot
+37328.883,tool,STG907,in process,907,STG907,Lot670,,1 lot
+37329.883,tool,STG907,process completed,907,STG907,Lot668,,
+37329.883,tool,STG907,process completed,907,STG907,Lot669,,
+37329.883,tool,STG907,process completed,907,STG907,Lot670,,
+37329.883,tool,VFP701,batch dispatched,908,VFP701,Lot668;Lot669;Lot670,,3 lots
+37494.41,tool,VFP702,process completed,908,VFP702,Lot659;Lot660;Lot661,,
+37494.41,tool,VFP702,in process,908,VFP702,Lot665;Lot666;Lot667,,
+37510.807,tool,VFP701,process completed,908,VFP701,Lot662;Lot663;Lot664,,
+37510.807,tool,VFP701,in process,908,VFP701,Lot668;Lot669;Lot670,,
+37643.152,tool,STG907,in process,907,STG907,Lot671,,1 lot
+37643.152,tool,STG907,in process,907,STG907,Lot672,,1 lot
+37643.152,tool,STG907,in process,907,STG907,Lot673,,1 lot
+37644.152,tool,STG907,process completed,907,STG907,Lot671,,
+37644.152,tool,STG907,process completed,907,STG907,Lot672,,
+37644.152,tool,STG907,process completed,907,STG907,Lot673,,
+37644.152,tool,VFP702,batch dispatched,908,VFP702,Lot671;Lot672;Lot673,,3 lots
+37814.025,tool,STG907,in process,907,STG907,Lot674,,1 lot
+37814.025,tool,STG907,in process,907,STG907,Lot675,,1 lot
+37814.025,tool,STG907,in process,907,STG907,Lot676,,1 lot
+37815.025,tool,STG907,process completed,907,STG907,Lot674,,
+37815.025,tool,STG907,process completed,907,STG907,Lot675,,
+37815.025,tool,STG907,process completed,907,STG907,Lot676,,
+37815.025,tool,VFP701,batch dispatched,908,VFP701,Lot674;Lot675;Lot676,,3 lots
+37854.41,tool,VFP702,process completed,908,VFP702,Lot665;Lot666;Lot667,,
+37854.41,tool,VFP702,in process,908,VFP702,Lot671;Lot672;Lot673,,
+37870.807,tool,VFP701,process completed,908,VFP701,Lot668;Lot669;Lot670,,
+37870.807,tool,VFP701,in process,908,VFP701,Lot674;Lot675;Lot676,,
+37986.754,tool,STG907,in process,907,STG907,Lot677,,1 lot
+37986.754,tool,STG907,in process,907,STG907,Lot678,,1 lot
+37986.754,tool,STG907,in process,907,STG907,Lot679,,1 lot
+37987.754,tool,STG907,process completed,907,STG907,Lot677,,
+37987.754,tool,STG907,process completed,907,STG907,Lot678,,
+37987.754,tool,STG907,process completed,907,STG907,Lot679,,
+37987.754,tool,VFP702,batch dispatched,908,VFP702,Lot677;Lot678;Lot679,,3 lots
+38128.609,tool,STG907,in process,907,STG907,Lot680,,1 lot
+38128.609,tool,STG907,in process,907,STG907,Lot681,,1 lot
+38128.609,tool,STG907,in process,907,STG907,Lot682,,1 lot
+38129.609,tool,STG907,process completed,907,STG907,Lot680,,
+38129.609,tool,STG907,process completed,907,STG907,Lot681,,
+38129.609,tool,STG907,process completed,907,STG907,Lot682,,
+38129.609,tool,VFP701,batch dispatched,908,VFP701,Lot680;Lot681;Lot682,,3 lots
+38214.41,tool,VFP702,process completed,908,VFP702,Lot671;Lot672;Lot673,,
+38214.41,tool,VFP702,in process,908,VFP702,Lot677;Lot678;Lot679,,
+38230.807,tool,VFP701,process completed,908,VFP701,Lot674;Lot675;Lot676,,
+38230.807,tool,VFP701,in process,908,VFP701,Lot680;Lot681;Lot682,,
+38254.04,tool,STG907,in process,907,STG907,Lot683,,1 lot
+38254.04,tool,STG907,in process,907,STG907,Lot684,,1 lot
+38254.04,tool,STG907,in process,907,STG907,Lot685,,1 lot
+38255.04,tool,STG907,process completed,907,STG907,Lot683,,
+38255.04,tool,STG907,process completed,907,STG907,Lot684,,
+38255.04,tool,STG907,process completed,907,STG907,Lot685,,
+38255.04,tool,VFP702,batch dispatched,908,VFP702,Lot683;Lot684;Lot685,,3 lots
+38422.767,tool,STG907,in process,907,STG907,Lot686,,1 lot
+38422.767,tool,STG907,in process,907,STG907,Lot687,,1 lot
+38422.767,tool,STG907,in process,907,STG907,Lot688,,1 lot
+38423.767,tool,STG907,process completed,907,STG907,Lot686,,
+38423.767,tool,STG907,process completed,907,STG907,Lot687,,
+38423.767,tool,STG907,process completed,907,STG907,Lot688,,
+38423.767,tool,VFP701,batch dispatched,908,VFP701,Lot686;Lot687;Lot688,,3 lots
+38574.41,tool,VFP702,process completed,908,VFP702,Lot677;Lot678;Lot679,,
+38574.41,tool,VFP702,in process,908,VFP702,Lot683;Lot684;Lot685,,
+38590.807,tool,VFP701,process completed,908,VFP701,Lot680;Lot681;Lot682,,
+38590.807,tool,VFP701,in process,908,VFP701,Lot686;Lot687;Lot688,,
+38635.599,tool,STG907,in process,907,STG907,Lot689,,1 lot
+38635.599,tool,STG907,in process,907,STG907,Lot690,,1 lot
+38635.599,tool,STG907,in process,907,STG907,Lot691,,1 lot
+38636.599,tool,STG907,process completed,907,STG907,Lot689,,
+38636.599,tool,STG907,process completed,907,STG907,Lot690,,
+38636.599,tool,STG907,process completed,907,STG907,Lot691,,
+38636.599,tool,VFP701,batch dispatched,908,VFP701,Lot689;Lot690;Lot691,,3 lots
+38934.41,tool,VFP702,process completed,908,VFP702,Lot683;Lot684;Lot685,,
+38934.41,tool,VFP702,PM started,,VFP702,,,trigger: run count
+38950.807,tool,VFP701,process completed,908,VFP701,Lot686;Lot687;Lot688,,
+38950.807,tool,VFP701,in process,908,VFP701,Lot689;Lot690;Lot691,,
+38950.807,tool,STG907,in process,907,STG907,Lot692,,1 lot
+38950.807,tool,STG907,in process,907,STG907,Lot693,,1 lot
+38950.807,tool,STG907,in process,907,STG907,Lot694,,1 lot
+38951.807,tool,STG907,process completed,907,STG907,Lot692,,
+38951.807,tool,STG907,process completed,907,STG907,Lot693,,
+38951.807,tool,STG907,process completed,907,STG907,Lot694,,
+38951.807,tool,VFP701,batch dispatched,908,VFP701,Lot692;Lot693;Lot694,,3 lots
+39310.807,tool,VFP701,process completed,908,VFP701,Lot689;Lot690;Lot691,,
+39310.807,tool,VFP701,in process,908,VFP701,Lot692;Lot693;Lot694,,
+39310.807,tool,STG907,in process,907,STG907,Lot695,,1 lot
+39310.807,tool,STG907,in process,907,STG907,Lot696,,1 lot
+39310.807,tool,STG907,in process,907,STG907,Lot697,,1 lot
+39311.807,tool,STG907,process completed,907,STG907,Lot695,,
+39311.807,tool,STG907,process completed,907,STG907,Lot696,,
+39311.807,tool,STG907,process completed,907,STG907,Lot697,,
+39311.807,tool,VFP701,batch dispatched,908,VFP701,Lot695;Lot696;Lot697,,3 lots
+39414.41,tool,VFP702,PM completed,,VFP702,,,trigger: run count
+39414.41,tool,STG907,in process,907,STG907,Lot698,,1 lot
+39414.41,tool,STG907,in process,907,STG907,Lot699,,1 lot
+39414.41,tool,STG907,in process,907,STG907,Lot700,,1 lot
+39415.41,tool,STG907,process completed,907,STG907,Lot698,,
+39415.41,tool,STG907,process completed,907,STG907,Lot699,,
+39415.41,tool,STG907,process completed,907,STG907,Lot700,,
+39415.41,tool,VFP702,batch dispatched,908,VFP702,Lot698;Lot699;Lot700,,3 lots
+39415.41,tool,VFP702,in process,908,VFP702,Lot698;Lot699;Lot700,,
+39478.398,tool,STG907,in process,907,STG907,Lot701,,1 lot
+39478.398,tool,STG907,in process,907,STG907,Lot702,,1 lot
+39478.398,tool,STG907,in process,907,STG907,Lot703,,1 lot
+39479.398,tool,STG907,process completed,907,STG907,Lot701,,
+39479.398,tool,STG907,process completed,907,STG907,Lot702,,
+39479.398,tool,STG907,process completed,907,STG907,Lot703,,
+39479.398,tool,VFP702,batch dispatched,908,VFP702,Lot701;Lot702;Lot703,,3 lots
+39670.807,tool,VFP701,process completed,908,VFP701,Lot692;Lot693;Lot694,,
+39670.807,tool,VFP701,in process,908,VFP701,Lot695;Lot696;Lot697,,
+39717.383,tool,STG907,in process,907,STG907,Lot704,,1 lot
+39717.383,tool,STG907,in process,907,STG907,Lot705,,1 lot
+39717.383,tool,STG907,in process,907,STG907,Lot706,,1 lot
+39718.383,tool,STG907,process completed,907,STG907,Lot704,,
+39718.383,tool,STG907,process completed,907,STG907,Lot705,,
+39718.383,tool,STG907,process completed,907,STG907,Lot706,,
+39718.383,tool,VFP701,batch dispatched,908,VFP701,Lot704;Lot705;Lot706,,3 lots
+39775.41,tool,VFP702,process completed,908,VFP702,Lot698;Lot699;Lot700,,
+39775.41,tool,VFP702,in process,908,VFP702,Lot701;Lot702;Lot703,,
+39948.964,tool,STG907,in process,907,STG907,Lot707,,1 lot
+39948.964,tool,STG907,in process,907,STG907,Lot708,,1 lot
+39948.964,tool,STG907,in process,907,STG907,Lot709,,1 lot
+39949.964,tool,STG907,process completed,907,STG907,Lot707,,
+39949.964,tool,STG907,process completed,907,STG907,Lot708,,
+39949.964,tool,STG907,process completed,907,STG907,Lot709,,
+39949.964,tool,VFP702,batch dispatched,908,VFP702,Lot707;Lot708;Lot709,,3 lots
+40030.807,tool,VFP701,process completed,908,VFP701,Lot695;Lot696;Lot697,,
+40030.807,tool,VFP701,in process,908,VFP701,Lot704;Lot705;Lot706,,
+40038.955,tool,STG907,in process,907,STG907,Lot710,,1 lot
+40038.955,tool,STG907,in process,907,STG907,Lot711,,1 lot
+40038.955,tool,STG907,in process,907,STG907,Lot712,,1 lot
+40039.955,tool,STG907,process completed,907,STG907,Lot710,,
+40039.955,tool,STG907,process completed,907,STG907,Lot711,,
+40039.955,tool,STG907,process completed,907,STG907,Lot712,,
+40039.955,tool,VFP701,batch dispatched,908,VFP701,Lot710;Lot711;Lot712,,3 lots
+40135.41,tool,VFP702,process completed,908,VFP702,Lot701;Lot702;Lot703,,
+40135.41,tool,VFP702,in process,908,VFP702,Lot707;Lot708;Lot709,,
