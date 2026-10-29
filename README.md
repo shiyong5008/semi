@@ -10,10 +10,6 @@ three configuration files in `data/`:
 - `poly_config_tool-ops.csv` maps tools to operations and defines wafer batch
   limits and processing time per load.
 
-The configured flow modeled by the simulator is operation 907 followed by
-operation 908. There is no WetEtch step in these configuration files, and this
-project does not use a `job_routes.csv` route table.
-
 ## Simulation parameters
 
 Edit `data/simulation_parameters.csv` to set the run inputs:
@@ -65,3 +61,37 @@ By default, the simulation writes these files to `output/`:
 
 Times in the logs are simulated minutes. Change the output path with
 `--output-dir`, or the configuration directory with `--data-dir`.
+
+## Interactive analysis report
+
+The standalone report reads the existing event log and configuration CSVs. It
+does not rerun or modify the simulation, and it uses only the Python standard
+library:
+
+```sh
+python tools/generate_report.py
+```
+
+By default, this reads `output/events.csv` and creates
+`output/analysis_report.html`. Open that HTML file in a browser to use the
+timeline slider, view operation status, and explore the WIP trend. If the event
+log is not present yet, run `python -m fab_sim` first.
+
+The report displays WIP, in-process, and hold quantities in wafers. Tool badges
+show the status at the selected simulation time: Idle (white), Run (green), or
+PM (yellow). The default sampling interval is 5 simulated minutes; change it
+with `--step-minutes`:
+
+```sh
+python tools/generate_report.py --step-minutes 1
+```
+
+To open the report in a remote development environment, serve the `output/`
+directory and use the forwarded port in your browser:
+
+```sh
+python -m http.server 8000 --directory output
+```
+
+Then open `http://localhost:8000/analysis_report.html` (or use the environment's
+port-forwarding link). Stop the server with `Ctrl+C`.
